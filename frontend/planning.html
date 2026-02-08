@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoRest - Plan Your Trip</title>
+    <link rel="stylesheet" href="css/planning.css">
+    <!-- Using Leaflet CSS for map placeholder styling if needed later -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Leaflet Routing Machine CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">GoRest</div>
+        <div class="user-menu">
+            <span class="user-name">Welcome, Traveler</span>
+            <i class="fas fa-user-circle"></i>
+        </div>
+    </header>
+
+    <div class="main-container">
+        <!-- Sidebar / Details Panel -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Plan Your Journey</h2>
+            </div>
+
+            <form class="trip-form">
+                <div class="form-group">
+                    <label for="start-location"><i class="fas fa-map-marker-alt" style="color: #2ECC71;"></i> Start
+                        Location</label>
+                    <input type="text" id="start-location" placeholder="Enter starting point" required>
+                </div>
+
+                <div class="form-group checkbox-group"
+                    style="margin-top: -10px; display: flex; align-items: center; gap: 8px;">
+                    <input type="checkbox" id="use-current-location" style="width: auto;">
+                    <label for="use-current-location" style="margin-bottom: 0; cursor: pointer;">Use Current
+                        Location</label>
+                </div>
+
+                <div class="form-group">
+                    <label for="destination"><i class="fas fa-map-marker-alt" style="color: #e74c3c;"></i>
+                        Destination</label>
+                    <input type="text" id="destination" placeholder="Enter destination" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="vehicle-type"><i class="fas fa-car"></i> Vehicle Type</label>
+                    <select id="vehicle-type">
+                        <option value="car">Car</option>
+                        <option value="bike">Bike</option>
+                        <option value="bus">Bus</option>
+                        <option value="ev">Electric Vehicle</option>
+                    </select>
+                </div>
+
+                <div class="form-group" id="ev-type-group" style="display: none;">
+                    <label for="ev-type"><i class="fas fa-bolt" style="color: #f1c40f;"></i> EV Type</label>
+                    <select id="ev-type">
+                        <option value="electric_bike">Electric Bike</option>
+                        <option value="electric_car">Electric Car</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="pitstop-mode"><i class="fas fa-gas-pump" style="color: #e67e22;"></i> Pitstop
+                        Planning</label>
+                    <select id="pitstop-mode">
+                        <option value="ai">AI Suggested</option>
+                        <option value="manual">Manual</option>
+                    </select>
+                </div>
+
+                <div class="form-group" id="manual-pitstop-group" style="display: none;">
+                    <label for="pitstop-distance">Enter pitstop distance (km)</label>
+                    <input type="number" id="pitstop-distance" placeholder="e.g. 200" min="1">
+                </div>
+
+                <div class="form-group">
+                    <label for="route-preference"><i class="fas fa-route" style="color: #3498db;"></i> Route
+                        Preference</label>
+                    <select id="route-preference">
+                        <option value="fastest">Fastest Route (Toll Allowed)</option>
+                        <option value="avoid_toll">Avoid Toll Route</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-plan">Show Route</button>
+            </form>
+
+            <div class="trip-summary" id="trip-summary" style="display: none;">
+                <h3>Trip Summary</h3>
+                <div class="summary-item">
+                    <span>Distance:</span> <span id="distance-val">0 km</span>
+                </div>
+                <div class="summary-item">
+                    <span>Est. Time:</span> <span id="duration-val">0 hrs 0 mins</span>
+                </div>
+                <div class="summary-item">
+                    <span>Stops:</span> <span id="stops-val">0</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Map Container -->
+        <main class="map-container" id="map">
+            <!-- Map will be rendered here -->
+            <!-- Map will be rendered here -->
+        </main>
+    </div>
+
+    <!-- Leaflet JS (included for future logic, not used yet per requirements) -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <!-- Leaflet Routing Machine JS -->
+    <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+    <script src="js/planning.js"></script>
+</body>
+
+</html>

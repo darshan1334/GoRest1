@@ -1,0 +1,214 @@
+:root {
+    --primary-color: #2ECC71;
+    --primary-dark: #27AE60;
+    --text-color: #2C3E50;
+    --bg-light: #F9F9F9;
+    --white: #FFFFFF;
+    --sidebar-width: 350px;
+    --header-height: 60px;
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --font-stack: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-stack);
+    color: var(--text-color);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    /* Prevent scroll on body, scroll inside components if needed */
+}
+
+/* Header */
+.header {
+    height: var(--header-height);
+    background-color: var(--white);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.user-menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.user-menu i {
+    font-size: 1.5rem;
+    color: #888;
+}
+
+/* Main Layout */
+.main-container {
+    display: flex;
+    height: calc(100vh - var(--header-height));
+}
+
+/* Sidebar */
+.sidebar {
+    width: var(--sidebar-width);
+    background-color: var(--white);
+    padding: 1.5rem;
+    border-right: 1px solid #eee;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.02);
+    display: flex;
+    flex-direction: column;
+    z-index: 900;
+}
+
+.sidebar-header {
+    margin-bottom: 2rem;
+}
+
+.sidebar-header h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+/* Form Styles */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #555;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.form-group input,
+.form-group select {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 0.95rem;
+    transition: all 0.3s;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(46, 204, 113, 0.1);
+}
+
+.btn-plan {
+    width: 100%;
+    padding: 0.9rem;
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: none;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0 4px 6px rgba(46, 204, 113, 0.2);
+}
+
+.btn-plan:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px);
+}
+
+/* Trip Summary (Hidden by default) */
+.trip-summary {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #f0fdf4;
+    /* Light green bg */
+    border: 1px solid #dcfce7;
+    border-radius: 8px;
+}
+
+.trip-summary h3 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: var(--primary-dark);
+}
+
+.summary-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.summary-item span:last-child {
+    font-weight: 600;
+}
+
+/* Map Area */
+.map-container {
+    flex: 1;
+    background-color: #e5e7eb;
+    /* Placeholder gray */
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map-placeholder {
+    text-align: center;
+    color: #9ca3af;
+}
+
+.map-placeholder i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .main-container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        max-height: 50vh;
+        /* Allow map to be visible */
+        border-right: none;
+        border-bottom: 1px solid #eee;
+        padding: 1rem;
+    }
+
+    .map-container {
+        flex: 1;
+        /* Takes remaining height */
+    }
+
+    .header {
+        padding: 0 1rem;
+    }
+}
