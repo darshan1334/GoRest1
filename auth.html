@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoRest - Sign In</title>
+    <link rel="stylesheet" href="auth.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="auth-container">
+        <div class="auth-card">
+            <div class="logo">GoRest</div>
+
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('login')">Sign In</button>
+                <button class="tab-btn" onclick="switchTab('signup')">Sign Up</button>
+            </div>
+
+            <!-- Login Form -->
+            <form id="login-form" class="auth-form active">
+                <h2>Welcome Back</h2>
+                <div class="form-group">
+                    <label for="login-email">Email Address</label>
+                    <input type="email" id="login-email" placeholder="Enter your email" required>
+                </div>
+                <div class="form-group">
+                    <label for="login-password">Password</label>
+                    <input type="password" id="login-password" placeholder="Enter your password" required>
+                </div>
+                <div class="form-actions">
+                    <a href="#" onclick="showForgotPassword(event)" class="forgot-password">Forgot Password?</a>
+                </div>
+                <button type="submit" class="btn btn-primary">Sign In</button>
+            </form>
+
+            <!-- Signup Form -->
+            <form id="signup-form" class="auth-form">
+                <h2>Create Account</h2>
+                <div class="form-group">
+                    <label for="signup-name">Full Name</label>
+                    <input type="text" id="signup-name" placeholder="Enter your full name" required>
+                </div>
+                <div class="form-group">
+                    <label for="signup-email">Email Address</label>
+                    <input type="email" id="signup-email" placeholder="Enter your email" required>
+                </div>
+                <div class="form-group">
+                    <label for="signup-password">Password</label>
+                    <input type="password" id="signup-password" placeholder="Create a password" required>
+                </div>
+                <div class="form-group">
+                    <label for="signup-confirm">Confirm Password</label>
+                    <input type="password" id="signup-confirm" placeholder="Confirm your password" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Sign Up</button>
+            </form>
+
+            <!-- Forgot Password Form -->
+            <form id="forgot-form" class="auth-form">
+                <h2>Reset Password</h2>
+                <p class="description">Enter your email address and we'll send you a link to reset your password.</p>
+                <div class="form-group">
+                    <label for="forgot-email">Email Address</label>
+                    <input type="email" id="forgot-email" placeholder="Enter your email" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Send Reset Link</button>
+                <div class="form-actions center">
+                    <a href="#" onclick="switchTab('login')" class="back-link">Back to Sign In</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function switchTab(tabName) {
+            // Hide all forms
+            document.querySelectorAll('.auth-form').forEach(form => form.classList.remove('active'));
+            // Remove active class from tabs
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+
+            if (tabName === 'login') {
+                document.getElementById('login-form').classList.add('active');
+                document.querySelector('.tab-btn:first-child').classList.add('active');
+            } else if (tabName === 'signup') {
+                document.getElementById('signup-form').classList.add('active');
+                document.querySelector('.tab-btn:last-child').classList.add('active');
+            }
+
+            // Hide forgot password specifically if switching tabs
+            document.getElementById('forgot-form').classList.remove('active');
+        }
+
+        function showForgotPassword(event) {
+            event.preventDefault();
+            document.querySelectorAll('.auth-form').forEach(form => form.classList.remove('active'));
+            document.getElementById('forgot-form').classList.add('active');
+            // Deselect tabs visually
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+        }
+    </script>
+</body>
+
+</html>
