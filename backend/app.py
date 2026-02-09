@@ -1,4 +1,6 @@
 from flask import Flask, jsonify, request
+import requests
+import math
 from flask_cors import CORS
 import json
 import os
@@ -108,6 +110,108 @@ def get_trips():
         "count": len(trips),
         "trips": trips
     }), 200
+
+def calculate_distance(lat1, lon1, lat2, lon2):
+    """
+    Calculate the great circle distance between two points 
+    on the earth (specified in decimal degrees) using Haversine formula.
+    Returns distance in kilometers.
+    """
+    # Convert decimal degrees to radians 
+    lat1, lon1, lat2, lon2 = map(math.radians, [float(lat1), float(lon1), float(lat2), float(lon2)])
+
+    # Haversine formula 
+    dlon = lon2 - lon1 
+    dlat = lat2 - lat1 
+    a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon/2)**2
+    c = 2 * math.asin(math.sqrt(a)) 
+    r = 6371 # Radius of earth in kilometers. Use 3956 for miles
+    return c * r
+
+@app.route('/api/services', methods=['GET'])
+def get_nearby_services():
+    """
+    Fetch nearby services (fuel, restaurants, hospitals, hotels, mechanics) using Overpass API.
+    Query Params: lat, lon, radius (default 2000m)
+    Returns list with distance calculated from the query point.
+    """
+    try:
+        lat_param = request.args.get('lat')
+        lon_param = request.args.get('lon')
+        radius = request.args.get('radius', 2000)
+
+        if not lat_param or not lon_param:
+            return jsonify({"error": "Missing lat or lon parameters"}), 400
+            
+        center_lat = float(lat_param)
+        center_lon = float(lon_param)
+
+        # Overpass API Query
+        overpass_url = "http://overpass-api.de/api/interpreter"
+        query = f"""
+        [out:json];
+        (
+          node["amenity"="fuel"](around:{radius},{center_lat},{center_lon});
+          node["amenity"="restaurant"](around:{radius},{center_lat},{center_lon});
+          node["amenity"="hospital"](around:{radius},{center_lat},{center_lon});
+          node["tourism"="hotel"](around:{radius},{center_lat},{center_lon});
+          node["shop"="car_repair"](around:{radius},{center_lat},{center_lon});
+        );
+        out body;
+        """
+        
+        response = requests.get(overpass_url, params={'data': query})
+        
+        if response.status_code != 200:
+            return jsonify({"error": "Failed to fetch from Overpass API"}), 502
+
+        data = response.json()
+        
+        # Process and normalize data
+        services = {
+            "fuel": [],
+            "restaurants": [],
+            "hospitals": [],
+            "hotels": [],
+            "mechanics": []
+        }
+
+        for element in data.get('elements', []):
+            tags = element.get('tags', {})
+            name = tags.get('name', 'Unknown')
+            lat = element.get('lat')
+            lon = element.get('lon')
+            
+            # Calculate distance
+            dist = calculate_distance(center_lat, center_lon, lat, lon)
+            dist_formatted = round(dist, 2)
+            
+            item = {
+                "name": name, 
+                "lat": lat, 
+                "lon": lon,
+                "distance": dist_formatted
+            }
+
+            if tags.get('amenity') == 'fuel':
+                services['fuel'].append(item)
+            elif tags.get('amenity') == 'restaurant':
+                services['restaurants'].append(item)
+            elif tags.get('amenity') == 'hospital':
+                services['hospitals'].append(item)
+            elif tags.get('tourism') == 'hotel':
+                services['hotels'].append(item)
+            elif tags.get('shop') == 'car_repair':
+                services['mechanics'].append(item)
+
+        # Sort items by distance within each category (optional but good for UX)
+        for cat in services:
+            services[cat].sort(key=lambda x: x['distance'])
+
+        return jsonify(services), 200
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     # Run the app on port 5000, debug mode on for development

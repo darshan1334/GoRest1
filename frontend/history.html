@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoRest | Trip History</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .history-container {
+            padding: 2rem 5%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .history-title {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+        }
+        
+        .table-wrapper {
+            background-color: var(--white);
+            border-radius: 10px;
+            box-shadow: var(--shadow);
+            overflow-x: auto;
+            padding: 1rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 600px;
+        }
+        
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        
+        th {
+            background-color: #f8f9fa;
+            color: var(--text-color);
+            font-weight: 600;
+        }
+        
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        
+        .no-trips {
+            text-align: center;
+            padding: 2rem;
+            color: #777;
+            font-size: 1.2rem;
+        }
+        
+        .error-message {
+            color: #e74c3c;
+            text-align: center;
+            padding: 1rem;
+        }
+        
+        .back-btn-container {
+            margin-top: 2rem;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">GoRest</div>
+        <nav>
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="planning.html" class="nav-link">Plan Trip</a>
+            <a href="#" class="nav-link active">History</a>
+        </nav>
+    </header>
+
+    <main class="history-container">
+        <h1 class="history-title">My Trip History</h1>
+        
+        <div class="table-wrapper">
+            <table id="tripsTable">
+                <thead>
+                    <tr>
+                        <th>Start</th>
+                        <th>Destination</th>
+                        <th>Vehicle</th>
+                        <th>Distance (km)</th>
+                        <th>Duration (hrs)</th>
+                        <th>Stops</th>
+                    </tr>
+                </thead>
+                <tbody id="tripsBody">
+                    <!-- Rows will be inserted here -->
+                </tbody>
+            </table>
+            <div id="noTripsMessage" class="no-trips" style="display: none;">
+                No trips found. Start planning your journey!
+            </div>
+            <div id="errorMessage" class="error-message" style="display: none;"></div>
+        </div>
+        
+        <div class="back-btn-container">
+            <a href="planning.html" class="btn btn-primary">Plan New Trip</a>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 GoRest. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', fetchTrips);
+
+        async function fetchTrips() {
+            const tripsBody = document.getElementById('tripsBody');
+            const noTripsMessage = document.getElementById('noTripsMessage');
+            const errorMessage = document.getElementById('errorMessage');
+            const table = document.getElementById('tripsTable');
+
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/trips');
+                
+                if (!response.ok) {
+                    throw new Error('Failed to fetch trips');
+                }
+
+                const data = await response.json();
+                const trips = data.trips;
+
+                if (!trips || trips.length === 0) {
+                    table.style.display = 'none';
+                    noTripsMessage.style.display = 'block';
+                    return;
+                }
+
+                table.style.display = 'table';
+                noTripsMessage.style.display = 'none';
+
+                trips.forEach(trip => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${trip.start}</td>
+                        <td>${trip.destination}</td>
+                        <td>${trip.vehicle}</td>
+                        <td>${trip.distance}</td>
+                        <td>${trip.duration}</td>
+                        <td>${trip.stops}</td>
+                    `;
+                    tripsBody.appendChild(row);
+                });
+
+            } catch (error) {
+                console.error('Error:', error);
+                table.style.display = 'none';
+                errorMessage.textContent = 'Unable to load trip history. Please check if the backend is running.';
+                errorMessage.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+
+</html>

@@ -7,5 +7,32 @@
     "distance": 100.0,
     "duration": 2.0,
     "stops": 1
+  },
+  {
+    "id": 2,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 3,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 4,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
   }
 ]

@@ -182,6 +182,44 @@ document.addEventListener('DOMContentLoaded', function () {
                     // Calculate Pitstops
                     currentRoute = route;
                     calculatePitstops(route, backendIntervalKm);
+
+                    // --- 6. Save Trip to Backend ---
+                    // Extract data from summary and DOM
+                    const distanceKm = parseFloat((summary.totalDistance / 1000).toFixed(1));
+                    const durationHours = parseFloat((summary.totalTime / 3600).toFixed(1));
+                    const stopsCount = parseInt(document.getElementById('stops-val').textContent) || 0;
+
+                    const tripData = {
+                        start: startVal,
+                        destination: destVal,
+                        vehicle: vehicleType,
+                        distance: distanceKm,
+                        duration: durationHours,
+                        stops: stopsCount
+                    };
+
+                    // Send POST request
+                    fetch('http://127.0.0.1:5000/api/trips', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(tripData)
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            if (data.status === 'success') {
+                                console.log("Trip saved successfully:", data);
+                            } else {
+                                console.error("Failed to save trip:", data);
+                            }
+                        })
+                        .catch(error => {
+                            console.error("Error saving trip:", error);
+                        });
+
+                    // --- 7. Fetch Nearby Services Along Route ---
+                    // fetchServicesAlongRoute(route); // Disabled to enforce backend-only services requirement
                 });
 
                 routingControl.on('routingerror', function (e) {
@@ -278,8 +316,13 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // --- 5. Nearby Services Logic (Overpass API) ---
+    // --- 5. Nearby Services Logic (Backend API) ---
     async function fetchNearbyServices(latlng) {
         servicesLayer.clearLayers();
+        const servicesList = document.getElementById('servicesList');
+        if (servicesList) {
+            servicesList.innerHTML = '<li style="color: #777; font-size: 0.9rem;">Fetching nearby services... <i class="fas fa-spinner fa-spin"></i></li>';
+        }
 
         // Show basic loading popup
         const loadingPopup = L.popup()
@@ -287,23 +330,11 @@ document.addEventListener('DOMContentLoaded', function () {
             .setContent('<div style="text-align:center"><i class="fas fa-spinner fa-spin"></i> Finding services...</div>')
             .openOn(map);
 
-        const radius = 2000; // 2km radius
         const lat = latlng.lat;
         const lon = latlng.lng;
+        const radius = 2000; // 2km radius
 
-        const query = `
-            [out:json][timeout:25];
-            (
-              node["amenity"="hospital"](around:${radius},${lat},${lon});
-              node["amenity"="fuel"](around:${radius},${lat},${lon});
-              node["tourism"="hotel"](around:${radius},${lat},${lon});
-              node["amenity"="toilets"](around:${radius},${lat},${lon});
-              node["shop"="car_repair"](around:${radius},${lat},${lon});
-              node["amenity"="pharmacy"](around:${radius},${lat},${lon});
-            );
-            out body;
-        `;
-        const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
+        const url = `http://127.0.0.1:5000/api/services?lat=${lat}&lon=${lon}&radius=${radius}`;
 
         try {
             const response = await fetch(url);
@@ -313,53 +344,248 @@ document.addEventListener('DOMContentLoaded', function () {
             // Close loading popup
             map.closePopup(loadingPopup);
 
-            if (data.elements && data.elements.length > 0) {
-                let count = 0;
-                data.elements.forEach(element => {
-                    let iconColor = 'gray';
-                    let iconClass = 'fa-map-marker';
-                    let type = 'Unknown';
+            // Clear list
+            if (servicesList) servicesList.innerHTML = '';
 
-                    if (element.tags.amenity === 'hospital') {
-                        iconColor = '#e74c3c'; iconClass = 'fa-hospital'; type = 'Hospital';
-                    } else if (element.tags.amenity === 'fuel') {
-                        iconColor = '#f39c12'; iconClass = 'fa-gas-pump'; type = 'Petrol Pump';
-                    } else if (element.tags.tourism === 'hotel') {
-                        iconColor = '#9b59b6'; iconClass = 'fa-bed'; type = 'Hotel';
-                    } else if (element.tags.amenity === 'toilets') {
-                        iconColor = '#3498db'; iconClass = 'fa-restroom'; type = 'Restroom';
-                    } else if (element.tags.shop === 'car_repair') {
-                        iconColor = '#34495e'; iconClass = 'fa-wrench'; type = 'Mechanic';
-                    } else if (element.tags.amenity === 'pharmacy') {
-                        iconColor = '#27ae60'; iconClass = 'fa-pills'; type = 'Pharmacy';
-                    }
+            let hasServices = false;
+            let totalCount = 0;
 
-                    const serviceMarker = L.marker([element.lat, element.lon], {
+            const categories = [
+                { key: 'fuel', label: 'Fuel Station', icon: 'fa-gas-pump', color: '#f39c12' },
+                { key: 'restaurants', label: 'Restaurant', icon: 'fa-utensils', color: '#e74c3c' },
+                { key: 'hospitals', label: 'Hospital', icon: 'fa-hospital', color: '#c0392b' }
+            ];
+
+            categories.forEach(cat => {
+                const items = data[cat.key] || [];
+                items.forEach(item => {
+                    hasServices = true;
+                    totalCount++;
+                    const name = item.name || "Unnamed";
+
+                    // Add Marker
+                    const serviceMarker = L.marker([item.lat, item.lon], {
                         icon: L.divIcon({
                             className: 'service-icon',
-                            html: `<div style="background-color: ${iconColor}; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 12px; border: 1px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"><i class="fas ${iconClass}"></i></div>`,
+                            html: `<div style="background-color: ${cat.color}; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 12px; border: 1px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"><i class="fas ${cat.icon}"></i></div>`,
                             iconSize: [24, 24]
                         })
                     }).addTo(servicesLayer);
 
-                    const name = element.tags.name || "Unnamed";
-                    serviceMarker.bindPopup(`<b>${type}</b><br>${name}`);
-                    count++;
+                    serviceMarker.bindPopup(`<b>${cat.label}</b><br>${name}`);
+
+                    // Add to Sidebar
+                    if (servicesList && totalCount <= 50) {
+                        const listItem = document.createElement('li');
+                        listItem.style.marginBottom = '8px';
+                        listItem.style.borderBottom = '1px solid #f0f0f0';
+                        listItem.style.paddingBottom = '5px';
+                        listItem.innerHTML = `
+                            <div style="display: flex; align-items: center; gap: 10px; cursor: pointer;">
+                                <i class="fas ${cat.icon}" style="color: ${cat.color}; font-size: 1.1rem;"></i>
+                                <div>
+                                    <div style="font-weight: 600; font-size: 0.9rem;">${name}</div>
+                                    <div style="font-size: 0.8rem; color: #777;">${cat.label}</div>
+                                </div>
+                            </div>
+                        `;
+                        listItem.addEventListener('click', () => {
+                            map.flyTo([item.lat, item.lon], 16);
+                            serviceMarker.openPopup();
+                        });
+                        servicesList.appendChild(listItem);
+                    }
                 });
+            });
 
-                // Optional: Show summary popup
-                // L.popup().setLatLng(latlng).setContent(`Found ${count} services.`).openOn(map);
-
-            } else {
+            if (!hasServices) {
                 L.popup().setLatLng(latlng).setContent("No major services found nearby.").openOn(map);
+                if (servicesList) servicesList.innerHTML = '<li style="color: #777;">No services found nearby.</li>';
+            } else {
+                // Optionally show a summary popup or keep silent
             }
 
         } catch (error) {
-            console.error("Overpass API Error:", error);
+            console.error("Backend API Error:", error);
             map.closePopup(loadingPopup);
             alert("Failed to fetch nearby services.");
+            if (servicesList) servicesList.innerHTML = '<li style="color: #e74c3c;">Failed to load services. Check connection.</li>';
         }
     }
+
+    // --- 7. Fetch Services Along Route Logic ---
+    async function fetchServicesAlongRoute(route) {
+        // Clear previous services from map and sidebar
+        servicesLayer.clearLayers();
+        const servicesList = document.getElementById('servicesList');
+        servicesList.innerHTML = '<li style="color: #777; font-size: 0.9rem;">Fetching nearby services... <i class="fas fa-spinner fa-spin"></i></li>';
+
+        const coordinates = route.coordinates;
+        const totalDistance = route.summary.totalDistance; // in meters
+        const samplingInterval = 15000; // 15 km in meters
+        const searchRadius = 1200; // 1200 meters radius
+
+        // Sample points along the route
+        const samplePoints = [];
+        let accumulatedDist = 0;
+        let nextSampleDist = 0; // Start with the first point? Or offset? Let's start at 0.
+
+        for (let i = 0; i < coordinates.length - 1; i++) {
+            const p1 = L.latLng(coordinates[i].lat, coordinates[i].lng);
+            const p2 = L.latLng(coordinates[i + 1].lat, coordinates[i + 1].lng);
+            const segmentDist = p1.distanceTo(p2);
+
+            if (accumulatedDist >= nextSampleDist) {
+                samplePoints.push(p1);
+                nextSampleDist += samplingInterval;
+            }
+            accumulatedDist += segmentDist;
+        }
+        // Ensure the last point is considered if the route is long enough
+        if (samplePoints.length === 0 && coordinates.length > 0) {
+            samplePoints.push(L.latLng(coordinates[0].lat, coordinates[0].lng));
+        }
+
+        console.log(`Sampling ${samplePoints.length} points for service search.`);
+
+        if (samplePoints.length === 0) {
+            servicesList.innerHTML = '<li style="color: #777;">No route points found.</li>';
+            return;
+        }
+
+        // Build Overpass Query
+        // We will combine queries for all sample points to minimize requests
+        // Note: URL length limit might be an issue for very long routes.
+        // If > 20 points, we might need to batch. For now, assuming student project scale (short/med trips).
+
+        let queryElements = '';
+        samplePoints.forEach(pt => {
+            const lat = pt.lat;
+            const lon = pt.lng;
+            // Query for fuel, restaurants, hotels, hospitals, cafes, toilets
+            queryElements += `
+                node["amenity"="fuel"](around:${searchRadius},${lat},${lon});
+                node["amenity"="restaurant"](around:${searchRadius},${lat},${lon});
+                node["tourism"="hotel"](around:${searchRadius},${lat},${lon});
+                node["amenity"="hospital"](around:${searchRadius},${lat},${lon});
+                node["amenity"="cafe"](around:${searchRadius},${lat},${lon});
+                node["amenity"="toilets"](around:${searchRadius},${lat},${lon});
+            `;
+        });
+
+        const query = `
+            [out:json][timeout:25];
+            (
+                ${queryElements}
+            );
+            out body;
+        `;
+
+        const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
+
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error("Overpass API request failed");
+            const data = await response.json();
+
+            // Clear loading message
+            servicesList.innerHTML = '';
+
+            if (data.elements && data.elements.length > 0) {
+                // Process and display unique services (remove duplicates if any)
+                const uniqueServices = filterUniqueServices(data.elements);
+
+                // Limit display to prevent clutter? Or show all found?
+                // Let's show up to 50 items to keep performance sane
+                const displayLimit = 50;
+                const limitedServices = uniqueServices.slice(0, displayLimit);
+
+                if (uniqueServices.length === 0) {
+                    servicesList.innerHTML = '<li style="color: #777;">No specific services found nearby.</li>';
+                    return;
+                }
+
+                limitedServices.forEach(element => {
+                    const lat = element.lat;
+                    const lon = element.lon;
+                    const tags = element.tags;
+                    const name = tags.name || "Unnamed Service";
+                    let type = "Service";
+                    let iconClass = "fa-map-marker-alt";
+                    let color = "#7f8c8d";
+
+                    if (tags.amenity === 'fuel') { type = "Fuel Station"; iconClass = "fa-gas-pump"; color = "#e67e22"; }
+                    else if (tags.amenity === 'restaurant') { type = "Restaurant"; iconClass = "fa-utensils"; color = "#e74c3c"; }
+                    else if (tags.tourism === 'hotel') { type = "Hotel"; iconClass = "fa-bed"; color = "#9b59b6"; }
+                    else if (tags.amenity === 'hospital') { type = "Hospital"; iconClass = "fa-hospital"; color = "#c0392b"; }
+                    else if (tags.amenity === 'cafe') { type = "Cafe"; iconClass = "fa-coffee"; color = "#d35400"; }
+                    else if (tags.amenity === 'toilets') { type = "Restroom"; iconClass = "fa-restroom"; color = "#3498db"; }
+
+                    // Add Marker to Map
+                    const marker = L.marker([lat, lon], {
+                        icon: L.divIcon({
+                            className: 'service-icon',
+                            html: `<div style="background-color: ${color}; color: white; border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 10px; border: 1px solid white;"><i class="fas ${iconClass}"></i></div>`,
+                            iconSize: [20, 20]
+                        })
+                    }).addTo(servicesLayer);
+
+                    marker.bindPopup(`<b>${type}</b><br>${name}`);
+
+                    // Add item to sidebar list
+                    const listItem = document.createElement('li');
+                    listItem.style.marginBottom = '8px';
+                    listItem.style.borderBottom = '1px solid #f0f0f0';
+                    listItem.style.paddingBottom = '5px';
+                    listItem.innerHTML = `
+                        <div style="display: flex; align-items: center; gap: 10px; cursor: pointer;">
+                            <i class="fas ${iconClass}" style="color: ${color}; font-size: 1.1rem;"></i>
+                            <div>
+                                <div style="font-weight: 600; font-size: 0.9rem;">${name}</div>
+                                <div style="font-size: 0.8rem; color: #777;">${type}</div>
+                            </div>
+                        </div>
+                    `;
+                    // Click list item to zoom to marker
+                    listItem.addEventListener('click', () => {
+                        map.flyTo([lat, lon], 16);
+                        marker.openPopup();
+                    });
+                    servicesList.appendChild(listItem);
+                });
+
+                if (uniqueServices.length > displayLimit) {
+                    const moreItem = document.createElement('li');
+                    moreItem.style.color = '#777';
+                    moreItem.style.fontStyle = 'italic';
+                    moreItem.style.fontSize = '0.9rem';
+                    moreItem.innerHTML = `And ${uniqueServices.length - displayLimit} more services...`;
+                    servicesList.appendChild(moreItem);
+                }
+
+            } else {
+                servicesList.innerHTML = '<li style="color: #777;">No services found along this route.</li>';
+            }
+
+        } catch (error) {
+            console.error("Error fetching services:", error);
+            servicesList.innerHTML = '<li style="color: #e74c3c;">Failed to load services. Check connection.</li>';
+        }
+    }
+
+    function filterUniqueServices(elements) {
+        const unique = [];
+        const seen = new Set();
+        elements.forEach(el => {
+            if (!seen.has(el.id)) {
+                unique.push(el);
+                seen.add(el.id);
+            }
+        });
+        return unique;
+    }
+
+    // --- End of New Logic ---
 
     // --- 6. Helper Functions ---
     async function geocodeLocation(location) {
