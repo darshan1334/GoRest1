@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "start": "Persistence City",
+    "destination": "Forever Town",
+    "vehicle": "Truck",
+    "distance": 100.0,
+    "duration": 2.0,
+    "stops": 1
+  }
+]
