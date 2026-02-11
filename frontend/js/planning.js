@@ -6,6 +6,64 @@ document.addEventListener('DOMContentLoaded', function () {
     let routingControl = null;
     let currentRoute = null;
 
+    // --- Custom Icons ---
+    const icons = {
+        fuel: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        hospital: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/green-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        pharmacy: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/purple-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        clinic: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/purple-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        restaurant: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/orange-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        cafe: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/orange-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        fast_food: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/orange-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        hotel: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        car_repair: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/black-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        tyres: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/black-dot.png",
+            iconSize: [32, 32]
+        }),
+
+        default: new L.Icon({
+            iconUrl: "https://maps.google.com/mapfiles/ms/icons/yellow-dot.png",
+            iconSize: [32, 32]
+        })
+    };
+
     try {
         const mapContainer = document.getElementById('map');
         if (!mapContainer) {
@@ -183,6 +241,12 @@ document.addEventListener('DOMContentLoaded', function () {
                     currentRoute = route;
                     calculatePitstops(route, backendIntervalKm);
 
+                    // --- Call Optimized Service Fetcher ---
+                    // Using setTimeout to allow UI to update first and not block
+                    setTimeout(() => {
+                        fetchServicesAlongRoute(route);
+                    }, 1000);
+
                     // --- 6. Save Trip to Backend ---
                     // Extract data from summary and DOM
                     const distanceKm = parseFloat((summary.totalDistance / 1000).toFixed(1));
@@ -217,9 +281,6 @@ document.addEventListener('DOMContentLoaded', function () {
                         .catch(error => {
                             console.error("Error saving trip:", error);
                         });
-
-                    // --- 7. Fetch Nearby Services Along Route ---
-                    // fetchServicesAlongRoute(route); // Disabled to enforce backend-only services requirement
                 });
 
                 routingControl.on('routingerror', function (e) {
@@ -237,7 +298,10 @@ document.addEventListener('DOMContentLoaded', function () {
     // --- 4. Pitstop Calculation Logic ---
     function calculatePitstops(route, backendIntervalKm = null) {
         pitstopLayer.clearLayers();
-        servicesLayer.clearLayers(); // Clear services when recalculating
+        // servicesLayer.clearLayers(); // Removed to allow accumulation if needed, but fetchNearbyServices usually clears.
+        // Actually, calculatePitstops implies a new route or calc, so maybe we SHOULD clear services?
+        // But fetchServicesAlongRoute will happen after this.
+        servicesLayer.clearLayers();
 
         const totalDistanceKm = route.summary.totalDistance / 1000;
 
@@ -305,7 +369,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 // Click listener for Services
                 marker.on('click', function () {
-                    fetchNearbyServices(stopLatLng);
+                    // When clicking a specific pitstop, we usually want to see services just for THAT pitstop.
+                    // So we clear previous ones. append = false.
+                    fetchNearbyServices(stopLatLng, false);
                 });
 
                 nextStopDist += intervalKm * 1000;
@@ -315,277 +381,191 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('stops-val').textContent = stopCount;
     }
 
-    // --- 5. Nearby Services Logic (Overpass API) ---
-    // --- 5. Nearby Services Logic (Backend API) ---
-    async function fetchNearbyServices(latlng) {
-        servicesLayer.clearLayers();
-        const servicesList = document.getElementById('servicesList');
-        if (servicesList) {
-            servicesList.innerHTML = '<li style="color: #777; font-size: 0.9rem;">Fetching nearby services... <i class="fas fa-spinner fa-spin"></i></li>';
-        }
-
-        // Show basic loading popup
-        const loadingPopup = L.popup()
-            .setLatLng(latlng)
-            .setContent('<div style="text-align:center"><i class="fas fa-spinner fa-spin"></i> Finding services...</div>')
-            .openOn(map);
-
+    // --- 5. Nearby Services Logic (Frontend Overpass API - Node/Way/Relation - 2500m) ---
+    // Added 'append' parameter to support multiple calls without clearing
+    async function fetchNearbyServices(latlng, append = false) {
+        // Adapt Leaflet LatLng to expected lat/lon
         const lat = latlng.lat;
         const lon = latlng.lng;
-        const radius = 2000; // 2km radius
 
-        const url = `http://127.0.0.1:5000/api/services?lat=${lat}&lon=${lon}&radius=${radius}`;
+        const servicesList = document.getElementById('nearbyServices');
 
-        try {
-            const response = await fetch(url);
-            if (!response.ok) throw new Error("Service fetch failed");
-            const data = await response.json();
-
-            // Close loading popup
-            map.closePopup(loadingPopup);
-
-            // Clear list
-            if (servicesList) servicesList.innerHTML = '';
-
-            let hasServices = false;
-            let totalCount = 0;
-
-            const categories = [
-                { key: 'fuel', label: 'Fuel Station', icon: 'fa-gas-pump', color: '#f39c12' },
-                { key: 'restaurants', label: 'Restaurant', icon: 'fa-utensils', color: '#e74c3c' },
-                { key: 'hospitals', label: 'Hospital', icon: 'fa-hospital', color: '#c0392b' }
-            ];
-
-            categories.forEach(cat => {
-                const items = data[cat.key] || [];
-                items.forEach(item => {
-                    hasServices = true;
-                    totalCount++;
-                    const name = item.name || "Unnamed";
-
-                    // Add Marker
-                    const serviceMarker = L.marker([item.lat, item.lon], {
-                        icon: L.divIcon({
-                            className: 'service-icon',
-                            html: `<div style="background-color: ${cat.color}; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 12px; border: 1px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"><i class="fas ${cat.icon}"></i></div>`,
-                            iconSize: [24, 24]
-                        })
-                    }).addTo(servicesLayer);
-
-                    serviceMarker.bindPopup(`<b>${cat.label}</b><br>${name}`);
-
-                    // Add to Sidebar
-                    if (servicesList && totalCount <= 50) {
-                        const listItem = document.createElement('li');
-                        listItem.style.marginBottom = '8px';
-                        listItem.style.borderBottom = '1px solid #f0f0f0';
-                        listItem.style.paddingBottom = '5px';
-                        listItem.innerHTML = `
-                            <div style="display: flex; align-items: center; gap: 10px; cursor: pointer;">
-                                <i class="fas ${cat.icon}" style="color: ${cat.color}; font-size: 1.1rem;"></i>
-                                <div>
-                                    <div style="font-weight: 600; font-size: 0.9rem;">${name}</div>
-                                    <div style="font-size: 0.8rem; color: #777;">${cat.label}</div>
-                                </div>
-                            </div>
-                        `;
-                        listItem.addEventListener('click', () => {
-                            map.flyTo([item.lat, item.lon], 16);
-                            serviceMarker.openPopup();
-                        });
-                        servicesList.appendChild(listItem);
-                    }
-                });
-            });
-
-            if (!hasServices) {
-                L.popup().setLatLng(latlng).setContent("No major services found nearby.").openOn(map);
-                if (servicesList) servicesList.innerHTML = '<li style="color: #777;">No services found nearby.</li>';
-            } else {
-                // Optionally show a summary popup or keep silent
+        if (!append) {
+            // Clear existing markers and list only if not appending
+            servicesLayer.clearLayers();
+            if (servicesList) {
+                servicesList.innerHTML = '<div style="color: grey;">Fetching nearby services... <i class="fas fa-spinner fa-spin"></i></div>';
             }
-
-        } catch (error) {
-            console.error("Backend API Error:", error);
-            map.closePopup(loadingPopup);
-            alert("Failed to fetch nearby services.");
-            if (servicesList) servicesList.innerHTML = '<li style="color: #e74c3c;">Failed to load services. Check connection.</li>';
-        }
-    }
-
-    // --- 7. Fetch Services Along Route Logic ---
-    async function fetchServicesAlongRoute(route) {
-        // Clear previous services from map and sidebar
-        servicesLayer.clearLayers();
-        const servicesList = document.getElementById('servicesList');
-        servicesList.innerHTML = '<li style="color: #777; font-size: 0.9rem;">Fetching nearby services... <i class="fas fa-spinner fa-spin"></i></li>';
-
-        const coordinates = route.coordinates;
-        const totalDistance = route.summary.totalDistance; // in meters
-        const samplingInterval = 15000; // 15 km in meters
-        const searchRadius = 1200; // 1200 meters radius
-
-        // Sample points along the route
-        const samplePoints = [];
-        let accumulatedDist = 0;
-        let nextSampleDist = 0; // Start with the first point? Or offset? Let's start at 0.
-
-        for (let i = 0; i < coordinates.length - 1; i++) {
-            const p1 = L.latLng(coordinates[i].lat, coordinates[i].lng);
-            const p2 = L.latLng(coordinates[i + 1].lat, coordinates[i + 1].lng);
-            const segmentDist = p1.distanceTo(p2);
-
-            if (accumulatedDist >= nextSampleDist) {
-                samplePoints.push(p1);
-                nextSampleDist += samplingInterval;
-            }
-            accumulatedDist += segmentDist;
-        }
-        // Ensure the last point is considered if the route is long enough
-        if (samplePoints.length === 0 && coordinates.length > 0) {
-            samplePoints.push(L.latLng(coordinates[0].lat, coordinates[0].lng));
+        } else {
+            // If appending, maybe show a small loading indicator or just do nothing UI-wise
         }
 
-        console.log(`Sampling ${samplePoints.length} points for service search.`);
-
-        if (samplePoints.length === 0) {
-            servicesList.innerHTML = '<li style="color: #777;">No route points found.</li>';
-            return;
+        // Show loading popup on map (optional, maybe distracting if loop runs many times)
+        // Only show if not appending (single click) or maybe just for the first one?
+        // For the loop, we might not want a popup every time.
+        let loadingPopup = null;
+        if (!append) {
+            loadingPopup = L.popup()
+                .setLatLng(latlng)
+                .setContent('<div style="text-align:center"><i class="fas fa-spinner fa-spin"></i> Finding services...</div>')
+                .openOn(map);
         }
-
-        // Build Overpass Query
-        // We will combine queries for all sample points to minimize requests
-        // Note: URL length limit might be an issue for very long routes.
-        // If > 20 points, we might need to batch. For now, assuming student project scale (short/med trips).
-
-        let queryElements = '';
-        samplePoints.forEach(pt => {
-            const lat = pt.lat;
-            const lon = pt.lng;
-            // Query for fuel, restaurants, hotels, hospitals, cafes, toilets
-            queryElements += `
-                node["amenity"="fuel"](around:${searchRadius},${lat},${lon});
-                node["amenity"="restaurant"](around:${searchRadius},${lat},${lon});
-                node["tourism"="hotel"](around:${searchRadius},${lat},${lon});
-                node["amenity"="hospital"](around:${searchRadius},${lat},${lon});
-                node["amenity"="cafe"](around:${searchRadius},${lat},${lon});
-                node["amenity"="toilets"](around:${searchRadius},${lat},${lon});
-            `;
-        });
 
         const query = `
             [out:json][timeout:25];
             (
-                ${queryElements}
+              node["amenity"~"fuel|hospital|pharmacy|clinic"](around:2500,${lat},${lon});
+              way["amenity"~"fuel|hospital|pharmacy|clinic"](around:2500,${lat},${lon});
+              relation["amenity"~"fuel|hospital|pharmacy|clinic"](around:2500,${lat},${lon});
+
+              node["tourism"="hotel"](around:2500,${lat},${lon});
+              way["tourism"="hotel"](around:2500,${lat},${lon});
+
+              node["shop"~"car_repair|tyres"](around:2500,${lat},${lon});
+              way["shop"~"car_repair|tyres"](around:2500,${lat},${lon});
+
+              node["amenity"="restaurant"](around:2500,${lat},${lon});
+              way["amenity"="restaurant"](around:2500,${lat},${lon});
             );
-            out body;
+            out center;
         `;
 
-        const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
-
         try {
-            const response = await fetch(url);
-            if (!response.ok) throw new Error("Overpass API request failed");
-            const data = await response.json();
-
-            // Clear loading message
-            servicesList.innerHTML = '';
-
-            if (data.elements && data.elements.length > 0) {
-                // Process and display unique services (remove duplicates if any)
-                const uniqueServices = filterUniqueServices(data.elements);
-
-                // Limit display to prevent clutter? Or show all found?
-                // Let's show up to 50 items to keep performance sane
-                const displayLimit = 50;
-                const limitedServices = uniqueServices.slice(0, displayLimit);
-
-                if (uniqueServices.length === 0) {
-                    servicesList.innerHTML = '<li style="color: #777;">No specific services found nearby.</li>';
-                    return;
+            const res = await fetch(
+                "https://overpass-api.de/api/interpreter",
+                {
+                    method: "POST",
+                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                    body: "data=" + encodeURIComponent(query)
                 }
+            );
 
-                limitedServices.forEach(element => {
-                    const lat = element.lat;
-                    const lon = element.lon;
-                    const tags = element.tags;
-                    const name = tags.name || "Unnamed Service";
-                    let type = "Service";
-                    let iconClass = "fa-map-marker-alt";
-                    let color = "#7f8c8d";
+            if (!res.ok) throw new Error("Overpass request failed");
 
-                    if (tags.amenity === 'fuel') { type = "Fuel Station"; iconClass = "fa-gas-pump"; color = "#e67e22"; }
-                    else if (tags.amenity === 'restaurant') { type = "Restaurant"; iconClass = "fa-utensils"; color = "#e74c3c"; }
-                    else if (tags.tourism === 'hotel') { type = "Hotel"; iconClass = "fa-bed"; color = "#9b59b6"; }
-                    else if (tags.amenity === 'hospital') { type = "Hospital"; iconClass = "fa-hospital"; color = "#c0392b"; }
-                    else if (tags.amenity === 'cafe') { type = "Cafe"; iconClass = "fa-coffee"; color = "#d35400"; }
-                    else if (tags.amenity === 'toilets') { type = "Restroom"; iconClass = "fa-restroom"; color = "#3498db"; }
+            const data = await res.json();
 
-                    // Add Marker to Map
-                    const marker = L.marker([lat, lon], {
-                        icon: L.divIcon({
-                            className: 'service-icon',
-                            html: `<div style="background-color: ${color}; color: white; border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 10px; border: 1px solid white;"><i class="fas ${iconClass}"></i></div>`,
-                            iconSize: [20, 20]
-                        })
-                    }).addTo(servicesLayer);
+            // Close loading popup
+            if (loadingPopup) map.closePopup(loadingPopup);
+            if (!append && servicesList) servicesList.innerHTML = ""; // Clear "Fetching..." text
 
-                    marker.bindPopup(`<b>${type}</b><br>${name}`);
-
-                    // Add item to sidebar list
-                    const listItem = document.createElement('li');
-                    listItem.style.marginBottom = '8px';
-                    listItem.style.borderBottom = '1px solid #f0f0f0';
-                    listItem.style.paddingBottom = '5px';
-                    listItem.innerHTML = `
-                        <div style="display: flex; align-items: center; gap: 10px; cursor: pointer;">
-                            <i class="fas ${iconClass}" style="color: ${color}; font-size: 1.1rem;"></i>
-                            <div>
-                                <div style="font-weight: 600; font-size: 0.9rem;">${name}</div>
-                                <div style="font-size: 0.8rem; color: #777;">${type}</div>
-                            </div>
-                        </div>
-                    `;
-                    // Click list item to zoom to marker
-                    listItem.addEventListener('click', () => {
-                        map.flyTo([lat, lon], 16);
-                        marker.openPopup();
-                    });
-                    servicesList.appendChild(listItem);
-                });
-
-                if (uniqueServices.length > displayLimit) {
-                    const moreItem = document.createElement('li');
-                    moreItem.style.color = '#777';
-                    moreItem.style.fontStyle = 'italic';
-                    moreItem.style.fontSize = '0.9rem';
-                    moreItem.innerHTML = `And ${uniqueServices.length - displayLimit} more services...`;
-                    servicesList.appendChild(moreItem);
-                }
-
-            } else {
-                servicesList.innerHTML = '<li style="color: #777;">No services found along this route.</li>';
-            }
+            displayServices(data.elements, append);
+            addServiceMarkers(data.elements, append);
 
         } catch (error) {
-            console.error("Error fetching services:", error);
-            servicesList.innerHTML = '<li style="color: #e74c3c;">Failed to load services. Check connection.</li>';
+            console.error(error);
+            if (loadingPopup) map.closePopup(loadingPopup);
+            if (!append && servicesList) servicesList.innerText = "Failed to fetch nearby services.";
+            if (!append) L.popup().setLatLng(latlng).setContent("Failed to load services.").openOn(map);
         }
     }
 
-    function filterUniqueServices(elements) {
-        const unique = [];
-        const seen = new Set();
-        elements.forEach(el => {
-            if (!seen.has(el.id)) {
-                unique.push(el);
-                seen.add(el.id);
-            }
+    // --- 3. Display Logic (User Provided + Append Support) ---
+    function displayServices(services, append = false) {
+        const box = document.getElementById("nearbyServices");
+        if (!box) return;
+
+        if (!append) box.innerHTML = "";
+
+        if (!services || services.length === 0) {
+            if (!append) box.innerText = "No nearby services found.";
+            return;
+        }
+
+        services.slice(0, 12).forEach(s => {
+            const name = s.tags?.name || "Unnamed";
+            const type =
+                s.tags?.amenity ||
+                s.tags?.tourism ||
+                s.tags?.shop ||
+                "Service";
+
+            box.innerHTML += `
+      <div>
+        <strong>${name}</strong><br/>
+        <small>${type}</small>
+      </div>
+      <hr/>
+    `;
         });
-        return unique;
     }
 
-    // --- End of New Logic ---
+    function addServiceMarkers(services, append = false) {
+        if (!append) servicesLayer.clearLayers();
+
+        services.forEach(service => {
+
+            let lat, lon;
+
+            if (service.lat && service.lon) {
+                lat = service.lat;
+                lon = service.lon;
+            } else if (service.center) {
+                lat = service.center.lat;
+                lon = service.center.lon;
+            } else {
+                return;
+            }
+
+            const type =
+                service.tags?.amenity ||
+                service.tags?.tourism ||
+                service.tags?.shop;
+
+            let icon = icons.default;
+
+            if (type === "fuel") icon = icons.fuel;
+            else if (type === "hospital") icon = icons.hospital;
+            else if (type === "pharmacy") icon = icons.pharmacy;
+            else if (type === "restaurant") icon = icons.restaurant;
+            else if (type === "hotel") icon = icons.hotel;
+            else if (type === "car_repair") icon = icons.car_repair;
+
+            // Optional: Map extra types if desired, or let them fall to default
+            else if (type === "cafe") icon = icons.cafe;
+            else if (type === "fast_food") icon = icons.fast_food;
+            else if (type === "clinic") icon = icons.clinic;
+            else if (type === "tyres") icon = icons.tyres;
+
+
+            L.marker([lat, lon], { icon })
+                .addTo(servicesLayer)
+                .bindPopup(
+                    `<strong>${service.tags?.name || "Unnamed"}</strong><br>${type}`
+                );
+        });
+    }
+
+    // --- 7. Fetch Services Along Route Logic ---
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    async function fetchServicesAlongRoute(route) {
+        const coords = route.coordinates;
+        if (!coords || coords.length === 0) return;
+
+        // Reset
+        servicesLayer.clearLayers();
+        const box = document.getElementById("nearbyServices");
+        if (box) box.innerHTML = "<div>Fetching services along route...</div>";
+
+        // Loop with step 80 and delay
+        for (let i = 0; i < coords.length; i += 80) {
+            const point = coords[i];
+            const latlng = L.latLng(point.lat, point.lng);
+
+            // Call with append = true
+            // Note: The very first call might ideally clear, but we cleared above manually.
+            await fetchNearbyServices(latlng, true);
+
+            // Prevent rate limiting
+            await sleep(1000);
+        }
+
+        if (box && box.innerHTML === "<div>Fetching services along route...</div>") {
+            box.innerHTML = "<div>Finished searching along route.</div>";
+        }
+    }
 
     // --- 6. Helper Functions ---
     async function geocodeLocation(location) {
