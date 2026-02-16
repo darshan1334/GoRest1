@@ -1,14 +1,19 @@
 from flask import Flask, jsonify, request
-import requests
-import math
 from flask_cors import CORS
+import sqlite3
+import math
 import json
 import os
+
+# -------------------- APP INIT --------------------
 
 app = Flask(__name__)
 CORS(app)
 
+# -------------------- CONFIG --------------------
+
 TRIPS_FILE = 'trips.json'
+DB_FILE = 'services.db'
 
 # -------------------- Trip Storage --------------------
 
@@ -27,12 +32,16 @@ def save_trips(trips):
 
 trips = load_trips()
 
+# -------------------- HOME --------------------
+
 @app.route('/')
 def home():
     return jsonify({
         "message": "GoRest Trip API is running!",
         "status": "online"
     })
+
+# -------------------- TRIPS API --------------------
 
 @app.route('/api/trips', methods=['POST'])
 def save_trip():
@@ -52,6 +61,7 @@ def save_trip():
 
     return jsonify({"status": "success", "trip": trip}), 201
 
+
 @app.route('/api/trips', methods=['GET'])
 def get_trips():
     return jsonify({
@@ -69,65 +79,55 @@ def haversine(lat1, lon1, lat2, lon2):
     a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon/2)**2
     return 6371 * (2 * math.asin(math.sqrt(a)))
 
-# -------------------- SERVICES API (FINAL) --------------------
+# -------------------- SERVICES API --------------------
 
 @app.route('/api/services', methods=['GET'])
 def get_services():
     lat = request.args.get('lat')
     lon = request.args.get('lon')
-    radius = request.args.get('radius', 5000)
+    radius = request.args.get('radius', 5)
 
     if not lat or not lon:
         return jsonify({"error": "lat and lon required"}), 400
 
     lat = float(lat)
     lon = float(lon)
+    radius = float(radius)
 
-    overpass_query = f"""
-    [out:json][timeout:25];
-    (
-      node["amenity"="fuel"](around:{radius},{lat},{lon});
-      node["amenity"="hospital"](around:{radius},{lat},{lon});
-      node["tourism"="hotel"](around:{radius},{lat},{lon});
-      node["amenity"="restaurant"](around:{radius},{lat},{lon});
-      node["amenity"="pharmacy"](around:{radius},{lat},{lon});
-      node["amenity"="bank"](around:{radius},{lat},{lon});
-      node["amenity"="atm"](around:{radius},{lat},{lon});
-      node["shop"="car_repair"](around:{radius},{lat},{lon});
-    );
-    out body;
-    """
+    conn = sqlite3.connect(DB_FILE)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
 
-    res = requests.post(
-        "https://overpass-api.de/api/interpreter",
-        data=overpass_query
-    )
+    cursor.execute("""
+        SELECT id, name, type, lat, lon
+        FROM services
+        WHERE lat IS NOT NULL
+        AND lon IS NOT NULL
+    """)
 
-    data = res.json()
+    rows = cursor.fetchall()
+    conn.close()
 
     services = []
 
-    for el in data.get("elements", []):
-        tags = el.get("tags", {})
-        name = tags.get("name", "Unnamed")
-
-        service_type = (
-            tags.get("amenity")
-            or tags.get("tourism")
-            or tags.get("shop")
+    for row in rows:
+        distance = haversine(
+            lat,
+            lon,
+            row["lat"],
+            row["lon"]
         )
 
-        distance = round(haversine(lat, lon, el["lat"], el["lon"]), 2)
+        if distance <= radius:
+            services.append({
+                "id": row["id"],
+                "name": row["name"],
+                "type": row["type"],
+                "lat": row["lat"],
+                "lon": row["lon"],
+                "distance": round(distance, 2)
+            })
 
-        services.append({
-            "name": name,
-            "type": service_type,
-            "lat": el["lat"],
-            "lon": el["lon"],
-            "distance": distance
-        })
-
-    # Sort all services by distance
     services.sort(key=lambda x: x["distance"])
 
     return jsonify({
@@ -140,26 +140,19 @@ def get_services():
 
 @app.route('/plan-trip', methods=['POST'])
 def plan_trip():
-    """
-    Determines pitstop intervals based on vehicle type.
-    This logic mirrors the frontend requirements but moves it to the backend.
-    """
     try:
         data = request.get_json()
         if not data:
             return jsonify({"error": "Invalid data"}), 400
-            
+
         vehicle_type = data.get('vehicle_type', 'car')
-        
-        # Pitstop calculate logic
+
         if vehicle_type == 'bike':
             interval = 50
         elif vehicle_type == 'car':
             interval = 100
         elif vehicle_type == 'ev':
-            # Could be refined if we passed specific EV type, 
-            # but taking a safe average or default for now
-            interval = 80 
+            interval = 80
         elif vehicle_type == 'bus':
             interval = 150
         else:
@@ -177,5 +170,5 @@ def plan_trip():
 # -------------------- RUN --------------------
 
 if __name__ == "__main__":
-    print("Starting GoRest API at http://127.0.0.1:5000")
-    app.run(debug=True, port=5000)
+    print("Starting GoRest API on 0.0.0.0:5000")
+    app.run(host="0.0.0.0", port=5000, debug=True)

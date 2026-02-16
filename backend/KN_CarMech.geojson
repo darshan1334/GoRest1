@@ -1,0 +1,5078 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T07:47:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266739262",
+        "brand": "Volvo",
+        "brand:wikidata": "Q215293",
+        "name": "Volvo Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6598533,
+          12.8625267
+        ]
+      },
+      "id": "node/266739262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/665871313",
+        "addr:street": "Benson Cross Road",
+        "name": "Benson Auto Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6031017,
+          12.9979339
+        ]
+      },
+      "id": "node/665871313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/824161248",
+        "name": "Puncture Shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9546237,
+          13.3124291
+        ]
+      },
+      "id": "node/824161248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/971918920",
+        "name": "Puncture Repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3755696,
+          12.7567819
+        ]
+      },
+      "id": "node/971918920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/991443317",
+        "name": "Puncture Shop",
+        "service": "repair;tyres",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7158094,
+          12.9918202
+        ]
+      },
+      "id": "node/991443317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1078161782",
+        "addr:street": "Kaggadasspura Main Road",
+        "name": "Smart Cars",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6730826,
+          12.9856566
+        ]
+      },
+      "id": "node/1078161782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1215790310",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3645354,
+          17.4722975
+        ]
+      },
+      "id": "node/1215790310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1215790313",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3655149,
+          17.471137
+        ]
+      },
+      "id": "node/1215790313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1306268403",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4988058,
+          17.4837286
+        ]
+      },
+      "id": "node/1306268403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1306290540",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.501209,
+          17.480171
+        ]
+      },
+      "id": "node/1306290540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1328610690",
+        "name": "Bimal Maruti Sai Service Station",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6422424,
+          12.979687
+        ]
+      },
+      "id": "node/1328610690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339408198",
+        "name": "Torque Car Accesories",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6480361,
+          12.9690672
+        ]
+      },
+      "id": "node/1339408198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1460720496",
+        "name": "India Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6172392,
+          12.96527
+        ]
+      },
+      "id": "node/1460720496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1462127117",
+        "name": "Kolimi Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6288041,
+          12.9805233
+        ]
+      },
+      "id": "node/1462127117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1462994517",
+        "addr:postcode": "560095",
+        "addr:street": "Near BOSCH Back Gate, Koramangala, Bangalore",
+        "name": "Sachin's Autoshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6135755,
+          12.9365162
+        ]
+      },
+      "id": "node/1462994517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1468516370",
+        "addr:postcode": "560095",
+        "addr:street": "17th b main koramangala",
+        "designation": "Car Accessories and services",
+        "name": "Kinetic Zone Service station",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6239983,
+          12.9364508
+        ]
+      },
+      "id": "node/1468516370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1468540672",
+        "name": "Dreams on wheelz",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6267717,
+          12.937648
+        ]
+      },
+      "id": "node/1468540672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469196554",
+        "name": "Tyre Shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6086321,
+          12.993662
+        ]
+      },
+      "id": "node/1469196554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469643951",
+        "brand": "Hundai",
+        "check_date": "2024-03-02",
+        "name": "Trident Hyundai",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6401322,
+          12.9239635
+        ]
+      },
+      "id": "node/1469643951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1471690115",
+        "addr:street": "Hosur road",
+        "name": "Tara Fiat Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6239184,
+          12.9145174
+        ]
+      },
+      "id": "node/1471690115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472052980",
+        "name": "Tyre Puncture",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6391483,
+          12.876702
+        ]
+      },
+      "id": "node/1472052980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472114366",
+        "check_date": "2024-07-11",
+        "name": "Maruti Service Center",
+        "operator": "RNS Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5942266,
+          13.0579806
+        ]
+      },
+      "id": "node/1472114366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474002802",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6373794,
+          15.4322664
+        ]
+      },
+      "id": "node/1474002802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1530734605",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "name": "Car Service Station",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7607737,
+          13.0423775
+        ]
+      },
+      "id": "node/1530734605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1541338044",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6554748,
+          13.0044439
+        ]
+      },
+      "id": "node/1541338044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1649157327",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6549005,
+          12.2864942
+        ]
+      },
+      "id": "node/1649157327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1660031371",
+        "name": "Mahindra Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70122,
+          12.996313
+        ]
+      },
+      "id": "node/1660031371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669909077",
+        "name": "Raj Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6756791,
+          12.9223745
+        ]
+      },
+      "id": "node/1669909077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1681348752",
+        "name": "Indus Motors",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.510779,
+          11.7292656
+        ]
+      },
+      "id": "node/1681348752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719552441",
+        "brand": "Bosch",
+        "check_date": "2024-09-20",
+        "name": "Mudra Bosch Car Service",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "car_repair",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6967137,
+          12.9785542
+        ]
+      },
+      "id": "node/1719552441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719556774",
+        "name": "Hindustan Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6894861,
+          12.9892466
+        ]
+      },
+      "id": "node/1719556774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1727330720",
+        "name": "Nandhu motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5987321,
+          12.8941563
+        ]
+      },
+      "id": "node/1727330720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763379673",
+        "name": "Manipal Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6460906,
+          12.9632938
+        ]
+      },
+      "id": "node/1763379673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1825041307",
+        "name": "TATA Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.605187,
+          14.74038
+        ]
+      },
+      "id": "node/1825041307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1993345077",
+        "addr:housename": "Maduvana Towers",
+        "addr:postcode": "576213",
+        "addr:street": "Brahmavara",
+        "name": "Diamond Auto Electrical Works and Battery Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.74328,
+          13.4308081
+        ]
+      },
+      "id": "node/1993345077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1993346973",
+        "addr:housename": "SMS Complex",
+        "addr:postcode": "576213",
+        "addr:street": "Brahmavara SMS College",
+        "name": "Diamond Auto Electrical Works and Battery Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7425745,
+          13.4305055
+        ]
+      },
+      "id": "node/1993346973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030149958",
+        "brand": "Maruti",
+        "name": "Om Cars",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5815782,
+          12.8932454
+        ]
+      },
+      "id": "node/2030149958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151943537",
+        "name": "Bosch Service",
+        "operator": "Sri Sai Automotives",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5863075,
+          12.8850121
+        ]
+      },
+      "id": "node/2151943537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297715821",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5778843,
+          13.0269768
+        ]
+      },
+      "id": "node/2297715821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2309684405",
+        "name": "3M Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5776081,
+          13.027186
+        ]
+      },
+      "id": "node/2309684405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466610123",
+        "brand": "Fiat",
+        "brand:wikidata": "Q27597",
+        "name": "Fiat Service",
+        "opening_hours": "09:00-18:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4110425,
+          17.4235286
+        ]
+      },
+      "id": "node/2466610123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578488041",
+        "check_date": "2025-07-12",
+        "name": "Tyre Empire",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7442523,
+          12.9566336
+        ]
+      },
+      "id": "node/2578488041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2643403147",
+        "name": "Vijay Wheel Alignment",
+        "note": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday: 10:00 am to 08:00 pm Sunday Holiday",
+        "phone": "+91 8049157378",
+        "shop": "car_repair",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5920538,
+          12.9061299
+        ]
+      },
+      "id": "node/2643403147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715287495",
+        "name": "SK Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4857379,
+          17.4098857
+        ]
+      },
+      "id": "node/2715287495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2784821589",
+        "name": "SLN Car Decors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4855504,
+          17.4101367
+        ]
+      },
+      "id": "node/2784821589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850929210",
+        "name": "Sri Sai Maruti Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6985627,
+          13.8511635
+        ]
+      },
+      "id": "node/2850929210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901187456",
+        "name": "Hero Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.27281,
+          12.944066
+        ]
+      },
+      "id": "node/2901187456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918827424",
+        "name": "Lathangi Ford Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5994818,
+          12.8976252
+        ]
+      },
+      "id": "node/2918827424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3200945591",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5383273,
+          17.3250922
+        ]
+      },
+      "id": "node/3200945591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3259919571",
+        "name": "maruti suzuki service center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5000197,
+          17.4049199
+        ]
+      },
+      "id": "node/3259919571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265470548",
+        "name": "United Toyota",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8851999,
+          12.8699863
+        ]
+      },
+      "id": "node/3265470548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3344228058",
+        "name": "Pro Active Car Accessories",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6289106,
+          13.0209775
+        ]
+      },
+      "id": "node/3344228058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351169495",
+        "name": "Car Detailers Royal Planet",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8639297,
+          12.8515844
+        ]
+      },
+      "id": "node/3351169495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351180838",
+        "name": "RL Auto Engineering Works (Car repair )",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8538208,
+          12.855463
+        ]
+      },
+      "id": "node/3351180838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351191405",
+        "name": "Super Service Station  (Car repair )",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8499527,
+          12.8488007
+        ]
+      },
+      "id": "node/3351191405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3365398022",
+        "name": "MRF Tyres",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8016083,
+          12.9845599
+        ]
+      },
+      "id": "node/3365398022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509618283",
+        "check_date": "2024-03-16",
+        "name": "Roady",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3927571,
+          17.491303
+        ]
+      },
+      "id": "node/3509618283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3543845981",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "38/7",
+        "addr:postcode": "560068",
+        "addr:street": "Near Krishnappa Reddy Building, Bandepalya, Garebhavipalya",
+        "name": "Trend Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6359479,
+          12.8965552
+        ]
+      },
+      "id": "node/3543845981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3591113767",
+        "name": "SVR Mitsubishi",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083913,
+          15.3965697
+        ]
+      },
+      "id": "node/3591113767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763641611",
+        "name": "Pooma Bike Workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5674122,
+          11.8366959
+        ]
+      },
+      "id": "node/3763641611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763641617",
+        "addr:street": "Thalassery - Coorg Highway",
+        "name": "Krishna Maruti Service Station",
+        "operator": "ക്രിഷ്ണ മാരുതി സർവീസ് സെന്റർ",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5696909,
+          11.8479326
+        ]
+      },
+      "id": "node/3763641617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770110192",
+        "name": "Beetah Maruti Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5654273,
+          11.8364506
+        ]
+      },
+      "id": "node/3770110192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803158168",
+        "name": "Sakthi Tyre Works",
+        "name:ml": "ശക്തി ടയർ വർക്ക്സ്",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5669458,
+          11.8535451
+        ]
+      },
+      "id": "node/3803158168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3807820543",
+        "name": "Popular Maruthi Service Centre",
+        "name:ml": "പോപ്പുലർ മാരുതി സർവീസ് സെന്റർ",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5690311,
+          11.646524
+        ]
+      },
+      "id": "node/3807820543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815399581",
+        "name": "VK Wheel Balancing",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5632739,
+          11.8357176
+        ]
+      },
+      "id": "node/3815399581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815400273",
+        "name": "care centrer",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5635768,
+          11.8289614
+        ]
+      },
+      "id": "node/3815400273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3899682265",
+        "name": "Bengalore Tyre Service",
+        "shop": "car_repair",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.629908,
+          13.0015517
+        ]
+      },
+      "id": "node/3899682265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040031906",
+        "name": "Auto Parts",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7086508,
+          12.9562405
+        ]
+      },
+      "id": "node/4040031906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4101455403",
+        "brand": "Hyundai",
+        "brand:wikidata": "Q55931",
+        "name": "Hyundai",
+        "name:kn": "ಹ್ಯುಂಡೈ",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6423072,
+          12.9792498
+        ]
+      },
+      "id": "node/4101455403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4117130396",
+        "name": "Suraksha Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7061857,
+          13.8464363
+        ]
+      },
+      "id": "node/4117130396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130961390",
+        "name": "Car Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5402087,
+          12.9671968
+        ]
+      },
+      "id": "node/4130961390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269361990",
+        "name": "Nandish",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.111534,
+          15.258713
+        ]
+      },
+      "id": "node/4269361990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4279894866",
+        "addr:postcode": "560097",
+        "name": "Hema motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5617103,
+          13.0691864
+        ]
+      },
+      "id": "node/4279894866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294115789",
+        "name": "Babu",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.026676,
+          15.554731
+        ]
+      },
+      "id": "node/4294115789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4298801493",
+        "name": "Vipul Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12065,
+          15.242918
+        ]
+      },
+      "id": "node/4298801493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4300422590",
+        "name": "Goodwheel Car Wash Centre",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.096985,
+          15.259886
+        ]
+      },
+      "id": "node/4300422590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4301457596",
+        "level": "0",
+        "name": "Mandovi Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6031303,
+          12.9818702
+        ]
+      },
+      "id": "node/4301457596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4305473091",
+        "name": "Apna Maruti service centre ",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1467741,
+          11.6469384
+        ]
+      },
+      "id": "node/4305473091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4305985597",
+        "name": "Dumper Service Station",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.13812,
+          15.305852
+        ]
+      },
+      "id": "node/4305985597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4308226310",
+        "name": "Saish Servicing Centre",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12685,
+          15.2351251
+        ]
+      },
+      "id": "node/4308226310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4347559589",
+        "name": "Hassam Yakub Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0457629,
+          15.0075963
+        ]
+      },
+      "id": "node/4347559589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4386506589",
+        "name": "Sahi International Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6028605,
+          13.0231271
+        ]
+      },
+      "id": "node/4386506589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4386801621",
+        "addr:postcode": "500057",
+        "addr:street": "vijaynagar colony circle",
+        "opening_hours": "24/7",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4551788,
+          17.3978369
+        ]
+      },
+      "id": "node/4386801621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417324580",
+        "name": "Car repairs",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7059193,
+          12.9526893
+        ]
+      },
+      "id": "node/4417324580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425079289",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4891093,
+          17.4035669
+        ]
+      },
+      "id": "node/4425079289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432327891",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4891369,
+          17.4035669
+        ]
+      },
+      "id": "node/4432327891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4516495189",
+        "name:en": "SM CARS",
+        "opening_hours": "24/7",
+        "operator": "SM CARS (IND) PVT LTD.",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1493057,
+          11.6248993
+        ]
+      },
+      "id": "node/4516495189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4517075191",
+        "name": "Khan Motors",
+        "name:en": "Khan Motors",
+        "name:kn": "ಖಾನ್ ಮೋಟಾರ್ಸ್",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8971915,
+          13.7447546
+        ]
+      },
+      "id": "node/4517075191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518518891",
+        "addr:street": "Magadi Road",
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "name": "Toyota car service center",
+        "name:en": "Toyota car service center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5474121,
+          12.9758007
+        ]
+      },
+      "id": "node/4518518891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520910091",
+        "addr:street": "Chord Road",
+        "name": "Maruthi Service Center",
+        "name:en": "Maruthi Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5468208,
+          12.9746825
+        ]
+      },
+      "id": "node/4520910091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550334793",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.654444,
+          13.0189973
+        ]
+      },
+      "id": "node/4550334793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686184889",
+        "name": "SK Motors Bajaj",
+        "name:en": "SK Motors Bajaj",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.670399,
+          12.9860914
+        ]
+      },
+      "id": "node/4686184889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686401399",
+        "name": "Zimoto Mutli brand Auto Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0954767,
+          15.3920599
+        ]
+      },
+      "id": "node/4686401399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686783095",
+        "name": "Wheel Zone",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0980861,
+          15.3910205
+        ]
+      },
+      "id": "node/4686783095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4744146322",
+        "addr:street": "Krishnarajanagara to honour road",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3789106,
+          12.4361702
+        ]
+      },
+      "id": "node/4744146322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4756003621",
+        "addr:housenumber": "2324",
+        "addr:postcode": "560043",
+        "addr:street": "80 feet main road",
+        "name": "Windshield weld, kamals glass shoppe",
+        "name:en": "Windshield weld, kamals glass shoppe",
+        "phone": "180030000140",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6310211,
+          13.0265963
+        ]
+      },
+      "id": "node/4756003621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774179446",
+        "name": "Standard Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1046295,
+          15.3884251
+        ]
+      },
+      "id": "node/4774179446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838619833",
+        "name": "Total lubricants Bike service center",
+        "name:en": "Total lubricants Bike service center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6634832,
+          12.9933945
+        ]
+      },
+      "id": "node/4838619833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849618942",
+        "name": "2 Wheeler Repair Shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5928205,
+          12.9409651
+        ]
+      },
+      "id": "node/4849618942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849618957",
+        "name": "A1 Service Station",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59462,
+          12.9440327
+        ]
+      },
+      "id": "node/4849618957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5163286623",
+        "addr:street": "Saraswathnagar colony",
+        "name": "Royal Diesel Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5585841,
+          17.3428802
+        ]
+      },
+      "id": "node/5163286623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5168531366",
+        "name": "Blue Hyundai",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5033203,
+          12.9279938
+        ]
+      },
+      "id": "node/5168531366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191746647",
+        "name": "Sri Sakhthi Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6485688,
+          12.9726741
+        ]
+      },
+      "id": "node/5191746647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242423052",
+        "name": "Star Bike Point",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7165207,
+          12.9675073
+        ]
+      },
+      "id": "node/5242423052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273509936",
+        "name": "Emission Testing Centre",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1583412,
+          11.6555312
+        ]
+      },
+      "id": "node/5273509936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273512693",
+        "amenity": "taxi",
+        "name": "Devi Industries/ workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.157584,
+          11.6553505
+        ]
+      },
+      "id": "node/5273512693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5275581393",
+        "name": "Nitiraj Engineering Works",
+        "service:vehicle:truck_repair": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0164897,
+          15.5559324
+        ]
+      },
+      "id": "node/5275581393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5279928930",
+        "name": "Sateri Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0233247,
+          15.5569312
+        ]
+      },
+      "id": "node/5279928930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5279928980",
+        "name": "Maruti Suzuki - Chowgule Industries Pvt. Ltd.",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0338307,
+          15.5538719
+        ]
+      },
+      "id": "node/5279928980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304601884",
+        "name": "SL Bike Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5490148,
+          12.9388308
+        ]
+      },
+      "id": "node/5304601884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304601886",
+        "name": "MM King Tyres",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5488753,
+          12.9388399
+        ]
+      },
+      "id": "node/5304601886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304601910",
+        "name": "Sri Janani Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5507843,
+          12.939136
+        ]
+      },
+      "id": "node/5304601910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5343196921",
+        "name": "Brakez",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6529198,
+          12.9537386
+        ]
+      },
+      "id": "node/5343196921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402307922",
+        "brand": "Renault",
+        "brand:wikidata": "Q6686",
+        "check_date": "2025-05-31",
+        "name": "Garage Renault",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6250349,
+          12.9142555
+        ]
+      },
+      "id": "node/5402307922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402308122",
+        "brand": "Isuzu",
+        "brand:wikidata": "Q29803",
+        "name": "Isuzu",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6247856,
+          12.9144055
+        ]
+      },
+      "id": "node/5402308122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5524165028",
+        "name": "Elegant Car Spa",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.602787,
+          13.0725531
+        ]
+      },
+      "id": "node/5524165028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5524165034",
+        "name": "Karnataka garage",
+        "opening_hours": "PH,We,Th,Sa-Mo 08:00-22:30",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6009229,
+          13.0551196
+        ]
+      },
+      "id": "node/5524165034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536102143",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7127182,
+          12.9701245
+        ]
+      },
+      "id": "node/5536102143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536178775",
+        "name": "puncture shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7028121,
+          12.9038833
+        ]
+      },
+      "id": "node/5536178775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555282740",
+        "addr:city": "Bangalore",
+        "addr:housenumber": "B-36, Oxford Towers",
+        "addr:postcode": "560008",
+        "addr:street": "Kodihalli",
+        "name": "Carista",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+919019123124",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair",
+        "website": "https://carista.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6470245,
+          12.9589144
+        ]
+      },
+      "id": "node/5555282740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5643902789",
+        "addr:city": "Bengaluru",
+        "name": "Indian Repair Shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.674335,
+          12.9244335
+        ]
+      },
+      "id": "node/5643902789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5762040046",
+        "name": "Tyre Shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6805284,
+          13.0112732
+        ]
+      },
+      "id": "node/5762040046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5809775153",
+        "name": "GM Hi tech Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6381267,
+          12.9727841
+        ]
+      },
+      "id": "node/5809775153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922659281",
+        "name": "Bharath Car Fitting",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5507374,
+          12.9909964
+        ]
+      },
+      "id": "node/5922659281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928150385",
+        "name": "Maximus Automobile engineer s",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.429198,
+          17.3792138
+        ]
+      },
+      "id": "node/5928150385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6198707986",
+        "name": "Car Repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4639089,
+          17.394887
+        ]
+      },
+      "id": "node/6198707986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6229449685",
+        "name": "Two Wheeler Garrage - Spare Parts And Repair Bikes",
+        "phone": "+919284214709",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0460572,
+          15.0028409
+        ]
+      },
+      "id": "node/6229449685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237505787",
+        "name": "Raj Auto Works - Bikes Repair and Parts",
+        "phone": "+918408889892",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0360838,
+          15.0126083
+        ]
+      },
+      "id": "node/6237505787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237529086",
+        "name": "Stream Line Garage - Bikes Repair and Parts",
+        "phone": "+919881740529",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0357586,
+          15.0149346
+        ]
+      },
+      "id": "node/6237529086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6291128566",
+        "addr:city": "Davanagere",
+        "addr:postcode": "577006",
+        "addr:street": "Hadadi Road",
+        "brand": "Bosch Car Service",
+        "brand:wikidata": "Q234021",
+        "brand:wikipedia": "de:Robert Bosch GmbH",
+        "name": "Bosch Car Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9227868,
+          14.4410845
+        ]
+      },
+      "id": "node/6291128566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6295709107",
+        "name": "Eveergreen Enfield Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3642097,
+          17.4501368
+        ]
+      },
+      "id": "node/6295709107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6354133586",
+        "name": "Jiji work shop",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4161892,
+          12.2085308
+        ]
+      },
+      "id": "node/6354133586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6581371215",
+        "name": "Laxmi Ganapathi Motors",
+        "phone": "+91 9505742248",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5668789,
+          17.423232
+        ]
+      },
+      "id": "node/6581371215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6585771585",
+        "addr:street": "OU Staff Colony",
+        "name": "POORNA motors",
+        "phone": "9357555503",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3912426,
+          17.408158
+        ]
+      },
+      "id": "node/6585771585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6868834524",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3185953,
+          17.5058111
+        ]
+      },
+      "id": "node/6868834524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6956749896",
+        "name": "Lohi Sree Durga Automobiles",
+        "operator": "Lohithakshan",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1004873,
+          12.3366597
+        ]
+      },
+      "id": "node/6956749896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018613960",
+        "addr:city": "kuthuparamba",
+        "addr:postcode": "670691",
+        "addr:street": "Pathayakunnu",
+        "name": "Balaji Maruti service Centre",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5661646,
+          11.7900546
+        ]
+      },
+      "id": "node/7018613960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025820762",
+        "name": "S.V.R Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3949318,
+          17.4394589
+        ]
+      },
+      "id": "node/7025820762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027716888",
+        "name": "Raja Volvo Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.401138,
+          17.449061
+        ]
+      },
+      "id": "node/7027716888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027716894",
+        "name": "SN Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.394959,
+          17.450625
+        ]
+      },
+      "id": "node/7027716894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043262385",
+        "name": "Babu Auto Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5858696,
+          12.9550862
+        ]
+      },
+      "id": "node/7043262385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7077982463",
+        "brand": "Jaguar",
+        "brand:wikidata": "Q21170490",
+        "name": "Jaguar Service Centre",
+        "shop": "car_repair",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6052868,
+          12.903696
+        ]
+      },
+      "id": "node/7077982463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7109696063",
+        "addr:city": "Bengaluru",
+        "addr:postcode": "560078",
+        "addr:street": "14th Cross Road",
+        "name": "KIA SERVICE CENTRE",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "service:vehicle:car_repair": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5982079,
+          12.9073592
+        ]
+      },
+      "id": "node/7109696063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243950730",
+        "name": "raghavendra bike point",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5023188,
+          17.3972624
+        ]
+      },
+      "id": "node/7243950730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7299210874",
+        "name": "Premium Honda",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6017293,
+          14.7127325
+        ]
+      },
+      "id": "node/7299210874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7334402089",
+        "name": "Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1377995,
+          12.4566447
+        ]
+      },
+      "id": "node/7334402089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7334402091",
+        "name": "Advanced Car Repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1374133,
+          12.4560738
+        ]
+      },
+      "id": "node/7334402091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7361902934",
+        "name": "Swasthik Auto Workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0019764,
+          12.5148734
+        ]
+      },
+      "id": "node/7361902934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7361902935",
+        "name": "ARUN SPRAY PAINTING",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0021453,
+          12.5149785
+        ]
+      },
+      "id": "node/7361902935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7366173193",
+        "name": "Dream Auto Works",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0400817,
+          12.5105122
+        ]
+      },
+      "id": "node/7366173193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398792166",
+        "addr:street": "Kalpetta-Sulthan Bathery Road",
+        "brand": "Bosch Car Service",
+        "name": "Bosch Car Service",
+        "operator": "cholayil wheel care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1706467,
+          11.6588506
+        ]
+      },
+      "id": "node/7398792166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398792176",
+        "man_made": "works",
+        "name": "auto care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1673016,
+          11.6602184
+        ]
+      },
+      "id": "node/7398792176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7461514377",
+        "name": "x",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4988065,
+          11.7530541
+        ]
+      },
+      "id": "node/7461514377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7461672596",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5072346,
+          11.7602587
+        ]
+      },
+      "id": "node/7461672596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7465683561",
+        "name": "Relax automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7099407,
+          11.6741056
+        ]
+      },
+      "id": "node/7465683561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7479904129",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4015466,
+          11.8813571
+        ]
+      },
+      "id": "node/7479904129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7485490547",
+        "brand": "Suzuki",
+        "brand:wikidata": "Q181642",
+        "brand:wikipedia": "en:Suzuki",
+        "name": "Maruti Suzuki Sevice Centre, Kannur",
+        "operator": "KVR CARS",
+        "service:vehicle:air_conditioning": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3594763,
+          11.9156833
+        ]
+      },
+      "id": "node/7485490547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7496499072",
+        "name": "Workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1774514,
+          12.1614133
+        ]
+      },
+      "id": "node/7496499072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7499918438",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4042305,
+          11.9707152
+        ]
+      },
+      "id": "node/7499918438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7502596833",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.549717,
+          11.9978507
+        ]
+      },
+      "id": "node/7502596833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512866109",
+        "name": "Kerala State Road Transport Coporation Dealer",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00; PH closed",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4824728,
+          11.7608407
+        ]
+      },
+      "id": "node/7512866109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7515412990",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.082144,
+          11.6148349
+        ]
+      },
+      "id": "node/7515412990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7521095641",
+        "addr:street": "Pilathara - Pazhayangadi - Pappinisseri Road",
+        "name": "Mouvanal bus body works& repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2665459,
+          12.0491466
+        ]
+      },
+      "id": "node/7521095641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528562277",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4979558,
+          11.7451803
+        ]
+      },
+      "id": "node/7528562277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7748182981",
+        "addr:postcode": "670602",
+        "addr:street": "Thalasseri - Irikkur Road",
+        "name": "Automobile electrical",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5039588,
+          11.94041
+        ]
+      },
+      "id": "node/7748182981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7761610503",
+        "name": "Tata Service Centre",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2595305,
+          12.0706902
+        ]
+      },
+      "id": "node/7761610503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7899376698",
+        "name": "Rolling Right",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8594666,
+          12.8280426
+        ]
+      },
+      "id": "node/7899376698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7899376699",
+        "name": "Mahindra First Choice",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8595282,
+          12.8276974
+        ]
+      },
+      "id": "node/7899376699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8066266609",
+        "addr:city": "Hyderabad",
+        "addr:state": "Telangana",
+        "contact:phone": "+91 9959200600",
+        "name": "M S MOTORS",
+        "name:en": "M S MOTORS",
+        "name:te": "ఎం ఎస్ మోటర్స్",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5568481,
+          17.3662432
+        ]
+      },
+      "id": "node/8066266609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8091107239",
+        "addr:city": "Hyderabad",
+        "addr:state": "Telangana",
+        "brand": "Maruti Suzuki",
+        "contact:phone": "+91 9849015667",
+        "name:en": "Cosmo Auto Clinic Private Limited",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.554954,
+          17.3442275
+        ]
+      },
+      "id": "node/8091107239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111317707",
+        "addr:city": "Hyderabad",
+        "addr:postcode": "500039",
+        "addr:street": "Uppal",
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "brand:wikipedia": "en:Toyota",
+        "name": "Toyota",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5722994,
+          17.4027048
+        ]
+      },
+      "id": "node/8111317707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8240257734",
+        "name": "Car Way",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5120881,
+          12.963427
+        ]
+      },
+      "id": "node/8240257734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389354230",
+        "addr:city": "Hyderabad",
+        "addr:postcode": "500076",
+        "addr:street": "Nacharam road",
+        "name": "Saboo Hyundai Service",
+        "operator": "Hyundai",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5595125,
+          17.4384498
+        ]
+      },
+      "id": "node/8389354230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8522762905",
+        "addr:street": "Promenade Road",
+        "name": "MotoAdda",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6156011,
+          12.9913026
+        ]
+      },
+      "id": "node/8522762905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748492779",
+        "name": "Prestige Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5467932,
+          13.2837148
+        ]
+      },
+      "id": "node/8748492779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8750112030",
+        "name": "World Car Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.176452,
+          12.1904258
+        ]
+      },
+      "id": "node/8750112030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8764104371",
+        "addr:city": "Payyannur",
+        "addr:postcode": "670307",
+        "addr:street": "Payyanur Bypass Road",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2146609,
+          12.1135637
+        ]
+      },
+      "id": "node/8764104371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8773337656",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1705014,
+          11.7915151
+        ]
+      },
+      "id": "node/8773337656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8780506222",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2240353,
+          12.1060964
+        ]
+      },
+      "id": "node/8780506222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8781006434",
+        "name": "New janatha automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3555088,
+          12.2671911
+        ]
+      },
+      "id": "node/8781006434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8786426177",
+        "name": "car ac and electrical works",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1986853,
+          12.1024766
+        ]
+      },
+      "id": "node/8786426177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8788089549",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.162159,
+          12.2185998
+        ]
+      },
+      "id": "node/8788089549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8791534660",
+        "name": "CAR SHINE Spray Painting Workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2687223,
+          12.0768117
+        ]
+      },
+      "id": "node/8791534660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8794917747",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6930934,
+          11.9996174
+        ]
+      },
+      "id": "node/8794917747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809197690",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0588459,
+          12.4569659
+        ]
+      },
+      "id": "node/8809197690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8837020457",
+        "brand": "Hyundai",
+        "brand:wikidata": "Q55931",
+        "name": "Hyundai Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6402944,
+          12.952795
+        ]
+      },
+      "id": "node/8837020457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8848120404",
+        "name": "Kanthi Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3514146,
+          11.9181855
+        ]
+      },
+      "id": "node/8848120404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8867835003",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5041963,
+          11.7648889
+        ]
+      },
+      "id": "node/8867835003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8903461495",
+        "name": "MRF Tyres",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.095372,
+          12.3313626
+        ]
+      },
+      "id": "node/8903461495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8907641785",
+        "name": "Car Palace",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0906313,
+          11.6351181
+        ]
+      },
+      "id": "node/8907641785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8907697223",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0890294,
+          11.6297793
+        ]
+      },
+      "id": "node/8907697223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8907714928",
+        "name": "Car Choice",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0904434,
+          11.6352891
+        ]
+      },
+      "id": "node/8907714928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8950342507",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0068673,
+          11.8023258
+        ]
+      },
+      "id": "node/8950342507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997592569",
+        "name": "Maruthi Service Station",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6229782,
+          12.2720447
+        ]
+      },
+      "id": "node/8997592569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9032614448",
+        "name": "Tara Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6206046,
+          13.0023701
+        ]
+      },
+      "id": "node/9032614448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9134314452",
+        "name": "Shri Hariprasad Automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5695102,
+          12.9562454
+        ]
+      },
+      "id": "node/9134314452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9159810899",
+        "addr:street": "Bannerghata Road",
+        "name": "Sai Motors - Chevrolet Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5937507,
+          12.8710628
+        ]
+      },
+      "id": "node/9159810899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9164553725",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1495146,
+          11.7234487
+        ]
+      },
+      "id": "node/9164553725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192964456",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "No.34",
+        "addr:postcode": "560060",
+        "addr:street": "1st Main, 6th Cross, Opp. Kabir Ashram, Kengeri Satellite Town",
+        "brand": "Multi Brand",
+        "currency:INR": "yes",
+        "name": "Maruthi motors",
+        "payment:cash": "yes",
+        "phone": "9886603300",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:painting": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4838533,
+          12.9202888
+        ]
+      },
+      "id": "node/9192964456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9420040270",
+        "name": "Aqsa Diesel Works",
+        "phone": "+919701830607",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.530568,
+          13.1963012
+        ]
+      },
+      "id": "node/9420040270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520881117",
+        "addr:postcode": "413512",
+        "addr:street": "Barshi Latur Road",
+        "name:en": "Motowheels, Latur",
+        "phone": "+919607905015",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5272952,
+          18.4052508
+        ]
+      },
+      "id": "node/9520881117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9626752900",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.327512,
+          17.4938549
+        ]
+      },
+      "id": "node/9626752900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659410170",
+        "name": "Sri Guru Raghavendra Car Care",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5716414,
+          13.1013396
+        ]
+      },
+      "id": "node/9659410170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687948458",
+        "description": "the ultimate automotive surface protection center",
+        "name": "Opti-coat",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6070425,
+          12.9807813
+        ]
+      },
+      "id": "node/9687948458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9777179091",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housename": "Raheja Plaza",
+        "addr:housenumber": "17",
+        "addr:postcode": "560025",
+        "addr:street": "Richmond Road",
+        "addr:suburb": "Ashok Nagar",
+        "email": "connect@getrescued.in",
+        "level": "0",
+        "name": "RESCUE",
+        "phone": "+91 9986 500 500",
+        "service": "repair",
+        "shop": "car_repair",
+        "website": "https://www.getrescued.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6112185,
+          12.9676523
+        ]
+      },
+      "id": "node/9777179091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9786575515",
+        "name": "Car Care Workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0449239,
+          12.510102
+        ]
+      },
+      "id": "node/9786575515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9789260058",
+        "name": "sri vinayaka",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0748873,
+          12.5834639
+        ]
+      },
+      "id": "node/9789260058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9789260064",
+        "name": "perfect",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0742437,
+          12.5834111
+        ]
+      },
+      "id": "node/9789260064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9865883227",
+        "name": "A1 Auto Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7213945,
+          12.93948
+        ]
+      },
+      "id": "node/9865883227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9893823019",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0379665,
+          11.573441
+        ]
+      },
+      "id": "node/9893823019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9893823020",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0398737,
+          11.5747469
+        ]
+      },
+      "id": "node/9893823020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903872416",
+        "addr:city": "Hyderabad",
+        "addr:postcode": "500055",
+        "addr:street": "Srinivas nagar",
+        "brand": "Ram",
+        "brand:wikidata": "Q165708",
+        "name": "Ram motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4251687,
+          17.5120202
+        ]
+      },
+      "id": "node/9903872416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9904108240",
+        "name": "Shell Express Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6445235,
+          12.9144897
+        ]
+      },
+      "id": "node/9904108240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918767487",
+        "name": "mechanic Shop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4409757,
+          17.5199678
+        ]
+      },
+      "id": "node/9918767487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919114771",
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "name": "Toyota",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4740102,
+          17.4793969
+        ]
+      },
+      "id": "node/9919114771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9922810975",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5942938,
+          12.9643079
+        ]
+      },
+      "id": "node/9922810975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9961659918",
+        "name": "Anushka Two Wheelers Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6278671,
+          12.9416964
+        ]
+      },
+      "id": "node/9961659918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10036568121",
+        "name": "Manu Pit Stop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6216701,
+          12.943275
+        ]
+      },
+      "id": "node/10036568121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047410520",
+        "name": "Amman Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6270827,
+          12.9408506
+        ]
+      },
+      "id": "node/10047410520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10114180707",
+        "name": "The Detailing Mafia",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6261803,
+          12.9385446
+        ]
+      },
+      "id": "node/10114180707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10118722286",
+        "name": "St.Mary’s Auto Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.624194,
+          12.9504745
+        ]
+      },
+      "id": "node/10118722286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279266072",
+        "addr:city": "Hyderabad",
+        "addr:housenumber": "Beside Dmart",
+        "addr:street": "Sanath Nagar Main Road",
+        "brand": "Mercedes-Benz",
+        "brand:wikidata": "Q36008",
+        "name": "Mercedes-Benz",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4457701,
+          17.4564036
+        ]
+      },
+      "id": "node/10279266072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279728131",
+        "addr:city": "Hyderabad",
+        "addr:street": "Yousufguda Main Road",
+        "brand": "Hyundai",
+        "brand:wikidata": "Q55931",
+        "name": "Hyundai Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4316774,
+          17.4354249
+        ]
+      },
+      "id": "node/10279728131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279842288",
+        "addr:city": "Hyderabad",
+        "addr:street": "Begumpet Road",
+        "brand": "Suzuki",
+        "brand:wikidata": "Q181642",
+        "name": "Maruthi Suzuki Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4586539,
+          17.4414361
+        ]
+      },
+      "id": "node/10279842288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279859249",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5695456,
+          17.332795
+        ]
+      },
+      "id": "node/10279859249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10586032006",
+        "addr:postcode": "670592",
+        "addr:street": "Kannur - Mattannur Road",
+        "name": "Kumbham heavy vehicles work shop",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.488156,
+          11.923233
+        ]
+      },
+      "id": "node/10586032006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10982185990",
+        "name": "Car care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3349258,
+          12.0640049
+        ]
+      },
+      "id": "node/10982185990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11016292853",
+        "addr:district": "Medchal Malkajgiri",
+        "addr:place": "Bala Nagar",
+        "addr:state": "Telangana",
+        "addr:street": "Vinayakanagar Colony",
+        "addr:subdistrict": "Balanagar",
+        "brand": "MG",
+        "brand:wikidata": "Q1881443",
+        "name": "MG",
+        "operational_status": "operational",
+        "operator:type": "government",
+        "shop": "car_repair",
+        "source": "OpenDataTelangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45881,
+          17.4600833
+        ]
+      },
+      "id": "node/11016292853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11031569088",
+        "name": "Mahabaleshwar Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3314554,
+          14.5506618
+        ]
+      },
+      "id": "node/11031569088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034243182",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5947907,
+          13.9425713
+        ]
+      },
+      "id": "node/11034243182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11070604542",
+        "addr:city": "BADAMI",
+        "addr:postcode": "587201",
+        "addr:street": "Station Road",
+        "name": "BHARAT AUTO ELECTRICAL WORKS",
+        "name:hi": "ABDUL AZIZ R KALADAGI",
+        "opening_hours": "Mo-Su 9:00 - 21:00",
+        "operator": "ASHIF",
+        "phone": "9448897431",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:truck_repair": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6762203,
+          15.9311904
+        ]
+      },
+      "id": "node/11070604542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11178148407",
+        "check_date": "2023-09-09",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5691446,
+          12.9493359
+        ]
+      },
+      "id": "node/11178148407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11178186964",
+        "check_date": "2023-09-09",
+        "name": "Sri Lakshmi Battery Point and Car Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5643105,
+          12.9587876
+        ]
+      },
+      "id": "node/11178186964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11210706305",
+        "name": "Nazeer Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5832044,
+          18.3846504
+        ]
+      },
+      "id": "node/11210706305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11240224637",
+        "addr:city": "Taliparamba",
+        "addr:district": "Kannur",
+        "addr:postcode": "670141",
+        "name": "Grand Auto Garage",
+        "phone": "+91 460 2080 561",
+        "service:vehicle:car_repair": "yes",
+        "shop": "car_repair",
+        "website": "https://www.grandautogarage.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3629358,
+          12.0344164
+        ]
+      },
+      "id": "node/11240224637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11270825574",
+        "name": "MOBIS",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1089758,
+          13.0069039
+        ]
+      },
+      "id": "node/11270825574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11303773816",
+        "check_date": "2023-11-01",
+        "fixme": "only detailing",
+        "name": "Rhino",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.591074,
+          12.906477
+        ]
+      },
+      "id": "node/11303773816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11340628957",
+        "name": "Quartz Auto Services",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1033145,
+          13.0266954
+        ]
+      },
+      "id": "node/11340628957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11340748558",
+        "name": "Vishwa Automotive Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0945694,
+          13.0244423
+        ]
+      },
+      "id": "node/11340748558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350238325",
+        "name": "Jai Maruthi Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.11484,
+          13.0165431
+        ]
+      },
+      "id": "node/11350238325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350238354",
+        "name": "Elite Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1146159,
+          13.0155221
+        ]
+      },
+      "id": "node/11350238354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11355652902",
+        "name": "Leo cars",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6898188,
+          12.8359102
+        ]
+      },
+      "id": "node/11355652902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368235758",
+        "name": "N.B Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.109231,
+          13.0043063
+        ]
+      },
+      "id": "node/11368235758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368235793",
+        "name": "Maruthi Car Clinic",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1093998,
+          13.0054295
+        ]
+      },
+      "id": "node/11368235793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368235800",
+        "name": "Shri Lakshmi Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1095627,
+          13.0056101
+        ]
+      },
+      "id": "node/11368235800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368235814",
+        "name": "Sri Raghavendra Windshield Glass Experts",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.109466,
+          13.0059841
+        ]
+      },
+      "id": "node/11368235814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11375774374",
+        "name": "G.M Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1179633,
+          13.0151837
+        ]
+      },
+      "id": "node/11375774374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11445712780",
+        "check_date": "2023-12-23",
+        "name": "Chamundi automobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5788924,
+          13.0947952
+        ]
+      },
+      "id": "node/11445712780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11465714935",
+        "check_date": "2023-12-29",
+        "internet_access": "no",
+        "name": "SR Wheel Alignment",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:paytm": "yes",
+        "payment:upi": "yes",
+        "service:vehicle:alignment": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:car_service": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:parts": "yes",
+        "service:vehicle:servicing": "yes",
+        "service:vehicle:suspension": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:tyres_repair": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6004091,
+          13.1053023
+        ]
+      },
+      "id": "node/11465714935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11465752385",
+        "check_date": "2023-12-29",
+        "internet_access": "no",
+        "name": "Selvam Glass Works",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:paytm": "yes",
+        "payment:upi": "yes",
+        "service:vehicle:glass": "yes",
+        "service:vehicle:glass_repair": "yes",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6015746,
+          13.1068039
+        ]
+      },
+      "id": "node/11465752385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11465756632",
+        "check_date": "2023-12-29",
+        "internet_access": "no",
+        "name": "Vehicle Repair Shop",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:paytm": "yes",
+        "payment:upi": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:repair": "yes",
+        "service:vehicle:truck_repair": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:tyres_repair": "yes",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6013894,
+          13.1062987
+        ]
+      },
+      "id": "node/11465756632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513274684",
+        "addr:city": "Dalaj No. 3",
+        "addr:district": "Pune",
+        "addr:postcode": "413132",
+        "addr:street": "Pune Solapur Highway",
+        "phone": "+919370936100",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8251497,
+          18.2262369
+        ]
+      },
+      "id": "node/11513274684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11684833351",
+        "name": "Yokohama Club Network-Sachin Motor Company",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4441245,
+          17.522401
+        ]
+      },
+      "id": "node/11684833351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11801896079",
+        "name": "Sri Nagamalai Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5605758,
+          12.9060922
+        ]
+      },
+      "id": "node/11801896079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11874224023",
+        "check_date": "2024-05-02",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8396957,
+          14.6138921
+        ]
+      },
+      "id": "node/11874224023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11949315156",
+        "addr:floor": "G",
+        "check_date": "2024-06-01",
+        "level": "0",
+        "name": "Kaar Clinic",
+        "name:en": "Kaar Clinic",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5922508,
+          13.0589387
+        ]
+      },
+      "id": "node/11949315156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12052440872",
+        "check_date": "2024-07-11",
+        "name": "Master Mech",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5957551,
+          13.0577032
+        ]
+      },
+      "id": "node/12052440872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12052440874",
+        "check_date": "2024-07-11",
+        "name": "ARJ Car care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5952894,
+          13.0577123
+        ]
+      },
+      "id": "node/12052440874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12052440877",
+        "check_date": "2024-07-11",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.594705,
+          13.0580143
+        ]
+      },
+      "id": "node/12052440877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12118816468",
+        "addr:street": "Dr. Rajkumar Road",
+        "name": "The Detailing Mafia",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5544213,
+          12.9964977
+        ]
+      },
+      "id": "node/12118816468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285338815",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "check_date": "2024-10-23",
+        "name": "Maruti Suzuki",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6266764,
+          12.9098456
+        ]
+      },
+      "id": "node/12285338815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12378818542",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.574993,
+          13.0063638
+        ]
+      },
+      "id": "node/12378818542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12609026101",
+        "name": "Johm Deere Ecotone Inc. Tractor Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7285461,
+          13.4153361
+        ]
+      },
+      "id": "node/12609026101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12609026202",
+        "name": "Maruti Suzuki Nexa Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.729171,
+          13.4194087
+        ]
+      },
+      "id": "node/12609026202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12651832972",
+        "check_date": "2025-07-26",
+        "name": "A.H Auto Empire",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7463571,
+          12.9482121
+        ]
+      },
+      "id": "node/12651832972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12676265207",
+        "check_date": "2025-03-18",
+        "name": "Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5572131,
+          13.0424609
+        ]
+      },
+      "id": "node/12676265207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12704428627",
+        "brand": "Bosch Car Service",
+        "brand:wikidata": "Q894368",
+        "check_date": "2025-07-26",
+        "name": "Bosch Car Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7295136,
+          12.9562633
+        ]
+      },
+      "id": "node/12704428627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12715087997",
+        "check_date": "2025-03-31",
+        "name": "Maxim Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7423673,
+          12.9568087
+        ]
+      },
+      "id": "node/12715087997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12794240473",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "check_date": "2025-04-28",
+        "name": "Maruti Suzuki",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5597026,
+          13.0679399
+        ]
+      },
+      "id": "node/12794240473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12839738027",
+        "check_date": "2025-05-15",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.765215,
+          12.8761382
+        ]
+      },
+      "id": "node/12839738027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12874815143",
+        "addr:street": "Varthur Lake Road",
+        "building": "kiosk",
+        "building:levels": "1",
+        "check_date": "2025-08-26",
+        "name": "Puncture Shop",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7469838,
+          12.9464212
+        ]
+      },
+      "id": "node/12874815143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12925347032",
+        "check_date": "2025-06-19",
+        "name": "AS Auto Sparts",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5822366,
+          12.9546952
+        ]
+      },
+      "id": "node/12925347032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12944870018",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "check_date": "2025-08-03",
+        "name": "Maruti Suzuki",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7552929,
+          12.9341533
+        ]
+      },
+      "id": "node/12944870018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959659661",
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "check_date": "2025-06-28",
+        "name": "Tansi Honda",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7400141,
+          12.9288796
+        ]
+      },
+      "id": "node/12959659661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12971335610",
+        "addr:city": "Sagara",
+        "addr:district": "Shivamogga",
+        "addr:housenumber": "459/1204",
+        "addr:postcode": "577401",
+        "addr:street": "Behind Bharath petroleum Pump, Gandhinagar, Shimoga road",
+        "brand": "maruti_suzuki",
+        "name": "Mallika Auto",
+        "opening_hours": "Mo-Sa 09:30-18:30",
+        "operator": "Organization",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+919901390275",
+        "service:vehicle:air_conditioning": "yes",
+        "service:vehicle:alignment": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:glass": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:lpg": "yes",
+        "service:vehicle:muffler": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:painting": "yes",
+        "service:vehicle:repair": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:towing": "yes",
+        "service:vehicle:transmission": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:tyres_repair": "yes",
+        "service:vehicle:used_car_sales": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0439373,
+          14.16751
+        ]
+      },
+      "id": "node/12971335610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12977426778",
+        "check_date": "2025-07-04",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8921974,
+          12.7121122
+        ]
+      },
+      "id": "node/12977426778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13026025439",
+        "name": "Tata Motors Jasper Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4908289,
+          17.5375493
+        ]
+      },
+      "id": "node/13026025439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13074467279",
+        "name": "Deals and Wheels",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6117154,
+          12.9196066
+        ]
+      },
+      "id": "node/13074467279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13114589037",
+        "addr:city": "Bengaluru",
+        "addr:district": "Bangalore Urban",
+        "addr:housenumber": "16/1, Phoenix Towers",
+        "addr:postcode": "560001",
+        "addr:street": "Ground Floor Front Wing, Museum Rd",
+        "name": "Feynlab India HQ",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Samrat Kashim",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "8147148148",
+        "service:vehicle:car_detailing": "yes",
+        "service:vehicle:car_detailing_service": "yes",
+        "service:vehicle:car_maintenance": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:car_wash": "yes",
+        "service:vehicle:carwash": "yes",
+        "service:vehicle:ceramic_coating": "yes",
+        "service:vehicle:detailing": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:modification": "yes",
+        "service:vehicle:paint_correction": "yes",
+        "service:vehicle:paint_protection": "yes",
+        "service:vehicle:paint_restoration": "yes",
+        "service:vehicle:painting": "yes",
+        "service:vehicle:window_tinting": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6044944,
+          12.9720603
+        ]
+      },
+      "id": "node/13114589037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13130809622",
+        "addr:city": "Bengaluru",
+        "addr:district": "Bengaluru Urban",
+        "addr:housenumber": "146",
+        "addr:postcode": "560078",
+        "addr:street": "Kanakapura Road",
+        "name": "Sri Lakshmi Auto Electrical and Battery Works",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5737005,
+          12.9007691
+        ]
+      },
+      "id": "node/13130809622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13189934180",
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "name": "Harsha Toyota",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3558946,
+          17.530075
+        ]
+      },
+      "id": "node/13189934180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13197394948",
+        "addr:city": "jath",
+        "addr:district": "sangli",
+        "addr:postcode": "416404",
+        "addr:street": "near sundaram lodge",
+        "name": "tractor showroom",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "service:vehicle:tractor": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2268072,
+          17.0434394
+        ]
+      },
+      "id": "node/13197394948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13227600347",
+        "brand": "Kia",
+        "brand:wikidata": "Q35349",
+        "check_date": "2025-10-12",
+        "name": "Kia",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.382921,
+          17.4216053
+        ]
+      },
+      "id": "node/13227600347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13277972120",
+        "addr:full": "No:919, Bharani Industrial Estate, Kudlu Gate, Chik Begur Road, Off Hosur Road, Bangalore-560068",
+        "addr:housenumber": "919",
+        "brand": "Škoda",
+        "brand:wikidata": "Q29637",
+        "name": "Škoda",
+        "note": "the source (note) said tafe access",
+        "phone": "080-40813900;+919384697317",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6382519,
+          12.8874274
+        ]
+      },
+      "id": "node/13277972120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13284278135",
+        "brand": "Hyundai",
+        "brand:wikidata": "Q55931",
+        "check_date": "2025-11-06",
+        "name": "Hyundai",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.380655,
+          17.2555485
+        ]
+      },
+      "id": "node/13284278135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13284278136",
+        "check_date": "2025-11-06",
+        "name": "Nexa",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3803605,
+          17.2550807
+        ]
+      },
+      "id": "node/13284278136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13335335211",
+        "addr:city": "Davanagere",
+        "addr:district": "Davanagere",
+        "addr:postcode": "577006",
+        "addr:street": "Harihar Road",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "name": "Shruti Motors",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "operator": "Maruti Suzuki",
+        "payment:cash": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8857436,
+          14.4745529
+        ]
+      },
+      "id": "node/13335335211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13362838358",
+        "auto_rickshaw": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5972865,
+          12.9244116
+        ]
+      },
+      "id": "node/13362838358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13362838359",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5972255,
+          12.9243038
+        ]
+      },
+      "id": "node/13362838359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13362838365",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5977458,
+          12.9243404
+        ]
+      },
+      "id": "node/13362838365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13440473401",
+        "name": "Raam Autotech",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6491379,
+          12.9633454
+        ]
+      },
+      "id": "node/13440473401"
+    }
+  ]
+}

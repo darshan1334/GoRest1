@@ -1,0 +1,1149 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T08:08:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485447199",
+        "name": "Bus stand",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5578663,
+          16.0705979
+        ]
+      },
+      "id": "node/1485447199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1825041307",
+        "name": "TATA Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.605187,
+          14.74038
+        ]
+      },
+      "id": "node/1825041307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4576995527",
+        "description": "Here all vehicles are repaired except bikes .Timings ; 9.AM-10.PM.",
+        "name": "Sheksha Vali Auto Works",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9088601,
+          16.0697889
+        ]
+      },
+      "id": "node/4576995527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444434127",
+        "addr:city": "narasaraopet",
+        "addr:postcode": "522601",
+        "addr:street": "VNK Road",
+        "name": "Water Service",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "payment:cash": "yes",
+        "service:vehicle:auto": "yes",
+        "service:vehicle:bike": "yes",
+        "service:vehicle:car": "yes",
+        "service:vehicle:tractor": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0496219,
+          16.2252881
+        ]
+      },
+      "id": "node/5444434127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444685823",
+        "name": "Vijayadurgha auto mobiles",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0627178,
+          16.2302014
+        ]
+      },
+      "id": "node/5444685823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444841325",
+        "name": "7 car care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0490648,
+          16.2234692
+        ]
+      },
+      "id": "node/5444841325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5446051521",
+        "addr:street": "Industrial Estate,, Ngo Colony, Kakatiya Nagar, Reddy Nagar, Narasaraopet, Andhra Pradesh 522601",
+        "email": "saichowdary950531@gmail.com",
+        "internet_access": "wlan",
+        "name": "Royal Enfield Service Center",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "086472 21787",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0428278,
+          16.2411931
+        ]
+      },
+      "id": "node/5446051521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640986435",
+        "addr:street": "Maseed road",
+        "internet_access": "wlan",
+        "name": "Bismilla cell point",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "9553881786",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6114676,
+          16.4474375
+        ]
+      },
+      "id": "node/5640986435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640992537",
+        "addr:postcode": "522502",
+        "addr:street": "Near Ysr Statue",
+        "name": "Anu Bike Care",
+        "phone": "+91 99896 89856",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6128655,
+          16.4477272
+        ]
+      },
+      "id": "node/5640992537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641050222",
+        "name": "car service and car wash",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6127464,
+          16.4476538
+        ]
+      },
+      "id": "node/5641050222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202766787",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Sri Poorna Car Works",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6489755,
+          16.4945572
+        ]
+      },
+      "id": "node/6202766787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6950634415",
+        "name": "Car mechanic works",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9544915,
+          16.3249096
+        ]
+      },
+      "id": "node/6950634415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7299210874",
+        "name": "Premium Honda",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6017293,
+          14.7127325
+        ]
+      },
+      "id": "node/7299210874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8239646817",
+        "addr:postcode": "521215",
+        "name": "Salim Mechanic Shop",
+        "operator": "Salim",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771254,
+          16.9434222
+        ]
+      },
+      "id": "node/8239646817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9039767992",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1530935,
+          17.6508149
+        ]
+      },
+      "id": "node/9039767992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919080272",
+        "name": "MNC AUTOMOBILES",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7753532,
+          17.0481236
+        ]
+      },
+      "id": "node/9919080272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11494417157",
+        "check_date": "2024-01-06",
+        "name": "Sri Kartikeya Car Gear",
+        "opening_hours": "Mo-Sa 10:00-19:00+",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1860378,
+          17.9085559
+        ]
+      },
+      "id": "node/11494417157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11505634207",
+        "check_date": "2024-01-10",
+        "name": "Sai Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3850429,
+          18.0822707
+        ]
+      },
+      "id": "node/11505634207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11505637024",
+        "check_date": "2024-03-20",
+        "name": "scube Car Care",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3860636,
+          18.0838804
+        ]
+      },
+      "id": "node/11505637024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568843831",
+        "check_date": "2024-01-30",
+        "name": "Teja Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1907162,
+          17.8710258
+        ]
+      },
+      "id": "node/11568843831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568858408",
+        "check_date": "2024-01-30",
+        "name": "Sri Kumari Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2028555,
+          17.8291163
+        ]
+      },
+      "id": "node/11568858408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601442751",
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "check_date": "2025-07-10",
+        "name": "Toyota Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7021104,
+          16.5162646
+        ]
+      },
+      "id": "node/11601442751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601600982",
+        "brand": "Tata",
+        "check_date": "2025-07-11",
+        "name": "Tata Service Center",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7326207,
+          16.5104485
+        ]
+      },
+      "id": "node/11601600982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11648586226",
+        "brand": "Audi",
+        "brand:wikidata": "Q23317",
+        "check_date": "2024-02-21",
+        "name": "Audi",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.752974,
+          16.5141368
+        ]
+      },
+      "id": "node/11648586226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11648586248",
+        "check_date": "2025-07-11",
+        "name": "Destination Automotives",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6907684,
+          16.5214069
+        ]
+      },
+      "id": "node/11648586248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687250228",
+        "check_date": "2024-03-03",
+        "name": "Giri Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5566892,
+          16.4092695
+        ]
+      },
+      "id": "node/11687250228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688050187",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3040214,
+          17.7390405
+        ]
+      },
+      "id": "node/11688050187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688050189",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3055343,
+          17.7376457
+        ]
+      },
+      "id": "node/11688050189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688050190",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3056504,
+          17.7375991
+        ]
+      },
+      "id": "node/11688050190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11874849170",
+        "brand": "Ford",
+        "brand:wikidata": "Q44294",
+        "check_date": "2024-05-02",
+        "name": "Ford",
+        "operator": "PPS",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3228796,
+          17.7383185
+        ]
+      },
+      "id": "node/11874849170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998980345",
+        "check_date": "2024-06-21",
+        "name": "Sindhu Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6445225,
+          16.5001087
+        ]
+      },
+      "id": "node/11998980345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998980351",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Chandu Car Care",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.643242,
+          16.4981646
+        ]
+      },
+      "id": "node/11998980351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12171315316",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "name": "Varun Maruti Suzuki sales and service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8313813,
+          17.1600804
+        ]
+      },
+      "id": "node/12171315316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12174200091",
+        "name": "Sri Pudhieswara Auto Gerej",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9205161,
+          16.0621321
+        ]
+      },
+      "id": "node/12174200091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252407642",
+        "name": "Royal Automatic Car Wash & Alignment",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.134678,
+          16.1900875
+        ]
+      },
+      "id": "node/12252407642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12433201241",
+        "check_date": "2024-12-19",
+        "name": "Abdul Car AC Works",
+        "phone": "+91 98661 16220",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6528855,
+          16.5019185
+        ]
+      },
+      "id": "node/12433201241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12439001144",
+        "name": "Maaa Car Mechanical Works",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5736245,
+          16.5516339
+        ]
+      },
+      "id": "node/12439001144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12531587852",
+        "name": "3M Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3371784,
+          17.7312372
+        ]
+      },
+      "id": "node/12531587852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12582295049",
+        "check_date": "2025-02-12",
+        "name": "JM Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4941175,
+          13.6173696
+        ]
+      },
+      "id": "node/12582295049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852747202",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "check_date": "2025-05-21",
+        "name": "Maruti Suzuki Genuine Parts",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6404769,
+          16.5076422
+        ]
+      },
+      "id": "node/12852747202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12873321052",
+        "name": "Balaji Deisel Service",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6384655,
+          16.508372
+        ]
+      },
+      "id": "node/12873321052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12873376020",
+        "name": "ASIF Car Cool",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6425334,
+          16.5080919
+        ]
+      },
+      "id": "node/12873376020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991173762",
+        "brand": "Bosch Car Service",
+        "brand:wikidata": "Q894368",
+        "check_date": "2025-07-10",
+        "description": "Autonagar , 2nd cross , road3",
+        "email": "karuna.mico@readiffmail.com",
+        "name": "Bosch Car Service",
+        "operator": "Ch.Janardhan Rao",
+        "phone": "+91 93921 01720",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6742021,
+          16.4987779
+        ]
+      },
+      "id": "node/12991173762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991259312",
+        "check_date": "2025-07-10",
+        "name": "Sai Swarup Auto Works",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+91 93462 10299",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6737973,
+          16.4999234
+        ]
+      },
+      "id": "node/12991259312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992868880",
+        "brand": "Maruti Suzuki",
+        "brand:wikidata": "Q963718",
+        "check_date": "2025-07-10",
+        "name": "Maruti Suzuki",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7653583,
+          16.516529
+        ]
+      },
+      "id": "node/12992868880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993587689",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Chandrashekar Shap",
+        "opening_hours": "Mo-Sa 08:30-18:00",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+91 82970 47572",
+        "shop": "car_repair",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6767645,
+          16.5072559
+        ]
+      },
+      "id": "node/12993587689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993623881",
+        "check_date": "2025-07-11",
+        "name": "Adukondalu Shop",
+        "phone": "+91 90101 05987",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6774502,
+          16.5075605
+        ]
+      },
+      "id": "node/12993623881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993629487",
+        "brand": "Carglass",
+        "brand:wikidata": "Q1035997",
+        "check_date": "2025-07-11",
+        "name": "K.Venkateswararao Shet Works",
+        "opening_hours": "Su 09:00-20:00",
+        "phone": "+91 99595 86976",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6787118,
+          16.5066754
+        ]
+      },
+      "id": "node/12993629487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993632931",
+        "check_date": "2025-07-11",
+        "internet_access": "no",
+        "name": "Lakshmi Ganesh Mechanical Works",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+91 98669 62434",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6760201,
+          16.5058221
+        ]
+      },
+      "id": "node/12993632931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993641874",
+        "check_date": "2025-07-11",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6780743,
+          16.5093916
+        ]
+      },
+      "id": "node/12993641874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993649921",
+        "check_date": "2025-07-11",
+        "internet_access": "no",
+        "name": "Shareef Khan Automobile Works",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+91 99594 84326",
+        "shop": "car_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6755787,
+          16.5035182
+        ]
+      },
+      "id": "node/12993649921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993652601",
+        "check_date": "2025-07-11",
+        "name": "Naga Sai Auto Mobiles",
+        "opening_hours": "Su 09:00-21:00",
+        "phone": "+91 92472 22680",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6786742,
+          16.5067084
+        ]
+      },
+      "id": "node/12993652601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993714543",
+        "check_date": "2025-07-11",
+        "name": "VaraLakshmi Enterprises",
+        "phone": "+91 92463 61001",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6758751,
+          16.5107835
+        ]
+      },
+      "id": "node/12993714543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993718830",
+        "check_date": "2025-07-11",
+        "name": "Venkataswara Mechanic Works",
+        "phone": "+91 93980 17829",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6757873,
+          16.5109934
+        ]
+      },
+      "id": "node/12993718830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993739291",
+        "check_date": "2025-07-11",
+        "name": "General Store",
+        "shop": "car_repair",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7224416,
+          16.5093299
+        ]
+      },
+      "id": "node/12993739291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993808274",
+        "brand": "Škoda",
+        "brand:wikidata": "Q29637",
+        "check_date": "2025-07-11",
+        "name": "Škoda Service And Repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6910407,
+          16.5222446
+        ]
+      },
+      "id": "node/12993808274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994272597",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Car Kingdom",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6500516,
+          16.5038342
+        ]
+      },
+      "id": "node/12994272597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179772014",
+        "addr:city": "vizianagaram",
+        "addr:district": "vizianagaram",
+        "addr:postcode": "535002",
+        "addr:street": "100 feet Ring Road",
+        "name": "R V MOTORS",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4082598,
+          18.1077705
+        ]
+      },
+      "id": "node/13179772014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13251219321",
+        "check_date": "2025-10-23",
+        "name": "Hema Car Repair",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1905507,
+          17.869918
+        ]
+      },
+      "id": "node/13251219321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543634300",
+        "check_date": "2026-02-10",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1892792,
+          17.8173685
+        ]
+      },
+      "id": "node/13543634300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543685712",
+        "check_date": "2026-02-10",
+        "name": "Bhavani Multy Car Care",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1974851,
+          17.8460226
+        ]
+      },
+      "id": "node/13543685712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543686120",
+        "check_date": "2026-02-10",
+        "name": "Aditya Car Service and Repairs",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1339328,
+          17.7978293
+        ]
+      },
+      "id": "node/13543686120"
+    }
+  ]
+}

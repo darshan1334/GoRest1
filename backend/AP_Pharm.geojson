@@ -1,0 +1,7172 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T08:06:08Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/395733453",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3497285,
+          13.6812773
+        ]
+      },
+      "id": "node/395733453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1141197868",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4193841,
+          13.6288055
+        ]
+      },
+      "id": "node/1141197868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824367505",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Appolo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3351151,
+          17.743378
+        ]
+      },
+      "id": "node/1824367505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1921954346",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6044758,
+          15.9688113
+        ]
+      },
+      "id": "node/1921954346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2040940649",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3069341,
+          15.7817177
+        ]
+      },
+      "id": "node/2040940649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2040942139",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3066954,
+          15.7815009
+        ]
+      },
+      "id": "node/2040942139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059299788",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3056801,
+          15.7820731
+        ]
+      },
+      "id": "node/2059299788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059299981",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3058866,
+          15.785431
+        ]
+      },
+      "id": "node/2059299981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059310055",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3064402,
+          15.7807499
+        ]
+      },
+      "id": "node/2059310055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059312847",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3058556,
+          15.7822211
+        ]
+      },
+      "id": "node/2059312847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2845696138",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "apollo pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0985102,
+          13.2170639
+        ]
+      },
+      "id": "node/2845696138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3640907187",
+        "amenity": "pharmacy",
+        "name": "Nanda Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7030498,
+          13.7499843
+        ]
+      },
+      "id": "node/3640907187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3640907189",
+        "amenity": "pharmacy",
+        "name": "Gupta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6998834,
+          13.750862
+        ]
+      },
+      "id": "node/3640907189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3684858436",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1534411,
+          17.6823237
+        ]
+      },
+      "id": "node/3684858436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345545207",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6496583,
+          16.2380489
+        ]
+      },
+      "id": "node/4345545207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4366502490",
+        "addr:housenumber": "#16-481",
+        "addr:postcode": "515134",
+        "addr:street": "Near OPD Gete",
+        "amenity": "pharmacy",
+        "email": "saivigneshmedicals@gmail.com",
+        "name": "Sai Vignesh Medicals",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Chekri",
+        "phone": "09966878380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7786302,
+          14.1522696
+        ]
+      },
+      "id": "node/4366502490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4594089850",
+        "addr:street": "vvit road",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sihini Medical store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.530145,
+          16.3575433
+        ]
+      },
+      "id": "node/4594089850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965290721",
+        "amenity": "pharmacy",
+        "name": "Sri Venkateshwara Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2419105,
+          17.6890131
+        ]
+      },
+      "id": "node/4965290721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788451",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2364184,
+          17.689667
+        ]
+      },
+      "id": "node/5080788451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788500",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2406428,
+          17.6830586
+        ]
+      },
+      "id": "node/5080788500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788501",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2357961,
+          17.6897053
+        ]
+      },
+      "id": "node/5080788501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788502",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2369977,
+          17.689621
+        ]
+      },
+      "id": "node/5080788502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788503",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2428235,
+          17.6889336
+        ]
+      },
+      "id": "node/5080788503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788504",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2367751,
+          17.689874
+        ]
+      },
+      "id": "node/5080788504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788505",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2363191,
+          17.68992
+        ]
+      },
+      "id": "node/5080788505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788506",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2380947,
+          17.6897436
+        ]
+      },
+      "id": "node/5080788506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080788507",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2389718,
+          17.6896542
+        ]
+      },
+      "id": "node/5080788507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444387723",
+        "amenity": "pharmacy",
+        "name": "VAHINI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0457841,
+          16.2346708
+        ]
+      },
+      "id": "node/5444387723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444476722",
+        "amenity": "pharmacy",
+        "name": "Apollo pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0536842,
+          16.2359699
+        ]
+      },
+      "id": "node/5444476722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445525825",
+        "amenity": "pharmacy",
+        "name": "Kalki medical shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8852198,
+          16.481124
+        ]
+      },
+      "id": "node/5445525825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445577940",
+        "amenity": "pharmacy",
+        "name": "Vamsee pharmacy no 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8859551,
+          16.4803255
+        ]
+      },
+      "id": "node/5445577940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445583521",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8857591,
+          16.4805845
+        ]
+      },
+      "id": "node/5445583521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445605589",
+        "amenity": "pharmacy",
+        "name": "Apollo pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8859468,
+          16.4808605
+        ]
+      },
+      "id": "node/5445605589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445605591",
+        "amenity": "pharmacy",
+        "name": "Vamsee pharmacy",
+        "note": "The shopping facilities locations near this stretch appear to be before road widening. These are moved to the approximate side of the widened road. These to be firmed up by survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8854977,
+          16.4809831
+        ]
+      },
+      "id": "node/5445605591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455776021",
+        "amenity": "pharmacy",
+        "name": "Saloon",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8862176,
+          16.4804381
+        ]
+      },
+      "id": "node/5455776021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640977725",
+        "addr:street": "Masjid Centre",
+        "amenity": "pharmacy",
+        "name": "Balajai Medical and fancy",
+        "opening_hours": "Mo-Sa 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6113759,
+          16.4472922
+        ]
+      },
+      "id": "node/5640977725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640984125",
+        "addr:postcode": "522501",
+        "addr:street": "Kumchenpalli",
+        "amenity": "pharmacy",
+        "name": "Fertilizers and pestisides",
+        "name:en": "Venkatsai vegnesha enterprises",
+        "phone": "9985882912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6169353,
+          16.4629987
+        ]
+      },
+      "id": "node/5640984125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640986121",
+        "addr:postcode": "522303",
+        "addr:street": "Masjid Street",
+        "amenity": "pharmacy",
+        "name": "Sri Balaji Medical Store",
+        "phone": "9000716331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6114416,
+          16.4473112
+        ]
+      },
+      "id": "node/5640986121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641006322",
+        "addr:street": "Masjid center",
+        "amenity": "pharmacy",
+        "name": "Sri srinivasa",
+        "name:en": "Sri Srinivasa medical store",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6117395,
+          16.4473063
+        ]
+      },
+      "id": "node/5641006322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641039121",
+        "amenity": "pharmacy",
+        "name": "B.V.V.subramanyam medical and general stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6133237,
+          16.4476847
+        ]
+      },
+      "id": "node/5641039121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5836020885",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy",
+        "operator": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0480976,
+          15.8018552
+        ]
+      },
+      "id": "node/5836020885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839826085",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Sree Veerabhadra Medical & General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0370381,
+          15.8148033
+        ]
+      },
+      "id": "node/5839826085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5858505918",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "R. K. Diagnostic Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0392693,
+          15.8141631
+        ]
+      },
+      "id": "node/5858505918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5926515885",
+        "amenity": "pharmacy",
+        "name": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0409406,
+          15.8295952
+        ]
+      },
+      "id": "node/5926515885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5931251828",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0417447,
+          15.8350058
+        ]
+      },
+      "id": "node/5931251828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5940626132",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Apollo",
+        "name:ur": "اپالو"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0404681,
+          15.8195629
+        ]
+      },
+      "id": "node/5940626132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6174810470",
+        "amenity": "pharmacy",
+        "name": "Star Mediclinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0377085,
+          15.8128491
+        ]
+      },
+      "id": "node/6174810470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6176561267",
+        "amenity": "pharmacy",
+        "name": "Sri Veerabhadra Chemicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0387979,
+          15.8142364
+        ]
+      },
+      "id": "node/6176561267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183032186",
+        "addr:postcode": "522501",
+        "addr:street": "Amaravati road",
+        "amenity": "pharmacy",
+        "name": "Srisaimedicals",
+        "opening_hours": "24/7",
+        "phone": "6300406859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6112989,
+          16.4818497
+        ]
+      },
+      "id": "node/6183032186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202692287",
+        "amenity": "pharmacy",
+        "name": "Medical Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.606358,
+          16.5330026
+        ]
+      },
+      "id": "node/6202692287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202698988",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6036226,
+          16.5226452
+        ]
+      },
+      "id": "node/6202698988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202780695",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Universal Medicals",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6649811,
+          16.4930635
+        ]
+      },
+      "id": "node/6202780695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202798188",
+        "amenity": "pharmacy",
+        "name": "Medplus Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6952908,
+          16.4809344
+        ]
+      },
+      "id": "node/6202798188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202968286",
+        "amenity": "pharmacy",
+        "name": "Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3899991,
+          16.5304099
+        ]
+      },
+      "id": "node/6202968286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6204702085",
+        "amenity": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5261684,
+          16.5449948
+        ]
+      },
+      "id": "node/6204702085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6204784988",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5026938,
+          16.5416027
+        ]
+      },
+      "id": "node/6204784988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6205644485",
+        "amenity": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5166235,
+          16.5420234
+        ]
+      },
+      "id": "node/6205644485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207469385",
+        "amenity": "pharmacy",
+        "name": "Sri Venkateshwara Medical Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9961241,
+          16.4337497
+        ]
+      },
+      "id": "node/6207469385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207584985",
+        "amenity": "pharmacy",
+        "name": "Laxmi Srinivas Medical Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7199437,
+          16.4712177
+        ]
+      },
+      "id": "node/6207584985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207585285",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Ravi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6979334,
+          16.4798364
+        ]
+      },
+      "id": "node/6207585285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207604486",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6727431,
+          16.4897952
+        ]
+      },
+      "id": "node/6207604486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207645186",
+        "amenity": "pharmacy",
+        "name": "Ravi Medical & Fancy Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5939846,
+          16.5255237
+        ]
+      },
+      "id": "node/6207645186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298715986",
+        "addr:housenumber": "3-153",
+        "addr:postcode": "522303",
+        "addr:street": "Galigopuram",
+        "amenity": "pharmacy",
+        "name": "REVANTH SAI FANCY AND MEDICAL STORE",
+        "operator": "P. Samba sivarao",
+        "phone": "8297683536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6566043,
+          16.428772
+        ]
+      },
+      "id": "node/6298715986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298716785",
+        "addr:postcode": "522303",
+        "amenity": "pharmacy",
+        "name": "Nagasiva Pavani Medical and fancy stores",
+        "operator": "A.Venkat rao",
+        "phone": "9703889555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6575627,
+          16.4278625
+        ]
+      },
+      "id": "node/6298716785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841702413",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Sri Venkateswara Medical store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0825852,
+          17.127845
+        ]
+      },
+      "id": "node/6841702413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6950621270",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Ravi Medical Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.960399,
+          16.3206213
+        ]
+      },
+      "id": "node/6950621270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244129776",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "brand:wikipedia": "en:MedPlus",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4115629,
+          18.1030027
+        ]
+      },
+      "id": "node/7244129776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246549550",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4664859,
+          16.2975387
+        ]
+      },
+      "id": "node/7246549550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7296601785",
+        "amenity": "pharmacy",
+        "name": "Sri venkateswara medical and general stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6841853,
+          16.0520609
+        ]
+      },
+      "id": "node/7296601785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7611629972",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2271029,
+          16.9348756
+        ]
+      },
+      "id": "node/7611629972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7798096279",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "name": "VijayaDurga Medical and Fancy Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6344973,
+          16.5145658
+        ]
+      },
+      "id": "node/7798096279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7819783910",
+        "addr:postcode": "516104",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Gowri sankar medical store",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3318914,
+          14.1712367
+        ]
+      },
+      "id": "node/7819783910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7939098209",
+        "amenity": "pharmacy",
+        "name": "uma medical shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5139922,
+          16.5433665
+        ]
+      },
+      "id": "node/7939098209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7947098663",
+        "amenity": "pharmacy",
+        "name": "apollo Medical pharmacy",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5139855,
+          16.5436519
+        ]
+      },
+      "id": "node/7947098663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7947098664",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5136972,
+          16.5432662
+        ]
+      },
+      "id": "node/7947098664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7947237112",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5191367,
+          16.5452408
+        ]
+      },
+      "id": "node/7947237112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8112487158",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6928717,
+          16.7593508
+        ]
+      },
+      "id": "node/8112487158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8117755641",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Sri new krishna medical stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6617601,
+          18.4494001
+        ]
+      },
+      "id": "node/8117755641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8985030916",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.407942,
+          13.6161587
+        ]
+      },
+      "id": "node/8985030916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9049149719",
+        "addr:postcode": "534176",
+        "addr:street": "Narsapuram - Aswaraopeta Road",
+        "amenity": "pharmacy",
+        "name": "Medical Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.4120593,
+          17.0138306
+        ]
+      },
+      "id": "node/9049149719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9398517057",
+        "addr:city": "Ponnur",
+        "addr:housenumber": "D.No: 4-1-8",
+        "addr:postcode": "522124",
+        "addr:street": "Subbaraya Choultry, Island Center",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "GDR Medicals",
+        "opening_hours": "Mo-Su 08:30-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5514558,
+          16.0665262
+        ]
+      },
+      "id": "node/9398517057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9627139987",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Sri Ravi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1576224,
+          16.0931389
+        ]
+      },
+      "id": "node/9627139987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768626364",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2560947,
+          17.7496301
+        ]
+      },
+      "id": "node/9768626364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918867484",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy Srikakulam",
+        "not:brand:wikidata": "Q62562612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8942405,
+          18.3048605
+        ]
+      },
+      "id": "node/9918867484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918963127",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9017482,
+          18.2946573
+        ]
+      },
+      "id": "node/9918963127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919080290",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Sai Durga Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.776445,
+          17.0396704
+        ]
+      },
+      "id": "node/9919080290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919080306",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Sri Sai Kalikrishnabhagavan Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7759284,
+          17.0342475
+        ]
+      },
+      "id": "node/9919080306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11357281786",
+        "addr:city": "chirala",
+        "addr:district": "Prakasam",
+        "addr:housenumber": "R9C2+72V",
+        "addr:postcode": "523155",
+        "addr:street": "TCMA Building, Kotla Bazaar",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "08594239999",
+        "name": "SURYA Pharmacy",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "SURYA HOSPITAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3501073,
+          15.8207191
+        ]
+      },
+      "id": "node/11357281786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454997616",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5220589,
+          16.9967784
+        ]
+      },
+      "id": "node/11454997616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454997638",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5222185,
+          16.9975477
+        ]
+      },
+      "id": "node/11454997638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454997639",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Raghu Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5224509,
+          16.9976848
+        ]
+      },
+      "id": "node/11454997639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454997648",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vijayalakshmi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5233069,
+          16.9991556
+        ]
+      },
+      "id": "node/11454997648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11472587976",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9696119,
+          16.4263997
+        ]
+      },
+      "id": "node/11472587976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11507998509",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-01-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3567637,
+          17.8243797
+        ]
+      },
+      "id": "node/11507998509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11563404858",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-01-29",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3970195,
+          18.1070195
+        ]
+      },
+      "id": "node/11563404858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568843829",
+        "amenity": "pharmacy",
+        "check_date": "2024-01-30",
+        "healthcare": "pharmacy",
+        "name": "JMJ Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1896323,
+          17.8765797
+        ]
+      },
+      "id": "node/11568843829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568858428",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-01-30",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2108041,
+          17.7992566
+        ]
+      },
+      "id": "node/11568858428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568884068",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-01-30",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2716634,
+          17.7350341
+        ]
+      },
+      "id": "node/11568884068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568906527",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-01-30",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2449377,
+          17.7405178
+        ]
+      },
+      "id": "node/11568906527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11571990793",
+        "amenity": "pharmacy",
+        "check_date": "2024-01-31",
+        "healthcare": "pharmacy",
+        "name": "Generic Vishv Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6458127,
+          16.5066439
+        ]
+      },
+      "id": "node/11571990793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583276205",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-04",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6399102,
+          16.5026848
+        ]
+      },
+      "id": "node/11583276205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583276213",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-04",
+        "healthcare": "pharmacy",
+        "name": "Gayatri Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6392016,
+          16.5028953
+        ]
+      },
+      "id": "node/11583276213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583276223",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-04",
+        "healthcare": "pharmacy",
+        "name": "Vet Pro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6386785,
+          16.5021937
+        ]
+      },
+      "id": "node/11583276223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583276231",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-04",
+        "healthcare": "pharmacy",
+        "name": "Suraksha Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6384132,
+          16.5014427
+        ]
+      },
+      "id": "node/11583276231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583276232",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-04",
+        "healthcare": "pharmacy",
+        "name": "Sri Krishna Vet Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.638991,
+          16.5027337
+        ]
+      },
+      "id": "node/11583276232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11591610954",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5123216,
+          16.9434467
+        ]
+      },
+      "id": "node/11591610954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601247515",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-09",
+        "healthcare": "pharmacy",
+        "name": "Sri Parameswari Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4043463,
+          18.046198
+        ]
+      },
+      "id": "node/11601247515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11608970090",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-02-10",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1881178,
+          17.8995927
+        ]
+      },
+      "id": "node/11608970090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11609359616",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2161174,
+          17.7765459
+        ]
+      },
+      "id": "node/11609359616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11609359621",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2057411,
+          17.8204103
+        ]
+      },
+      "id": "node/11609359621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11609442998",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2174317,
+          17.7530051
+        ]
+      },
+      "id": "node/11609442998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11609638774",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3184059,
+          17.723878
+        ]
+      },
+      "id": "node/11609638774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610187355",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2674111,
+          17.7359818
+        ]
+      },
+      "id": "node/11610187355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610187366",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2780965,
+          17.7325041
+        ]
+      },
+      "id": "node/11610187366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610201185",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2333242,
+          17.743595
+        ]
+      },
+      "id": "node/11610201185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610201199",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-11",
+        "healthcare": "pharmacy",
+        "name": "Pavani Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2182237,
+          17.7511088
+        ]
+      },
+      "id": "node/11610201199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11633147656",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-17",
+        "healthcare": "pharmacy",
+        "name": "Sri Vanaja Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1857344,
+          17.8971006
+        ]
+      },
+      "id": "node/11633147656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11633604682",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-17",
+        "healthcare": "pharmacy",
+        "name": "Surya Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9033092,
+          18.4093123
+        ]
+      },
+      "id": "node/11633604682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11633710845",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-17",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8935512,
+          18.2946138
+        ]
+      },
+      "id": "node/11633710845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11633711623",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-17",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8946411,
+          18.3139795
+        ]
+      },
+      "id": "node/11633711623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11647277518",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-21",
+        "healthcare": "pharmacy",
+        "name": "Vijaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3066805,
+          17.7317172
+        ]
+      },
+      "id": "node/11647277518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11647435225",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-21",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1338381,
+          17.6880696
+        ]
+      },
+      "id": "node/11647435225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11652965025",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-02-21",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5990868,
+          16.5376441
+        ]
+      },
+      "id": "node/11652965025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11652965026",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5991712,
+          16.536749
+        ]
+      },
+      "id": "node/11652965026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11652965029",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.596773,
+          16.5304549
+        ]
+      },
+      "id": "node/11652965029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11653010000",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-22",
+        "healthcare": "pharmacy",
+        "name": "Adithya Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6157755,
+          16.4757952
+        ]
+      },
+      "id": "node/11653010000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11653010007",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-22",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6168253,
+          16.4795969
+        ]
+      },
+      "id": "node/11653010007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11653121056",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-02-22",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6384987,
+          16.5100374
+        ]
+      },
+      "id": "node/11653121056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662781120",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-25",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "Aditya Pharmacy",
+        "phone": "+91 72859 88899",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.648151,
+          16.5062067
+        ]
+      },
+      "id": "node/11662781120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662781122",
+        "amenity": "pharmacy",
+        "check_date": "2024-02-25",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "New Suraksha Pharmacy",
+        "phone": "+91 80086 32203",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6482081,
+          16.5062204
+        ]
+      },
+      "id": "node/11662781122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687222905",
+        "amenity": "pharmacy",
+        "check_date": "2024-03-03",
+        "healthcare": "pharmacy",
+        "name": "Sujata Pharma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4505511,
+          16.2969523
+        ]
+      },
+      "id": "node/11687222905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687288051",
+        "amenity": "pharmacy",
+        "check_date": "2024-03-03",
+        "healthcare": "pharmacy",
+        "name": "Sri Ramakrishna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6380985,
+          16.5099471
+        ]
+      },
+      "id": "node/11687288051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688050192",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.30576,
+          17.7394679
+        ]
+      },
+      "id": "node/11688050192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11690446185",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3042503,
+          17.7350256
+        ]
+      },
+      "id": "node/11690446185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11690446194",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3130433,
+          17.7383707
+        ]
+      },
+      "id": "node/11690446194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11690449432",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2997388,
+          17.736649
+        ]
+      },
+      "id": "node/11690449432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11693546279",
+        "amenity": "pharmacy",
+        "check_date": "2024-03-05",
+        "healthcare": "pharmacy",
+        "name": "Vigneswara Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1658717,
+          16.0948634
+        ]
+      },
+      "id": "node/11693546279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11693986627",
+        "amenity": "pharmacy",
+        "check_date": "2024-03-05",
+        "healthcare": "pharmacy",
+        "name": "Vigneswara Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1658716,
+          16.0948634
+        ]
+      },
+      "id": "node/11693986627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697416886",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-19",
+        "healthcare": "pharmacy",
+        "name": "Arogyaraksha Generic Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6376009,
+          16.5188631
+        ]
+      },
+      "id": "node/11697416886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697416894",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-18",
+        "healthcare": "pharmacy",
+        "name": "Mahesh Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6386242,
+          16.5254271
+        ]
+      },
+      "id": "node/11697416894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697416895",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2025-07-24",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "MedPlus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6388916,
+          16.5257534
+        ]
+      },
+      "id": "node/11697416895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697416899",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2025-07-24",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "MedPlus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6377546,
+          16.5298968
+        ]
+      },
+      "id": "node/11697416899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11703280577",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-03-08",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2731535,
+          17.7341905
+        ]
+      },
+      "id": "node/11703280577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11707300814",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-03-09",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.421501,
+          18.1102301
+        ]
+      },
+      "id": "node/11707300814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11738939276",
+        "amenity": "pharmacy",
+        "check_date": "2024-03-17",
+        "healthcare": "pharmacy",
+        "name": "Sri Sai Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3537043,
+          17.8043413
+        ]
+      },
+      "id": "node/11738939276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11741089428",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-03-18",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.239284,
+          17.7715948
+        ]
+      },
+      "id": "node/11741089428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11793760583",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2304987,
+          17.7435093
+        ]
+      },
+      "id": "node/11793760583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11793760643",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sai Ramkrishna Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2289186,
+          17.7437014
+        ]
+      },
+      "id": "node/11793760643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11793760680",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2225925,
+          17.7457212
+        ]
+      },
+      "id": "node/11793760680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11818010546",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3345037,
+          17.7361267
+        ]
+      },
+      "id": "node/11818010546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11830210790",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vaishnavi Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2188998,
+          17.7495767
+        ]
+      },
+      "id": "node/11830210790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11830210807",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2194218,
+          17.7487309
+        ]
+      },
+      "id": "node/11830210807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11830210858",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Dhavala Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2196592,
+          17.7485165
+        ]
+      },
+      "id": "node/11830210858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11851269070",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Lalitha Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2539492,
+          17.7400186
+        ]
+      },
+      "id": "node/11851269070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11851269086",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.253535,
+          17.7401011
+        ]
+      },
+      "id": "node/11851269086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11851269088",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Manikanta Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2536185,
+          17.7400803
+        ]
+      },
+      "id": "node/11851269088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11851269126",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2526881,
+          17.7401985
+        ]
+      },
+      "id": "node/11851269126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11874849173",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-05-02",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3219765,
+          17.7372058
+        ]
+      },
+      "id": "node/11874849173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11885839715",
+        "amenity": "pharmacy",
+        "check_date": "2024-05-07",
+        "healthcare": "pharmacy",
+        "name": "Sri Devi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7769722,
+          17.4398097
+        ]
+      },
+      "id": "node/11885839715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891802880",
+        "amenity": "pharmacy",
+        "check_date": "2024-05-08",
+        "healthcare": "pharmacy",
+        "name": "Humanity Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0236965,
+          17.4798691
+        ]
+      },
+      "id": "node/11891802880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891802882",
+        "amenity": "pharmacy",
+        "check_date": "2024-05-08",
+        "healthcare": "pharmacy",
+        "name": "Aditya Medical & General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0236845,
+          17.4797557
+        ]
+      },
+      "id": "node/11891802882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11924992978",
+        "addr:city": "Nagalapuram",
+        "addr:district": "Tirupathi",
+        "addr:postcode": "517589",
+        "addr:street": "Bazaar Street",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy",
+        "opening_hours": "24/7",
+        "operator": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7940729,
+          13.3883525
+        ]
+      },
+      "id": "node/11924992978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11974260077",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-05-10",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6152851,
+          16.4739681
+        ]
+      },
+      "id": "node/11974260077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11978141365",
+        "addr:city": "Avanigadda",
+        "addr:district": "Krishna",
+        "addr:postcode": "521121",
+        "addr:street": "Gudivada - Challapalli - T.Kothapalem Road",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "JYOTHI MEDICAL AND GENERAL STORES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9136626,
+          16.0230966
+        ]
+      },
+      "id": "node/11978141365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11978145975",
+        "addr:city": "Avanigadda",
+        "addr:district": "Krishna",
+        "addr:postcode": "521121",
+        "addr:street": "Gudivada - Challapalli - T.Kothapalem Road",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "KIRAN GENERIC PHARMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9135379,
+          16.0229255
+        ]
+      },
+      "id": "node/11978145975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11980477718",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-18",
+        "healthcare": "pharmacy",
+        "name": "Apple Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6380142,
+          16.5231487
+        ]
+      },
+      "id": "node/11980477718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11980574568",
+        "addr:city": "AVANIGADDA",
+        "addr:district": "KRISHNA",
+        "addr:postcode": "521121",
+        "addr:street": "AVANIGADDA-KOTHAPETA ROAD",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "PRAGATHI MEDICALS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9176564,
+          16.0272042
+        ]
+      },
+      "id": "node/11980574568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11983467067",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-15",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0398097,
+          15.8115266
+        ]
+      },
+      "id": "node/11983467067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998123411",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-21",
+        "healthcare": "pharmacy",
+        "name": "Venna Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1634923,
+          14.1008283
+        ]
+      },
+      "id": "node/11998123411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998980359",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-06-21",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6421967,
+          16.5012486
+        ]
+      },
+      "id": "node/11998980359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998980362",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2024-06-21",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64227,
+          16.5013577
+        ]
+      },
+      "id": "node/11998980362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12007389245",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-23",
+        "healthcare": "pharmacy",
+        "name": "Sairam Medical & Fancy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5257541,
+          16.1984692
+        ]
+      },
+      "id": "node/12007389245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12017486369",
+        "amenity": "pharmacy",
+        "check_date": "2024-06-28",
+        "healthcare": "pharmacy",
+        "name": "apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6379863,
+          16.5234134
+        ]
+      },
+      "id": "node/12017486369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12104314162",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy",
+        "opening_hours": "24/7",
+        "operator": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3306692,
+          17.7636954
+        ]
+      },
+      "id": "node/12104314162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12171280226",
+        "addr:city": "Machilipatnam",
+        "addr:district": "Krishna",
+        "addr:postcode": "521001",
+        "addr:street": "Machilipatnam Main Road",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Purna Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1277511,
+          16.1763822
+        ]
+      },
+      "id": "node/12171280226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12171339803",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Moons pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.128739,
+          16.1792122
+        ]
+      },
+      "id": "node/12171339803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12189182983",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2024-09-21",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.653855,
+          16.5014482
+        ]
+      },
+      "id": "node/12189182983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12189205877",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "MedPlus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6476242,
+          16.505316
+        ]
+      },
+      "id": "node/12189205877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192894152",
+        "amenity": "pharmacy",
+        "name": "Prasanti Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.641326,
+          16.5381853
+        ]
+      },
+      "id": "node/12192894152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12203565563",
+        "amenity": "pharmacy",
+        "name": "Medplus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2057726,
+          17.8203015
+        ]
+      },
+      "id": "node/12203565563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12206419212",
+        "amenity": "pharmacy",
+        "name": "Generic medical store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1845525,
+          17.8960104
+        ]
+      },
+      "id": "node/12206419212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12206427600",
+        "amenity": "pharmacy",
+        "name": "Ramakrishna Medical Stores",
+        "phone": "+919985273277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1845146,
+          17.8964614
+        ]
+      },
+      "id": "node/12206427600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12206469995",
+        "amenity": "pharmacy",
+        "name": "Vasavi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.184693,
+          17.8966707
+        ]
+      },
+      "id": "node/12206469995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213464252",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Santhi Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2092213,
+          17.8051502
+        ]
+      },
+      "id": "node/12213464252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213464396",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Generic Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2104259,
+          17.8006523
+        ]
+      },
+      "id": "node/12213464396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213910872",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "VJ Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2100269,
+          17.8006055
+        ]
+      },
+      "id": "node/12213910872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213911040",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Ramachandra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2093038,
+          17.8032889
+        ]
+      },
+      "id": "node/12213911040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213911101",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Generic Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2087962,
+          17.8048719
+        ]
+      },
+      "id": "node/12213911101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213911116",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2088076,
+          17.8051319
+        ]
+      },
+      "id": "node/12213911116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213911123",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Lavanya Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2087722,
+          17.8052804
+        ]
+      },
+      "id": "node/12213911123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12254695772",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1335061,
+          16.1773374
+        ]
+      },
+      "id": "node/12254695772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255194244",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Apollo Pharmacy",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "yes",
+        "website": "https://www.apollopharmacy.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7833511,
+          17.0066881
+        ]
+      },
+      "id": "node/12255194244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12255318563",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Gandhi Surgical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7823611,
+          17.0056907
+        ]
+      },
+      "id": "node/12255318563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12256998549",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7859685,
+          17.0030835
+        ]
+      },
+      "id": "node/12256998549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12257908001",
+        "amenity": "pharmacy",
+        "name": "Pradhanamantri Bharatiya Jan Aushadhi Kendra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7825857,
+          17.0060414
+        ]
+      },
+      "id": "node/12257908001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12259982594",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3927211,
+          18.1017172
+        ]
+      },
+      "id": "node/12259982594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12270860099",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "level": "0;1",
+        "name": "Life medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7857307,
+          17.0063924
+        ]
+      },
+      "id": "node/12270860099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12270884093",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Sri Meghana Medicala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7870185,
+          17.0061906
+        ]
+      },
+      "id": "node/12270884093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12397242329",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4125598,
+          18.1125298
+        ]
+      },
+      "id": "node/12397242329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12397242330",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.414247,
+          18.1152256
+        ]
+      },
+      "id": "node/12397242330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12422552992",
+        "amenity": "pharmacy",
+        "check_date": "2024-12-14",
+        "healthcare": "pharmacy",
+        "name": "Suraksha Generic Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6415616,
+          16.5127934
+        ]
+      },
+      "id": "node/12422552992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12425519487",
+        "amenity": "pharmacy",
+        "check_date": "2024-12-16",
+        "healthcare": "pharmacy",
+        "name": "7 Hills Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6319597,
+          16.5120446
+        ]
+      },
+      "id": "node/12425519487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12425939227",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vijaya Lakshmi Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6155573,
+          16.4708548
+        ]
+      },
+      "id": "node/12425939227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12433203299",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bhavani Medical",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6683112,
+          16.4915454
+        ]
+      },
+      "id": "node/12433203299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12434974245",
+        "amenity": "pharmacy",
+        "check_date": "2024-12-20",
+        "healthcare": "pharmacy",
+        "name": "Sai Srinivasa Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6243445,
+          16.5073425
+        ]
+      },
+      "id": "node/12434974245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12441119219",
+        "amenity": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3168907,
+          17.7321305
+        ]
+      },
+      "id": "node/12441119219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12450634420",
+        "amenity": "pharmacy",
+        "name": "Sri Sai Ram Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2161731,
+          17.7766478
+        ]
+      },
+      "id": "node/12450634420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12470766220",
+        "amenity": "pharmacy",
+        "name": "Sri Hyndhavi Medical and General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2721253,
+          17.7348232
+        ]
+      },
+      "id": "node/12470766220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12470766390",
+        "amenity": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2705009,
+          17.7348973
+        ]
+      },
+      "id": "node/12470766390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12596290744",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "sri lakshmi ganesh pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1133184,
+          15.5452687
+        ]
+      },
+      "id": "node/12596290744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12596333763",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sree Mourya Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.04267,
+          15.5120061
+        ]
+      },
+      "id": "node/12596333763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597197760",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Indira medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0401387,
+          15.5116854
+        ]
+      },
+      "id": "node/12597197760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597520471",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vemuri Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0406552,
+          15.5126898
+        ]
+      },
+      "id": "node/12597520471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597520472",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Lakshmi Prasanna Medical & General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0401014,
+          15.5116296
+        ]
+      },
+      "id": "node/12597520472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12600686240",
+        "amenity": "pharmacy",
+        "check_date": "2025-02-19",
+        "healthcare": "pharmacy",
+        "name": "Naganjaneya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6261247,
+          16.3275167
+        ]
+      },
+      "id": "node/12600686240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12600686253",
+        "amenity": "pharmacy",
+        "check_date": "2025-02-19",
+        "healthcare": "pharmacy",
+        "name": "Nagasateesh Naidu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6247513,
+          16.3278243
+        ]
+      },
+      "id": "node/12600686253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12704727058",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-03-27",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.186857,
+          17.8982067
+        ]
+      },
+      "id": "node/12704727058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12713272570",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-03-30",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3280126,
+          17.7447284
+        ]
+      },
+      "id": "node/12713272570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12713272985",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-30",
+        "healthcare": "pharmacy",
+        "name": "Central Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3077576,
+          17.7080946
+        ]
+      },
+      "id": "node/12713272985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12713272987",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-30",
+        "healthcare": "pharmacy",
+        "name": "Sukhibhava Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3051908,
+          17.7098373
+        ]
+      },
+      "id": "node/12713272987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12753716157",
+        "amenity": "pharmacy",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3535718,
+          18.8247405
+        ]
+      },
+      "id": "node/12753716157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12836726840",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-14",
+        "healthcare": "pharmacy",
+        "name": "Arogya Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1235012,
+          17.7906317
+        ]
+      },
+      "id": "node/12836726840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12850806183",
+        "addr:city": "Vijayawada",
+        "addr:district": "NTR",
+        "addr:housenumber": "Mogalrajapuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010",
+        "addr:postcode": "520010",
+        "addr:street": "Siddartha College Road",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Adithya Pharmacy",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6492258,
+          16.5068125
+        ]
+      },
+      "id": "node/12850806183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852556167",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6483164,
+          16.5062963
+        ]
+      },
+      "id": "node/12852556167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852634588",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "Sidha Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6404484,
+          16.5072301
+        ]
+      },
+      "id": "node/12852634588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852771599",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "Sri Venkataramana Medical And Fancy Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6398679,
+          16.5063704
+        ]
+      },
+      "id": "node/12852771599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852780693",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "HealthCare Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6399162,
+          16.5065162
+        ]
+      },
+      "id": "node/12852780693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852869807",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "Sri Venkata Sai Durga Medical Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6397588,
+          16.506112
+        ]
+      },
+      "id": "node/12852869807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852896839",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "Aditya Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6390209,
+          16.5098653
+        ]
+      },
+      "id": "node/12852896839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852924032",
+        "amenity": "pharmacy",
+        "check_date": "2025-05-21",
+        "healthcare": "pharmacy",
+        "name": "Sri Sai Durga Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6386172,
+          16.5107949
+        ]
+      },
+      "id": "node/12852924032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12860477224",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Medcare Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4714018,
+          15.8945502
+        ]
+      },
+      "id": "node/12860477224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12862090334",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Hanuman medical stores & First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5605661,
+          16.0627216
+        ]
+      },
+      "id": "node/12862090334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12862185364",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sri Sai Pharmacy",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6571726,
+          16.4965289
+        ]
+      },
+      "id": "node/12862185364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12863985094",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Vijaya Medical & Fancy",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6572864,
+          16.4975174
+        ]
+      },
+      "id": "node/12863985094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12863994799",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Santhi Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6569877,
+          16.4978381
+        ]
+      },
+      "id": "node/12863994799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12864714671",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2025-05-25",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1602748,
+          17.6982716
+        ]
+      },
+      "id": "node/12864714671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12865247106",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Sambasiva General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4494538,
+          16.2915671
+        ]
+      },
+      "id": "node/12865247106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12865252859",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sree G V R C Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4477083,
+          16.2938131
+        ]
+      },
+      "id": "node/12865252859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12865321011",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4412748,
+          16.2896887
+        ]
+      },
+      "id": "node/12865321011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12868362646",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "MedPlus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6513697,
+          16.4904134
+        ]
+      },
+      "id": "node/12868362646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12873284605",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Venkata Sai Durga Medical & Fancy Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6397578,
+          16.5055001
+        ]
+      },
+      "id": "node/12873284605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12873316247",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Vasavi Medical & Fancy Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6399608,
+          16.5072649
+        ]
+      },
+      "id": "node/12873316247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875358373",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sambasiva Health Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6535779,
+          16.5016623
+        ]
+      },
+      "id": "node/12875358373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875495726",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Aditya Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6601466,
+          16.5029511
+        ]
+      },
+      "id": "node/12875495726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875629420",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Darwin Pharmacy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6674804,
+          16.5034298
+        ]
+      },
+      "id": "node/12875629420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875633028",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "MedPlus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6684235,
+          16.5027383
+        ]
+      },
+      "id": "node/12875633028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875635972",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Golden Pharmacy",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6704005,
+          16.5020507
+        ]
+      },
+      "id": "node/12875635972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875647237",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Arogya Raksha Pharmacy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6684016,
+          16.5028144
+        ]
+      },
+      "id": "node/12875647237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12895248666",
+        "amenity": "pharmacy",
+        "check_date": "2025-06-07",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2376498,
+          17.7715174
+        ]
+      },
+      "id": "node/12895248666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12895248667",
+        "amenity": "pharmacy",
+        "check_date": "2025-06-07",
+        "healthcare": "pharmacy",
+        "name": "Vaidyah Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2377239,
+          17.7715267
+        ]
+      },
+      "id": "node/12895248667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12895248669",
+        "amenity": "pharmacy",
+        "check_date": "2025-06-07",
+        "healthcare": "pharmacy",
+        "name": "Generic Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2378589,
+          17.7716315
+        ]
+      },
+      "id": "node/12895248669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12895248674",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-06-07",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.23695,
+          17.7713699
+        ]
+      },
+      "id": "node/12895248674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12951725942",
+        "amenity": "pharmacy",
+        "check_date": "2025-06-25",
+        "healthcare": "pharmacy",
+        "name": "Venkateswara Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1854992,
+          17.8966477
+        ]
+      },
+      "id": "node/12951725942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12954591864",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Life Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.329314,
+          17.7471388
+        ]
+      },
+      "id": "node/12954591864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12954596412",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "mobile": "+916305375245",
+        "name": "Lakshya Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.330873,
+          17.7475773
+        ]
+      },
+      "id": "node/12954596412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12954702961",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Gowri Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3527717,
+          17.8024962
+        ]
+      },
+      "id": "node/12954702961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12954702983",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3527695,
+          17.8034519
+        ]
+      },
+      "id": "node/12954702983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12956354500",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8750575,
+          18.3041248
+        ]
+      },
+      "id": "node/12956354500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12956372718",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Vamsi Krishna Medical & General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8758687,
+          18.3042243
+        ]
+      },
+      "id": "node/12956372718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12956372754",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "mobile": "+916305868870",
+        "name": "Srinidhi Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8818753,
+          18.3050005
+        ]
+      },
+      "id": "node/12956372754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12956372764",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Satyasai Medical & General stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8826899,
+          18.3048033
+        ]
+      },
+      "id": "node/12956372764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959379000",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Aditya Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2079558,
+          17.8103757
+        ]
+      },
+      "id": "node/12959379000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959403112",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Generic Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2080662,
+          17.8096092
+        ]
+      },
+      "id": "node/12959403112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959403115",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Murali Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2081298,
+          17.8094772
+        ]
+      },
+      "id": "node/12959403115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959438352",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "mobile": "+919885133342",
+        "name": "Sri Lakshmi Medicals & General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2105125,
+          17.8004314
+        ]
+      },
+      "id": "node/12959438352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959438371",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Ramu Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2108277,
+          17.7993582
+        ]
+      },
+      "id": "node/12959438371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959438375",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drugmart Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2108501,
+          17.7991986
+        ]
+      },
+      "id": "node/12959438375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12986990375",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3314955,
+          17.7440648
+        ]
+      },
+      "id": "node/12986990375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991045838",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7073811,
+          16.4763796
+        ]
+      },
+      "id": "node/12991045838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991067915",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Rishi first AID Center",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6907382,
+          16.4975679
+        ]
+      },
+      "id": "node/12991067915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991069646",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "S. S Clinical Laboratorie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7069794,
+          16.4745672
+        ]
+      },
+      "id": "node/12991069646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991084764",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Manju Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7072335,
+          16.4772232
+        ]
+      },
+      "id": "node/12991084764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991085441",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "dispensing": "yes",
+        "drive_through": "yes",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "Sri Krishna Medical Store",
+        "opening_hours": "09:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7085878,
+          16.4786251
+        ]
+      },
+      "id": "node/12991085441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991099509",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Sri Anantha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7074717,
+          16.4760889
+        ]
+      },
+      "id": "node/12991099509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992006408",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Medical And Fancy Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6909878,
+          16.4982789
+        ]
+      },
+      "id": "node/12992006408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992325343",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "apollo pharmacy vijayawada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6368032,
+          16.4979014
+        ]
+      },
+      "id": "node/12992325343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992325344",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "apollo pharmacy vijayawada",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6368003,
+          16.4979037
+        ]
+      },
+      "id": "node/12992325344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992426792",
+        "addr:floor": "SINIVAS NAGAR",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "fixme:type": "madical",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Madical Shop",
+        "opening_hours": "10:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6615532,
+          16.4890818
+        ]
+      },
+      "id": "node/12992426792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992450730",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-10",
+        "healthcare": "pharmacy",
+        "name": "Grace Pharmacy",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "phone": "+91 77025 33640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6928186,
+          16.5200298
+        ]
+      },
+      "id": "node/12992450730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992712245",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3334101,
+          17.7356552
+        ]
+      },
+      "id": "node/12992712245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992712255",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Venkatalaxmi Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3343828,
+          17.7365275
+        ]
+      },
+      "id": "node/12992712255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992712271",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3320262,
+          17.7464492
+        ]
+      },
+      "id": "node/12992712271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993619795",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Apple Pharmacy & Clinic",
+        "phone": "+91 91826 32360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6755061,
+          16.5014231
+        ]
+      },
+      "id": "node/12993619795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993625979",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Mother Theresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7240907,
+          16.5095521
+        ]
+      },
+      "id": "node/12993625979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993625985",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7256891,
+          16.507745
+        ]
+      },
+      "id": "node/12993625985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993628538",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7069326,
+          16.4762955
+        ]
+      },
+      "id": "node/12993628538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993628539",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Ramu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7070692,
+          16.4765206
+        ]
+      },
+      "id": "node/12993628539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993628546",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7068857,
+          16.4760133
+        ]
+      },
+      "id": "node/12993628546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993629337",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.678514,
+          16.4873155
+        ]
+      },
+      "id": "node/12993629337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993643279",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Sri Gopala Krishna Medical And General Store",
+        "opening_hours": "09:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.705002,
+          16.4757239
+        ]
+      },
+      "id": "node/12993643279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993650561",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Life Care Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6770952,
+          16.489509
+        ]
+      },
+      "id": "node/12993650561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993650962",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Appollo Pharmacy",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7089321,
+          16.4774463
+        ]
+      },
+      "id": "node/12993650962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993650972",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Sri Sai Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7097062,
+          16.4777647
+        ]
+      },
+      "id": "node/12993650972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993656947",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Apollo Pharmacy",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7090039,
+          16.4770982
+        ]
+      },
+      "id": "node/12993656947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993671405",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Janatha Pharmacy",
+        "name:en": "Pharmacy",
+        "opening_hours": "Mo-Sa 06:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7044916,
+          16.4772095
+        ]
+      },
+      "id": "node/12993671405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993676005",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Raju Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7087367,
+          16.4766243
+        ]
+      },
+      "id": "node/12993676005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993681326",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Rehman Medical Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7093751,
+          16.477359
+        ]
+      },
+      "id": "node/12993681326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993682373",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Sri Hima Medical And Fancy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7095714,
+          16.4765404
+        ]
+      },
+      "id": "node/12993682373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993686224",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Medical Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7197886,
+          16.5080317
+        ]
+      },
+      "id": "node/12993686224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993727766",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "med Plus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6777097,
+          16.4901148
+        ]
+      },
+      "id": "node/12993727766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993727772",
+        "addr:housenumber": "the ultimate tuition point",
+        "addr:street": "Panta Kaluva Road",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "drs.daimond dental& cosmetics",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6779013,
+          16.4906271
+        ]
+      },
+      "id": "node/12993727772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993798154",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6880903,
+          16.4900829
+        ]
+      },
+      "id": "node/12993798154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993878510",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Varshini Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2975669,
+          17.7044393
+        ]
+      },
+      "id": "node/12993878510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993878511",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2975412,
+          17.704318
+        ]
+      },
+      "id": "node/12993878511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993878523",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Rama Krishna  Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2962077,
+          17.7020158
+        ]
+      },
+      "id": "node/12993878523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994072627",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7069977,
+          16.5138265
+        ]
+      },
+      "id": "node/12994072627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994099363",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8005335,
+          16.539573
+        ]
+      },
+      "id": "node/12994099363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994139836",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "Ravi Medical Stores",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 90149 09889",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6601584,
+          16.4954256
+        ]
+      },
+      "id": "node/12994139836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994241705",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "Aradhya Pradama Chikishalaya",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 70933 82338",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7168806,
+          16.4601341
+        ]
+      },
+      "id": "node/12994241705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994241706",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "name": "Bhemashwrava Medical Fancy Store",
+        "opening_hours": "08:00-02:00",
+        "phone": "+91 99086 08420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7168439,
+          16.4603243
+        ]
+      },
+      "id": "node/12994241706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12996671698",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-11",
+        "healthcare": "pharmacy",
+        "internet_access": "no",
+        "name": "Aradhya Pradama Chikishalaya",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 70933 82338",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7168805,
+          16.460134
+        ]
+      },
+      "id": "node/12996671698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001406928",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Samatha Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6320624,
+          16.5116124
+        ]
+      },
+      "id": "node/13001406928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001406947",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sai Medical & Fancy Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6300469,
+          16.5184163
+        ]
+      },
+      "id": "node/13001406947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001406948",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6300786,
+          16.5182288
+        ]
+      },
+      "id": "node/13001406948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001406951",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vijaya Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6309931,
+          16.5185574
+        ]
+      },
+      "id": "node/13001406951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13021153049",
+        "amenity": "pharmacy",
+        "check_date": "2025-07-24",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6920007,
+          16.5195676
+        ]
+      },
+      "id": "node/13021153049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13033794509",
+        "addr:city": "Atreyapuram",
+        "addr:district": "East Godavari",
+        "addr:postcode": "533235",
+        "amenity": "pharmacy",
+        "description": "Medical Shop",
+        "healthcare": "pharmacy",
+        "name": "medical shop",
+        "operator": "P. Ramesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7932283,
+          16.834335
+        ]
+      },
+      "id": "node/13033794509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13039248890",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Mahalakshmi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9004308,
+          18.2951347
+        ]
+      },
+      "id": "node/13039248890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13039262804",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Swathi Medical & General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9017769,
+          18.2960609
+        ]
+      },
+      "id": "node/13039262804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065180605",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pavitra Medical & General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4243684,
+          17.9292438
+        ]
+      },
+      "id": "node/13065180605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065180646",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Visakha Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4247984,
+          17.9297759
+        ]
+      },
+      "id": "node/13065180646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065180658",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vajra Chandra Medical & General"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4254566,
+          17.9306323
+        ]
+      },
+      "id": "node/13065180658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065180666",
+        "addr:postcode": "531162",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4258448,
+          17.9312281
+        ]
+      },
+      "id": "node/13065180666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065180753",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4292105,
+          17.9294559
+        ]
+      },
+      "id": "node/13065180753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065369418",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Hema Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.352525,
+          17.8037495
+        ]
+      },
+      "id": "node/13065369418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065369479",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Balaji Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3456144,
+          17.8040652
+        ]
+      },
+      "id": "node/13065369479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065369481",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3436124,
+          17.8043659
+        ]
+      },
+      "id": "node/13065369481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13065369483",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3430187,
+          17.8045113
+        ]
+      },
+      "id": "node/13065369483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13085046761",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Karunakar Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3018415,
+          17.7207941
+        ]
+      },
+      "id": "node/13085046761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13086305480",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3281477,
+          17.7289909
+        ]
+      },
+      "id": "node/13086305480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13086305483",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Swamy Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3280596,
+          17.7289105
+        ]
+      },
+      "id": "node/13086305483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13086308345",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.333213,
+          17.7320363
+        ]
+      },
+      "id": "node/13086308345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13086390393",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Medical and Zerox Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6793062,
+          16.751776
+        ]
+      },
+      "id": "node/13086390393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088190030",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6793461,
+          16.7519165
+        ]
+      },
+      "id": "node/13088190030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088202762",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Appollo Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6802898,
+          16.7561437
+        ]
+      },
+      "id": "node/13088202762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088464964",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9273869,
+          16.8656865
+        ]
+      },
+      "id": "node/13088464964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096015215",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3150806,
+          17.7436237
+        ]
+      },
+      "id": "node/13096015215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096493295",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Padmavathi Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3062174,
+          17.7277486
+        ]
+      },
+      "id": "node/13096493295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096498936",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3064227,
+          17.7298086
+        ]
+      },
+      "id": "node/13096498936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096498953",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Sai Varun Medical & General Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3066934,
+          17.7315069
+        ]
+      },
+      "id": "node/13096498953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096498958",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Kumaran Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3069769,
+          17.731582
+        ]
+      },
+      "id": "node/13096498958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096498966",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Kusuma Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3067265,
+          17.7321161
+        ]
+      },
+      "id": "node/13096498966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096498975",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Kanaka Sai Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3072382,
+          17.7334262
+        ]
+      },
+      "id": "node/13096498975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096498979",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3072822,
+          17.7338416
+        ]
+      },
+      "id": "node/13096498979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13175255598",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.390595,
+          18.1100237
+        ]
+      },
+      "id": "node/13175255598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13175261590",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3874123,
+          18.1244906
+        ]
+      },
+      "id": "node/13175261590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13175261591",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3874108,
+          18.1244118
+        ]
+      },
+      "id": "node/13175261591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13281158419",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Somanadh Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0145693,
+          17.6872443
+        ]
+      },
+      "id": "node/13281158419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13281158457",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0106565,
+          17.687792
+        ]
+      },
+      "id": "node/13281158457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13281158468",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0132135,
+          17.6871365
+        ]
+      },
+      "id": "node/13281158468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13308487753",
+        "amenity": "pharmacy",
+        "check_date": "2025-11-16",
+        "healthcare": "pharmacy",
+        "name": "Sri Devi Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5687465,
+          18.3171797
+        ]
+      },
+      "id": "node/13308487753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316385323",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2958279,
+          17.7351633
+        ]
+      },
+      "id": "node/13316385323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316385336",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Life Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3005017,
+          17.7317649
+        ]
+      },
+      "id": "node/13316385336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316385338",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dhanvita Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3004868,
+          17.7315647
+        ]
+      },
+      "id": "node/13316385338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316385340",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sree Siva Narayana Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3006959,
+          17.7298565
+        ]
+      },
+      "id": "node/13316385340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889150",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vinayaka Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2988194,
+          17.7255949
+        ]
+      },
+      "id": "node/13316889150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889151",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "AP Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2988235,
+          17.7256461
+        ]
+      },
+      "id": "node/13316889151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889156",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sree Venkata Rama Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2989878,
+          17.7262102
+        ]
+      },
+      "id": "node/13316889156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889171",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "AP Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2993676,
+          17.7269852
+        ]
+      },
+      "id": "node/13316889171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889174",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.299679,
+          17.7269497
+        ]
+      },
+      "id": "node/13316889174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889193",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3000096,
+          17.7272838
+        ]
+      },
+      "id": "node/13316889193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889196",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Generic Medical Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2996641,
+          17.727295
+        ]
+      },
+      "id": "node/13316889196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316892833",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2991417,
+          17.729861
+        ]
+      },
+      "id": "node/13316892833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316892846",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Generics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.299492,
+          17.7307223
+        ]
+      },
+      "id": "node/13316892846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316892873",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Generic Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2992304,
+          17.7321345
+        ]
+      },
+      "id": "node/13316892873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316892877",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2992479,
+          17.7323019
+        ]
+      },
+      "id": "node/13316892877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316892890",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Vijaya Duga Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2998045,
+          17.7342244
+        ]
+      },
+      "id": "node/13316892890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13319044884",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Rajeswari Medical & General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2464525,
+          17.750585
+        ]
+      },
+      "id": "node/13319044884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13319047213",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Healthcare Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2485847,
+          17.7504386
+        ]
+      },
+      "id": "node/13319047213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13319047214",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2485662,
+          17.7501467
+        ]
+      },
+      "id": "node/13319047214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13319047230",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2507051,
+          17.750277
+        ]
+      },
+      "id": "node/13319047230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13319047283",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Life Generic Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2556278,
+          17.7497285
+        ]
+      },
+      "id": "node/13319047283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13325847912",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9825183,
+          17.9901979
+        ]
+      },
+      "id": "node/13325847912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13325847915",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9825272,
+          17.9904328
+        ]
+      },
+      "id": "node/13325847915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13335625668",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8559043,
+          16.9075901
+        ]
+      },
+      "id": "node/13335625668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13348317639",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vasavi Medical & General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1125264,
+          18.4786491
+        ]
+      },
+      "id": "node/13348317639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13351720433",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Subham Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4206285,
+          18.7685031
+        ]
+      },
+      "id": "node/13351720433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13351720451",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Meher Baba Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4224989,
+          18.7706094
+        ]
+      },
+      "id": "node/13351720451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13351720462",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.424428,
+          18.7751141
+        ]
+      },
+      "id": "node/13351720462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13369321120",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2025-11-24",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1899065,
+          17.9013524
+        ]
+      },
+      "id": "node/13369321120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13388162267",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3046816,
+          17.7170756
+        ]
+      },
+      "id": "node/13388162267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13388162282",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3045103,
+          17.7166884
+        ]
+      },
+      "id": "node/13388162282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429829528",
+        "amenity": "pharmacy",
+        "check_date": "2026-01-04",
+        "healthcare": "pharmacy",
+        "name": "Sri Durga Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3002595,
+          17.7145879
+        ]
+      },
+      "id": "node/13429829528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886353",
+        "amenity": "pharmacy",
+        "check_date": "2026-01-04",
+        "healthcare": "pharmacy",
+        "name": "Zenin Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2988667,
+          17.714561
+        ]
+      },
+      "id": "node/13429886353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13456282923",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2026-01-13",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6897884,
+          18.2014183
+        ]
+      },
+      "id": "node/13456282923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543685705",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2026-02-10",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.204506,
+          17.8217848
+        ]
+      },
+      "id": "node/13543685705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543686105",
+        "amenity": "pharmacy",
+        "brand": "MedPlus",
+        "brand:wikidata": "Q65684234",
+        "check_date": "2026-02-10",
+        "healthcare": "pharmacy",
+        "name": "MedPlus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1218868,
+          17.7888462
+        ]
+      },
+      "id": "node/13543686105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543686108",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "check_date": "2026-02-10",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1239679,
+          17.7905663
+        ]
+      },
+      "id": "node/13543686108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13543686114",
+        "amenity": "pharmacy",
+        "check_date": "2026-02-10",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.129018,
+          17.7919246
+        ]
+      },
+      "id": "node/13543686114"
+    }
+  ]
+}

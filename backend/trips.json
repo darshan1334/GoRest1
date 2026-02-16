@@ -34,5 +34,68 @@
     "distance": 322.1,
     "duration": 4.8,
     "stops": 6
+  },
+  {
+    "id": 5,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 6,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 7,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 8,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 9,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 10,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
+  },
+  {
+    "id": 11,
+    "start": "Current Location",
+    "destination": "kannur",
+    "vehicle": "bike",
+    "distance": 322.1,
+    "duration": 4.8,
+    "stops": 6
   }
 ]

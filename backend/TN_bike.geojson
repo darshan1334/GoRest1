@@ -1,0 +1,884 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T08:15:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037993879",
+        "name": "Karthi's two wheeler workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0014232,
+          11.0402109
+        ]
+      },
+      "id": "node/1037993879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411853089",
+        "addr:street": "Mount Poonamallee Highway",
+        "name": "Bike Repair Shop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1934711,
+          13.0144325
+        ]
+      },
+      "id": "node/4411853089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5079392109",
+        "name": "Super seat service",
+        "phone": "+91-9994221313",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.431428,
+          8.1771449
+        ]
+      },
+      "id": "node/5079392109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5713786237",
+        "name": "Vijay auto house",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7907216,
+          10.7779445
+        ]
+      },
+      "id": "node/5713786237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6012632869",
+        "name": "Yamaha Service Centre",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2325493,
+          13.0252611
+        ]
+      },
+      "id": "node/6012632869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6892883955",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7846345,
+          12.633602
+        ]
+      },
+      "id": "node/6892883955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161554522",
+        "name": "yamaha motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1938023,
+          11.4561124
+        ]
+      },
+      "id": "node/7161554522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7264116572",
+        "name": "Renugambal Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2442114,
+          13.0548832
+        ]
+      },
+      "id": "node/7264116572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7281506273",
+        "addr:city": "Chennai",
+        "addr:housenumber": "5",
+        "addr:postcode": "600100",
+        "addr:street": "Sevaliar Shivaji street, Ancheneyar nagar,Jalladianpet,",
+        "brand": "Roro Garage",
+        "email": "info@rorogarage.com",
+        "name": "Roro Garage",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "shameerariff",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:muffler": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:painting": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "motorcycle_repair",
+        "website": "https://rorogarage.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2048239,
+          12.9200104
+        ]
+      },
+      "id": "node/7281506273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7313003294",
+        "name": "Saleh Annan Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5442039,
+          10.2660914
+        ]
+      },
+      "id": "node/7313003294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7652587016",
+        "addr:city": "Trichy",
+        "addr:postcode": "620018",
+        "addr:street": "Karur Bypass road",
+        "name": "TVS - Shriraj Agencies",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6854747,
+          10.8297521
+        ]
+      },
+      "id": "node/7652587016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7658575236",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2372342,
+          12.9676953
+        ]
+      },
+      "id": "node/7658575236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8097134866",
+        "name": "VKG motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0585477,
+          10.9485049
+        ]
+      },
+      "id": "node/8097134866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8108606716",
+        "addr:street": "No.35, 1, Gangai Amman Koil St, Thirumoolar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+        "name": "Velan Auto Service",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-14:00",
+        "phone": "98413 65868",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2118562,
+          13.0260759
+        ]
+      },
+      "id": "node/8108606716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8108614868",
+        "addr:street": "No.1/2, Near Mosque, Pillayar Koil Street, R.V. Nagar, Jafferkhanpet, Chennai, Tamil Nadu 600083",
+        "name": "Shri Saravana Motors",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "90941 06272",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2116803,
+          13.0294267
+        ]
+      },
+      "id": "node/8108614868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370904741",
+        "motorcycle:repair": "yes",
+        "name": "Vaibhav Bajaj Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1165971,
+          10.7740224
+        ]
+      },
+      "id": "node/8370904741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8463632617",
+        "name": "RKN Two Wheelers",
+        "shop": "motorcycle_repair",
+        "survey:date": "2021-02-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7804922,
+          10.0784815
+        ]
+      },
+      "id": "node/8463632617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8541101522",
+        "shop": "motorcycle_repair",
+        "survey:date": "2021-03-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5406808,
+          10.2765941
+        ]
+      },
+      "id": "node/8541101522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8571589820",
+        "addr:city": "Karaikudi",
+        "addr:postcode": "630003",
+        "addr:street": "அரியக்குடி சாலை",
+        "level": "0",
+        "name": "Suriya Two Wheeler Works",
+        "shop": "motorcycle_repair",
+        "survey:date": "2021-03-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7928598,
+          10.0724215
+        ]
+      },
+      "id": "node/8571589820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8632165017",
+        "name": "Sri Kamatchi Amman",
+        "shop": "motorcycle_repair",
+        "survey:date": "2021-04-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7922401,
+          10.0728667
+        ]
+      },
+      "id": "node/8632165017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8718513900",
+        "addr:city": "Chennai",
+        "addr:housenumber": "256/261",
+        "addr:postcode": "600091",
+        "addr:street": "Medavakkam Main Road",
+        "name": "Varshaa Motors",
+        "phone": "+91 87544 29660",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1950652,
+          12.9800659
+        ]
+      },
+      "id": "node/8718513900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9688980118",
+        "name": "Kathirvel Two Wheeler Works",
+        "shop": "motorcycle_repair",
+        "survey:date": "2024-01-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7863413,
+          10.0613887
+        ]
+      },
+      "id": "node/9688980118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878280766",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7500832,
+          8.7057687
+        ]
+      },
+      "id": "node/9878280766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9963494319",
+        "name": "Muthuraja Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.489033,
+          10.2377731
+        ]
+      },
+      "id": "node/9963494319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10017364518",
+        "shop": "motorcycle_repair",
+        "survey:date": "2022-08-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.780605,
+          10.0722578
+        ]
+      },
+      "id": "node/10017364518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10107995331",
+        "name": "G. Bharat",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2908885,
+          13.094284
+        ]
+      },
+      "id": "node/10107995331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10156175381",
+        "name": "Seetha Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2870387,
+          13.0984151
+        ]
+      },
+      "id": "node/10156175381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10156274261",
+        "name": "S.K. Bike Technicians",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2928308,
+          13.1019532
+        ]
+      },
+      "id": "node/10156274261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564970241",
+        "service": "parts;repair;tyres",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1931942,
+          11.0738041
+        ]
+      },
+      "id": "node/10564970241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584033825",
+        "name": "Krishna Automobiles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2918846,
+          13.1020814
+        ]
+      },
+      "id": "node/10584033825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10593975169",
+        "name": "Maruthi Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2878261,
+          13.0997203
+        ]
+      },
+      "id": "node/10593975169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10720765546",
+        "addr:city": "srivilliputhur",
+        "addr:housenumber": "136",
+        "addr:postcode": "626125",
+        "addr:street": "east side south street mangapuram",
+        "name": "Rv work shop",
+        "opening_hours": "Mo-Fr 09:00-14:00",
+        "operator": "bhoopesh",
+        "payment:cash": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:full": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6354833,
+          9.5228756
+        ]
+      },
+      "id": "node/10720765546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10794964078",
+        "addr:full": "no.62,M.B.T Road,Bharathi Nagar,Sipcot,Ranipet",
+        "addr:housenumber": "62",
+        "addr:postcode": "632503",
+        "addr:street": "M.B.T Road",
+        "name": "Ranipet Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3201723,
+          12.9461262
+        ]
+      },
+      "id": "node/10794964078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10833567192",
+        "name": "Heera Auto Shop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2753603,
+          13.0911858
+        ]
+      },
+      "id": "node/10833567192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10867783205",
+        "name": "Mari Two Wheelers",
+        "shop": "motorcycle_repair",
+        "survey:date": "2023-05-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.780077,
+          10.0712524
+        ]
+      },
+      "id": "node/10867783205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933186979",
+        "name": "Ganesh Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2844963,
+          13.0943324
+        ]
+      },
+      "id": "node/10933186979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933806224",
+        "name": "The Gaadiwala",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2797752,
+          13.0954819
+        ]
+      },
+      "id": "node/10933806224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933856394",
+        "name": "Sree Bhalaji Auto Workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2789473,
+          13.0950357
+        ]
+      },
+      "id": "node/10933856394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10951527774",
+        "name": "Sri Venkateswara Cycle Stores",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2798988,
+          13.0927509
+        ]
+      },
+      "id": "node/10951527774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10967203512",
+        "name": "Murali Auto Shop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2804902,
+          13.0975456
+        ]
+      },
+      "id": "node/10967203512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11496646586",
+        "name": "M.K Automobiles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2821297,
+          13.1017965
+        ]
+      },
+      "id": "node/11496646586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11622606004",
+        "addr:city": "paranji",
+        "addr:postcode": "632510",
+        "addr:street": "Walajah - Sholinghur - Arakkonam Road",
+        "name": "Magesh Auto work",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Magesh (Magi)",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:cashless": "yes",
+        "payment:upi": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5304785,
+          13.0971473
+        ]
+      },
+      "id": "node/11622606004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11811121141",
+        "name": "Priya Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5006599,
+          10.2389741
+        ]
+      },
+      "id": "node/11811121141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11811122973",
+        "name": "Vijin Two Wheeler",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5029109,
+          10.2395598
+        ]
+      },
+      "id": "node/11811122973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12022822447",
+        "addr:city": "Coimbatore",
+        "addr:district": "Coimbatore",
+        "addr:postcode": "641008",
+        "addr:street": "Bharathi Nagar, Kuniyamuthur",
+        "name": "Bullet Track",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9525708,
+          10.9676748
+        ]
+      },
+      "id": "node/12022822447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12404586198",
+        "name": "Moto Tech",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0636622,
+          12.9165087
+        ]
+      },
+      "id": "node/12404586198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12497752901",
+        "name": "Two wheeler mechanic",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2307691,
+          13.0701903
+        ]
+      },
+      "id": "node/12497752901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12531499931",
+        "name": "Amman automobiles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.534251,
+          10.2664049
+        ]
+      },
+      "id": "node/12531499931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13275204301",
+        "name": "Vinayagar Automobiles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1920368,
+          12.9127264
+        ]
+      },
+      "id": "node/13275204301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13394288610",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1980812,
+          13.1268307
+        ]
+      },
+      "id": "node/13394288610"
+    }
+  ]
+}

@@ -1,0 +1,6531 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T08:04:07Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243711622",
+        "created_by": "JOSM",
+        "name": "Aishwarya Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4274094,
+          13.6261329
+        ]
+      },
+      "id": "node/243711622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/395733168",
+        "name": "Annamayya Bhavan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3483228,
+          13.6753975
+        ]
+      },
+      "id": "node/395733168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/395733244",
+        "name": "Rajya Lakshmi",
+        "name:kn": "ರಾಜ್ಯ ಲಕ್ಷ್ಮೀ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3471698,
+          13.6773158
+        ]
+      },
+      "id": "node/395733244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/395733284",
+        "name": "Vaikunta Nilayam",
+        "name:kn": "ವೈಕುಂಟ ನಿಲಯಂ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3480711,
+          13.6814977
+        ]
+      },
+      "id": "node/395733284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/395733302",
+        "name": "Srinivasa Nilayam",
+        "name:kn": "ಶ್ರೀನಿವಾಸ ನಿಲಯಂ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.347991,
+          13.6775262
+        ]
+      },
+      "id": "node/395733302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397731033",
+        "addr:street": "Sannidhi Street",
+        "name": "Saptagiri Guest House",
+        "name:kn": "ಸಪ್ತಗಿರಿ ಅತಿಥಿ ಗೃಹ",
+        "name:te": "Saptagiri Satraramu",
+        "smoking": "no",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3514176,
+          13.681953
+        ]
+      },
+      "id": "node/397731033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397731036",
+        "name": "Ram Bageecha RGBH 1",
+        "name:kn": "ರಾಮ ಬಗೀಚ ಆರ್.ಜಿ.ಬಿ.ಎಚ್ ೧",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3494461,
+          13.6844469
+        ]
+      },
+      "id": "node/397731036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397731039",
+        "name": "Ram Bageecha RGBH 2",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3502262,
+          13.6844697
+        ]
+      },
+      "id": "node/397731039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397731043",
+        "name": "Ram Bageecha RGBH 3",
+        "name:kn": "ರಾಮ ಬಗೀಚ ೩",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3511657,
+          13.6845152
+        ]
+      },
+      "id": "node/397731043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397987301",
+        "name": "Pilgrims Amenities Complex (Free)",
+        "name:kn": "ಯಾತ್ರಾರ್ಥಿ ಸೌಕರ್ಯಗಳ ಸಂಕೀರ್ಣ (ಉಚಿತ)",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3510778,
+          13.6781872
+        ]
+      },
+      "id": "node/397987301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397987349",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3473776,
+          13.6772396
+        ]
+      },
+      "id": "node/397987349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/397987506",
+        "name": "Gubba Munirathnam Choultry",
+        "name:kn": "ಗುಬ್ಬ ಮಿನಿರತ್ನಂ ಚೌಲ್ಟ್ರಿ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3433513,
+          13.684629
+        ]
+      },
+      "id": "node/397987506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/398040850",
+        "name": "Karnataka Bhavan",
+        "name:kn": "ಕರ್ನಾಟಕ ಭವನ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3444222,
+          13.685652
+        ]
+      },
+      "id": "node/398040850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/398040864",
+        "name": "Mysore",
+        "name:kn": "ಮೈಸೂರು ಹೊಟೆಲ್",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3443539,
+          13.6853787
+        ]
+      },
+      "id": "node/398040864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/398095911",
+        "name": "Varahaswamy GH2",
+        "name:kn": "ವರಹಸ್ವಾಮಿ ಅತಿಥಿ ಗೃಹ ೨",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3474494,
+          13.6865827
+        ]
+      },
+      "id": "node/398095911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/398095916",
+        "name": "Varahaswamy GH1",
+        "name:kn": "ವರಹಸ್ವಾಮಿ ಅತಿಥಿ ಗೃಹ ೧",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3480552,
+          13.6865463
+        ]
+      },
+      "id": "node/398095916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/398095939",
+        "name": "Karnataka",
+        "name:kn": "ಕರ್ನಾಟಕ ಭವನ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3452447,
+          13.6841958
+        ]
+      },
+      "id": "node/398095939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1867120511",
+        "name": "BhagyaSree Loadge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7397456,
+          16.0538092
+        ]
+      },
+      "id": "node/1867120511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1930543702",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3448984,
+          12.7460801
+        ]
+      },
+      "id": "node/1930543702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261291827",
+        "name": "Karnataka Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4217916,
+          15.9394081
+        ]
+      },
+      "id": "node/2261291827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293464728",
+        "name": "DVR Mansion",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0412324,
+          15.8343752
+        ]
+      },
+      "id": "node/2293464728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2294633473",
+        "name": "Hotel DV Manor",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.648192,
+          16.5003054
+        ]
+      },
+      "id": "node/2294633473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352138890",
+        "name": "Hotel Presidents Inn",
+        "tourism": "hotel",
+        "wikidata": "Q111054513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9811875,
+          14.4468037
+        ]
+      },
+      "id": "node/2352138890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352177867",
+        "name": "Dr uttama",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9806523,
+          14.4464972
+        ]
+      },
+      "id": "node/2352177867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408119863",
+        "amenity": "restaurant",
+        "name": "River Bay",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7734858,
+          16.991908
+        ]
+      },
+      "id": "node/2408119863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2839436068",
+        "addr:city": "Nellore",
+        "addr:postcode": "524004",
+        "addr:street": "Revenue Colony",
+        "name": "A.P Tourism Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9657126,
+          14.42675
+        ]
+      },
+      "id": "node/2839436068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3015930349",
+        "name": "Sri Uma International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.626449,
+          16.5092147
+        ]
+      },
+      "id": "node/3015930349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149200578",
+        "name": "HOTELKSRGRND",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6977912,
+          13.7453217
+        ]
+      },
+      "id": "node/3149200578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3329696916",
+        "name": "La Hospin",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7676149,
+          17.0093335
+        ]
+      },
+      "id": "node/3329696916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426689087",
+        "addr:city": "Guntur",
+        "addr:postcode": "522002",
+        "addr:street": "4/1, Brodipet",
+        "air_conditioning": "yes",
+        "brand": "Sankarvillas",
+        "internet_access": "no",
+        "name": "Sankar vilas",
+        "operator": "Private",
+        "rooms": "0",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4388833,
+          16.3018192
+        ]
+      },
+      "id": "node/3426689087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3722444532",
+        "addr:city": "Lepakshi",
+        "name": "Haritha Hotel",
+        "name:te": "హరిత హోటల్",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6115837,
+          13.8036375
+        ]
+      },
+      "id": "node/3722444532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3991628135",
+        "name": "Srikanya Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0486955,
+          15.4944529
+        ]
+      },
+      "id": "node/3991628135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994325958",
+        "name": "Vijetha Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8976992,
+          18.2954481
+        ]
+      },
+      "id": "node/3994325958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4010397471",
+        "name": "NRKM HOTEL",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0488101,
+          15.4871778
+        ]
+      },
+      "id": "node/4010397471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4064438328",
+        "name": "Ajantha",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0489147,
+          15.4963536
+        ]
+      },
+      "id": "node/4064438328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4150869071",
+        "addr:city": "Visakhapatnam, Andhra Pradesh",
+        "addr:housenumber": "Beach Rd",
+        "addr:postcode": "531163",
+        "addr:street": "Uppada,",
+        "name": "Hotel Beach Paradise",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4095376,
+          17.8469583
+        ]
+      },
+      "id": "node/4150869071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278033491",
+        "name": "Grand MINERVA",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9695768,
+          14.4354433
+        ]
+      },
+      "id": "node/4278033491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443450192",
+        "addr:street": "Korathalaiyar bridge - Puthur Road",
+        "name": "Paal mangalam hotals",
+        "name:hi": "Paal mangalam hotals",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.682555,
+          13.4107683
+        ]
+      },
+      "id": "node/4443450192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446364426",
+        "addr:city": "Tirupati",
+        "addr:postcode": "517507",
+        "addr:street": "Upadhyaya Nagar, Karakambadi Road, Madhavpuram",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Marasa Sarovar Premiere",
+        "opening_hours": "00:00-24:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 877 666 0000",
+        "reservation": "recommended",
+        "smoking": "no",
+        "takeaway": "yes",
+        "tourism": "hotel",
+        "website": "https://www.sarovarhotels.com/",
+        "wikidata": "Q111402550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4359666,
+          13.656287
+        ]
+      },
+      "id": "node/4446364426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447513291",
+        "name": "Balaji woodlens",
+        "name:hi": "Balaji woodlens",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4260426,
+          13.6285424
+        ]
+      },
+      "id": "node/4447513291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4464568008",
+        "addr:postcode": "533261",
+        "name": "Someswaram",
+        "name:en": "Someswaram",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9641225,
+          16.8636391
+        ]
+      },
+      "id": "node/4464568008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4576965810",
+        "capacity": "50",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "Hotel Grand Akkamaha Devi",
+        "opening_hours": "09:00-21:00",
+        "outdoor_seating": "terrace",
+        "takeaway": "yes",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9084921,
+          16.0710438
+        ]
+      },
+      "id": "node/4576965810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579168686",
+        "description": "It has single and double bed rooms.It also has security  system. ",
+        "name": "Sri Gouri Shankar Lordge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9080079,
+          16.0740146
+        ]
+      },
+      "id": "node/4579168686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579192056",
+        "description": "It has great  infrastructure.it provide service  to the  people at minimum cost.",
+        "name": "Hotel Green Land AC",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.908374,
+          16.0737425
+        ]
+      },
+      "id": "node/4579192056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4617746448",
+        "name": "Swarna palace",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6232324,
+          16.5126086
+        ]
+      },
+      "id": "node/4617746448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691977419",
+        "addr:city": "visakhapatnam",
+        "addr:postcode": "530020",
+        "addr:street": "Chitralaya Road",
+        "internet_access": "wlan",
+        "name": "Hotel Blue Moon",
+        "rooms": "7",
+        "smoking": "separated",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.299453,
+          17.7130524
+        ]
+      },
+      "id": "node/4691977419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698476818",
+        "addr:street": "mallempudi",
+        "name": "Marshalli cooldrinks",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6262526,
+          16.4268387
+        ]
+      },
+      "id": "node/4698476818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698518098",
+        "addr:street": "main road",
+        "name": "huseen",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6268339,
+          16.4249724
+        ]
+      },
+      "id": "node/4698518098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4797199654",
+        "name": "Raja Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2624137,
+          16.8226849
+        ]
+      },
+      "id": "node/4797199654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4877464223",
+        "addr:street": "Bellary - Badepally Highway",
+        "name": "Ajanta hotel",
+        "name:en": "Ajanta hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2251864,
+          15.3972265
+        ]
+      },
+      "id": "node/4877464223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358209167",
+        "addr:street": "main road revandra padu",
+        "name": "Annapurnnamma hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6220905,
+          16.4065913
+        ]
+      },
+      "id": "node/5358209167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358216167",
+        "name": "Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6218717,
+          16.4063717
+        ]
+      },
+      "id": "node/5358216167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358753267",
+        "addr:street": "peddapalem main road",
+        "description": "ildly dosa ....",
+        "name": "Breakfast centre",
+        "phone": "9052271999",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6590427,
+          16.3806178
+        ]
+      },
+      "id": "node/5358753267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5360254158",
+        "addr:street": "Prathuru",
+        "name": "Tiffin center",
+        "opening_hours": "Mo-Su 09:00-13:00",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6366954,
+          16.4652738
+        ]
+      },
+      "id": "node/5360254158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444428321",
+        "name": "Chatneys",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.046468,
+          16.2369971
+        ]
+      },
+      "id": "node/5444428321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444466026",
+        "name": "Mayuri lardge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0446591,
+          16.2374773
+        ]
+      },
+      "id": "node/5444466026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444471326",
+        "name": "Sankarvilas tiffin &meals",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0440466,
+          16.2375019
+        ]
+      },
+      "id": "node/5444471326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444706234",
+        "name": "Bilal hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0496407,
+          16.2207426
+        ]
+      },
+      "id": "node/5444706234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444917441",
+        "name": "Shankar tiffin center",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0473959,
+          16.2353385
+        ]
+      },
+      "id": "node/5444917441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445982223",
+        "addr:street": "ngo colony",
+        "email": "saichowdary950531@gmail.com",
+        "name": "Hotel",
+        "opening_hours": "24/7",
+        "operator": "siva",
+        "phone": "8106654342",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0426763,
+          16.2413996
+        ]
+      },
+      "id": "node/5445982223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5447283725",
+        "name": "Swarna hotel",
+        "shop": "wine",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8856942,
+          16.4800029
+        ]
+      },
+      "id": "node/5447283725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577103020",
+        "name": "Suraj Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6024654,
+          14.6768835
+        ]
+      },
+      "id": "node/5577103020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577103923",
+        "name": "Geetha Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6027773,
+          14.6789267
+        ]
+      },
+      "id": "node/5577103923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577103924",
+        "name": "Sapthagiri Balla",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6027318,
+          14.6772208
+        ]
+      },
+      "id": "node/5577103924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577103925",
+        "name": "Masineni Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.604864,
+          14.6783931
+        ]
+      },
+      "id": "node/5577103925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640975926",
+        "addr:postcode": "522501",
+        "addr:street": "Vaddeswaram  street",
+        "name": "Hotel taj",
+        "phone": "9703149197",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6108491,
+          16.4489424
+        ]
+      },
+      "id": "node/5640975926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640977123",
+        "addr:street": "Commity hall center",
+        "name": "Venkaya Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6111442,
+          16.4464923
+        ]
+      },
+      "id": "node/5640977123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640984123",
+        "addr:street": "Kunchanpalli",
+        "name": "Durgabhavani hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6169667,
+          16.46313
+        ]
+      },
+      "id": "node/5640984123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640984127",
+        "addr:street": "Y. S R statue",
+        "name": "Mahima hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6129567,
+          16.447757
+        ]
+      },
+      "id": "node/5640984127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640992521",
+        "addr:street": "KL UNIVERSITY TO NH5",
+        "internet_access": "wlan",
+        "name": "Shake Mirasa Restaurant",
+        "operator": "Shake Pamulu and sons",
+        "phone": "9848748665",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6116422,
+          16.4472401
+        ]
+      },
+      "id": "node/5640992521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640992531",
+        "name": "Tulasi Tiffen Center",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.617575,
+          16.4629692
+        ]
+      },
+      "id": "node/5640992531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640996321",
+        "addr:street": "Brahmam gari veedi",
+        "name": "Vaddeswaram",
+        "phone": "9885587103",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6127199,
+          16.448045
+        ]
+      },
+      "id": "node/5640996321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641001522",
+        "addr:street": "Near ramalayam, vaddeswaram",
+        "name": "Ganesh tea stall hotel",
+        "operator": "ganesh",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6151084,
+          16.4478366
+        ]
+      },
+      "id": "node/5641001522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641003127",
+        "addr:postcode": "522502",
+        "addr:street": "Vaddeswaram",
+        "name": "Seenu Hotel",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "phone": "9550626969",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6120116,
+          16.4476208
+        ]
+      },
+      "id": "node/5641003127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760203506",
+        "name": "Grand Aryas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0936177,
+          16.7099349
+        ]
+      },
+      "id": "node/5760203506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5827270955",
+        "name": "Sasya Pride",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0404019,
+          15.8247326
+        ]
+      },
+      "id": "node/5827270955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5902080321",
+        "name": "Kanishka Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0403178,
+          15.8130705
+        ]
+      },
+      "id": "node/5902080321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6040742061",
+        "name": "Mr. Idly",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0327653,
+          15.7858894
+        ]
+      },
+      "id": "node/6040742061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149772723",
+        "name": "Bavyasree",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0366718,
+          15.8276485
+        ]
+      },
+      "id": "node/6149772723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183031085",
+        "addr:postcode": "522501",
+        "addr:street": "Christianpeta",
+        "name": "Baba chicken center",
+        "phone": "9542487555",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6157393,
+          16.4803292
+        ]
+      },
+      "id": "node/6183031085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183241185",
+        "addr:postcode": "522501",
+        "addr:street": "Ntr kata",
+        "name": "Atluri tiffen center",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6106138,
+          16.4822332
+        ]
+      },
+      "id": "node/6183241185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202560986",
+        "addr:housenumber": "27-4-1",
+        "addr:postcode": "520002",
+        "addr:street": "Tadankivari Street",
+        "name": "Golden Palace",
+        "name:en": "Hotel Royal Grand",
+        "opening_hours": "24/7",
+        "phone": "08666618989",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6218815,
+          16.5124302
+        ]
+      },
+      "id": "node/6202560986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6206974785",
+        "name": "Ananda Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5130195,
+          16.5434955
+        ]
+      },
+      "id": "node/6206974785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207258285",
+        "name": "hansi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5163775,
+          16.5414352
+        ]
+      },
+      "id": "node/6207258285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207605188",
+        "name": "Hotel Guru M",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6321737,
+          16.5025135
+        ]
+      },
+      "id": "node/6207605188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255602189",
+        "name": "Hotel Royal Swagruha",
+        "name:en": "Annapurna Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4549132,
+          16.2955786
+        ]
+      },
+      "id": "node/6255602189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255657487",
+        "name": "Galaxy Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4558276,
+          16.2971278
+        ]
+      },
+      "id": "node/6255657487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255657488",
+        "check_date": "2024-03-03",
+        "name": "Sarovar Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4556816,
+          16.2968096
+        ]
+      },
+      "id": "node/6255657488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255657489",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4549057,
+          16.2954287
+        ]
+      },
+      "id": "node/6255657489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257538186",
+        "name": "TAJ Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3566149,
+          15.8288491
+        ]
+      },
+      "id": "node/6257538186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257733485",
+        "name": "Aruna Residency Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3568472,
+          15.8278042
+        ]
+      },
+      "id": "node/6257733485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6259224986",
+        "name": "Mohan Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0489214,
+          15.4974084
+        ]
+      },
+      "id": "node/6259224986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6259469086",
+        "name": "New Apsara Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0490552,
+          15.4951575
+        ]
+      },
+      "id": "node/6259469086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6261511687",
+        "name": "Hotel Namaskar",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9935458,
+          14.9186523
+        ]
+      },
+      "id": "node/6261511687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6264983685",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0488599,
+          15.4953087
+        ]
+      },
+      "id": "node/6264983685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6264983686",
+        "name": "Bala Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3556026,
+          15.8293999
+        ]
+      },
+      "id": "node/6264983686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265261586",
+        "name": "Komala Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9007858,
+          13.9046802
+        ]
+      },
+      "id": "node/6265261586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265263185",
+        "name": "Hotel Manju",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9010623,
+          13.9049242
+        ]
+      },
+      "id": "node/6265263185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265555097",
+        "name": "New Amaravathi Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9015047,
+          13.905219
+        ]
+      },
+      "id": "node/6265555097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265886888",
+        "name": "Sri Ganesh Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.894937,
+          13.899878
+        ]
+      },
+      "id": "node/6265886888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6267690989",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9817544,
+          14.4476034
+        ]
+      },
+      "id": "node/6267690989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6628809070",
+        "name": "AMCOSA functional hall",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3111783,
+          17.7119764
+        ]
+      },
+      "id": "node/6628809070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6629035261",
+        "name": "Jublee home",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3121858,
+          17.712467
+        ]
+      },
+      "id": "node/6629035261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6629411925",
+        "name": "Trinity holy church",
+        "name:te": "ట్రినిటీ హోలీ చర్చ్",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3137492,
+          17.7089034
+        ]
+      },
+      "id": "node/6629411925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6629420822",
+        "name": "Zion house of prayer",
+        "name:te": "జయాన్ హౌస్ ఒఫ్ ప్రేయర్",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3129231,
+          17.7100583
+        ]
+      },
+      "id": "node/6629420822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6869044501",
+        "name": "hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9446561,
+          16.4543975
+        ]
+      },
+      "id": "node/6869044501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920064474",
+        "name": "Harsha Regency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0359537,
+          15.8276493
+        ]
+      },
+      "id": "node/6920064474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7065039085",
+        "name": "Budhil Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3068515,
+          17.7257976
+        ]
+      },
+      "id": "node/7065039085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7088702252",
+        "name": "Shelton",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7846076,
+          16.9987575
+        ]
+      },
+      "id": "node/7088702252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108778486",
+        "name": "MRR residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8096611,
+          17.008055
+        ]
+      },
+      "id": "node/7108778486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112442685",
+        "name": "Hotel Usha Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.524702,
+          16.816719
+        ]
+      },
+      "id": "node/7112442685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243994410",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4624062,
+          16.2993527
+        ]
+      },
+      "id": "node/7243994410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244129777",
+        "name": "sai ram parlour",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4098967,
+          18.1031194
+        ]
+      },
+      "id": "node/7244129777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246516633",
+        "name": "Canteen",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4010232,
+          18.0197117
+        ]
+      },
+      "id": "node/7246516633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7287561286",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6571822,
+          16.4268404
+        ]
+      },
+      "id": "node/7287561286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7466802922",
+        "name": "Apsara Boarding and Lodging Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1378618,
+          16.1880558
+        ]
+      },
+      "id": "node/7466802922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7796278290",
+        "addr:city": "ibrahimpatnam",
+        "addr:postcode": "521456",
+        "addr:street": "theatre road",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hotel palagani",
+        "rooms": "0",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.518916,
+          16.5894514
+        ]
+      },
+      "id": "node/7796278290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7939007534",
+        "name": "leela krishna",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.519995,
+          16.5454774
+        ]
+      },
+      "id": "node/7939007534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7939098206",
+        "name": "falcons",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5172699,
+          16.5471615
+        ]
+      },
+      "id": "node/7939098206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7947230969",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5186137,
+          16.544197
+        ]
+      },
+      "id": "node/7947230969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7947237106",
+        "name": "Cosmo club",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5085795,
+          16.5451046
+        ]
+      },
+      "id": "node/7947237106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8116542275",
+        "name": "Peacock lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.690879,
+          16.7590957
+        ]
+      },
+      "id": "node/8116542275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8251489196",
+        "name": "Bosugaari Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8521146,
+          16.1085019
+        ]
+      },
+      "id": "node/8251489196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8318371134",
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "Near Seven Hills Hospital",
+        "addr:postcode": "530002",
+        "addr:street": "Waltair Main Road",
+        "email": "reservations.vizag@hotelrockdale.com",
+        "name": "Rockdale",
+        "tourism": "hotel",
+        "website": "http://hotelrockdale.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3083471,
+          17.7163638
+        ]
+      },
+      "id": "node/8318371134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8318460386",
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "10-28-3",
+        "addr:postcode": "530003",
+        "addr:street": "Uplands, Waltair Main Road",
+        "brand": "Four Points by Sheraton",
+        "brand:wikidata": "Q1439966",
+        "brand:wikipedia": "en:Four Points by Sheraton",
+        "name": "Four Points by Sheraton",
+        "short_name": "Four Points",
+        "tourism": "hotel",
+        "website": "https://four-points.marriott.com/",
+        "wikidata": "Q111402182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3123966,
+          17.7208884
+        ]
+      },
+      "id": "node/8318460386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8318854765",
+        "addr:city": "Visakhapatnam",
+        "addr:postcode": "530002",
+        "addr:street": "Waltair Main Road",
+        "name": "Green Park",
+        "tourism": "hotel",
+        "website": "http://hotelgreenpark.com/greenpark/vizag/",
+        "wikidata": "Q111402183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.306264,
+          17.7153753
+        ]
+      },
+      "id": "node/8318854765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8318894344",
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "Opposite G.V.M.C",
+        "addr:street": "Asilmetta Junction",
+        "name": "Royal Fort",
+        "tourism": "hotel",
+        "website": "http://www.royalforthotel.com/home.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3093748,
+          17.7231319
+        ]
+      },
+      "id": "node/8318894344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8319434582",
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "Dr. No. : 10-4-15",
+        "addr:postcode": "530003",
+        "addr:street": "Ramnagar, Asilmetta Junction",
+        "name": "Meghalaya",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3097133,
+          17.7233686
+        ]
+      },
+      "id": "node/8319434582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8319509627",
+        "addr:city": "Visakhapatnam",
+        "addr:housenumber": "Door No 7-24-3/2,Plot No: 1, Kirlumpudi Layout",
+        "addr:postcode": "530017",
+        "addr:street": "Beach Road",
+        "name": "Ambica Sea Green",
+        "tourism": "hotel",
+        "website": "http://www.ambicaseagreen.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3312158,
+          17.718696
+        ]
+      },
+      "id": "node/8319509627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8490876799",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel H",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6733128,
+          16.5127516
+        ]
+      },
+      "id": "node/8490876799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8530795847",
+        "addr:city": "Tirupati",
+        "addr:country": "IN",
+        "addr:district": "Chittoor",
+        "addr:postcode": "517501",
+        "addr:state": "Andhra Pradesh",
+        "addr:street": "Tanapalli Cross Road",
+        "name": "Taj Tirupati",
+        "tourism": "hotel",
+        "wikidata": "Q111861826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.437633,
+          13.6077354
+        ]
+      },
+      "id": "node/8530795847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521854543",
+        "name": "Bigstay",
+        "tourism": "hotel",
+        "website": "https://bigstay.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0338947,
+          13.5816118
+        ]
+      },
+      "id": "node/9521854543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768607416",
+        "name": "swathanthra vihaar",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6432933,
+          16.2375835
+        ]
+      },
+      "id": "node/9768607416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903926791",
+        "addr:city": "Srikakulam",
+        "addr:postcode": "532001",
+        "addr:street": "Rama Laxmana Junction, Pedapadu Rd",
+        "name": "SVA Hotel Grand",
+        "tourism": "hotel",
+        "website": "https://svahotelgrand.business.site/?utm_source=gmb&utm_medium=referral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9044416,
+          18.2996107
+        ]
+      },
+      "id": "node/9903926791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903926857",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8941188,
+          18.2961405
+        ]
+      },
+      "id": "node/9903926857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918867478",
+        "name": "Varam Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8945467,
+          18.3055903
+        ]
+      },
+      "id": "node/9918867478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918963119",
+        "name": "Venus Vegetarian Meals",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8947191,
+          18.2950267
+        ]
+      },
+      "id": "node/9918963119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9923791934",
+        "name": "Rajugari hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6935035,
+          17.1799349
+        ]
+      },
+      "id": "node/9923791934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9936546722",
+        "name": "Runway 5",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.89964,
+          17.6393015
+        ]
+      },
+      "id": "node/9936546722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171010703",
+        "name": "Blue Daimond Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8236662,
+          14.4702154
+        ]
+      },
+      "id": "node/10171010703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171010718",
+        "name": "Maharaja Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8230055,
+          14.4678272
+        ]
+      },
+      "id": "node/10171010718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171081049",
+        "name": "Venky Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2338669,
+          16.9574685
+        ]
+      },
+      "id": "node/10171081049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171081050",
+        "name": "SVN GRAND",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2362963,
+          16.9552613
+        ]
+      },
+      "id": "node/10171081050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171081062",
+        "name": "Ashoka Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2350568,
+          16.950648
+        ]
+      },
+      "id": "node/10171081062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10285532076",
+        "name": "Hotel Sapthagiri",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1898502,
+          13.4800398
+        ]
+      },
+      "id": "node/10285532076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10285579095",
+        "name": "Hotel Orion",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4219326,
+          13.6525864
+        ]
+      },
+      "id": "node/10285579095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10300976122",
+        "name": "Hi In",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3410775,
+          17.7363567
+        ]
+      },
+      "id": "node/10300976122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10613140874",
+        "description": "3-star hotel",
+        "name": "Hotel chitturi heritage",
+        "phone": "08819243434",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6898573,
+          16.7535573
+        ]
+      },
+      "id": "node/10613140874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10617411030",
+        "description": "Family restaurant veg and non veg AC",
+        "name": "Family restaurant",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2011217,
+          17.2300224
+        ]
+      },
+      "id": "node/10617411030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10627424980",
+        "name": "Hotel chitturi heritage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6898575,
+          16.7535573
+        ]
+      },
+      "id": "node/10627424980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10627437001",
+        "name": "Hotel sri devi residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6879196,
+          16.753685
+        ]
+      },
+      "id": "node/10627437001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10752193344",
+        "name": "Guru Pavana Suta Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.424265,
+          15.9386707
+        ]
+      },
+      "id": "node/10752193344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10819158073",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7791343,
+          14.5631701
+        ]
+      },
+      "id": "node/10819158073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10841388787",
+        "addr:city": "Vijayawada",
+        "addr:housenumber": "54-16-8/29",
+        "addr:postcode": "520008",
+        "addr:street": "Opp. to Loyola College, Venkateswara Nagar, Sri Venkateshwara Colony, Veterinary Colony,",
+        "air_conditioning": "yes",
+        "bar": "no",
+        "brand": "The Eden Park Boutique Hotel",
+        "description": "Hotel EDEN PARK is well-equipped to host corporates, families, tourists, solo-travelers, business travelers and holiday travelers with varied needs.",
+        "email": "reservations@edenparkvijayawada.com",
+        "highway": "bus_stop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Jio",
+        "name": "The Eden Park Boutique Hotel",
+        "operator": "Mahesh Babu",
+        "payment:american_express": "yes",
+        "payment:app": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:girocard": "yes",
+        "payment:google_pay": "yes",
+        "payment:jcb": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:mastercard_contactless": "yes",
+        "payment:paypal": "yes",
+        "payment:unionpay": "yes",
+        "payment:uta": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "payment:wechat": "yes",
+        "phone": "+919291651111",
+        "ref:vatin": "37AENFS8531H1ZI",
+        "reservation": "yes",
+        "rooms": "45",
+        "smoking": "dedicated",
+        "source": "survey;local knowledge;aerial imagery;gps;osm notes;streetlevel imagery",
+        "stars": "3",
+        "start_date": "2022-06-01",
+        "tourism": "hotel",
+        "website": "https://edenparkvijayawada.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6622803,
+          16.5087879
+        ]
+      },
+      "id": "node/10841388787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10892732501",
+        "addr:city": "visakhapatnam",
+        "addr:housenumber": "1, 672, Chinnamushidiwada.",
+        "addr:postcode": "531172",
+        "addr:street": "Pendurthi,",
+        "air_conditioning": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "OYO 60899 V3 Comforts",
+        "not:brand:wikidata": "Q24906315",
+        "phone": "01246201530",
+        "rooms": "20",
+        "tourism": "hotel",
+        "website": "https://www.oyorooms.com//hotels-in-Visakhapatnam/?utm_source=GMB_IN_SO&utm_medium=Organic&utm_campaign=VSK235&locale=en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2080963,
+          17.8078592
+        ]
+      },
+      "id": "node/10892732501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933566685",
+        "addr:city": "Guntur",
+        "addr:district": "Guntur",
+        "addr:postcode": "522006",
+        "addr:street": "Lakshmipuram Main Road",
+        "name": "The Capital Hotel",
+        "tourism": "hotel",
+        "website": "http://www.capitalhotel.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4178779,
+          16.3148817
+        ]
+      },
+      "id": "node/10933566685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11031603818",
+        "name": "Abiram Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6744272,
+          16.7549936
+        ]
+      },
+      "id": "node/11031603818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11031603824",
+        "addr:city": "Tanuku",
+        "addr:postcode": "534211",
+        "addr:street": "Railway station road",
+        "name": "Hotel Royal Park",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.674316,
+          16.7563374
+        ]
+      },
+      "id": "node/11031603824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11031707762",
+        "name": "Sankar hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4042271,
+          16.3586457
+        ]
+      },
+      "id": "node/11031707762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11103964976",
+        "name": "Sri Balaji Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0515899,
+          17.1731136
+        ]
+      },
+      "id": "node/11103964976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11359857506",
+        "name": "Yallamandaiah Residency & Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0436138,
+          15.5140309
+        ]
+      },
+      "id": "node/11359857506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11472350535",
+        "name": "APSRTC Rest Stop , Srinivasa Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8399914,
+          13.3486753
+        ]
+      },
+      "id": "node/11472350535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11505882748",
+        "check_date": "2024-01-10",
+        "name": "NCN Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1861729,
+          17.9079002
+        ]
+      },
+      "id": "node/11505882748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11543193087",
+        "check_date": "2024-01-23",
+        "name": "Hotel SVN Lake Palace",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4006954,
+          18.1085308
+        ]
+      },
+      "id": "node/11543193087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11570555683",
+        "check_date": "2024-01-31",
+        "name": "Hotel Golden way",
+        "tourism": "hotel",
+        "wikidata": "Q111069581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6227378,
+          16.5182249
+        ]
+      },
+      "id": "node/11570555683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11571990780",
+        "check_date": "2024-01-31",
+        "name": "Sri sai  Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6454327,
+          16.5065109
+        ]
+      },
+      "id": "node/11571990780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11575913681",
+        "name": "Satyadeva Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.036465,
+          18.0496414
+        ]
+      },
+      "id": "node/11575913681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11575913682",
+        "name": "Rasool Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0335712,
+          18.0501223
+        ]
+      },
+      "id": "node/11575913682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11575913683",
+        "name": "Srinivasa Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0324464,
+          18.0471164
+        ]
+      },
+      "id": "node/11575913683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11575913684",
+        "name": "Sri Devi Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0327638,
+          18.047528
+        ]
+      },
+      "id": "node/11575913684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11575913685",
+        "name": "Balaji Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0359621,
+          18.0492217
+        ]
+      },
+      "id": "node/11575913685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11578431088",
+        "name": "Hotel Centre Side",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6282605,
+          16.5130594
+        ]
+      },
+      "id": "node/11578431088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583144732",
+        "check_date": "2024-02-04",
+        "name": "Minerva Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6433895,
+          16.5025514
+        ]
+      },
+      "id": "node/11583144732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583144747",
+        "check_date": "2024-02-04",
+        "name": "Vivanta",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6401873,
+          16.5020957
+        ]
+      },
+      "id": "node/11583144747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11583276224",
+        "check_date": "2024-02-04",
+        "name": "Hotel Raj Vihar",
+        "tourism": "hotel",
+        "wikidata": "Q111069551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6387068,
+          16.5020413
+        ]
+      },
+      "id": "node/11583276224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610201184",
+        "check_date": "2024-02-11",
+        "name": "Sri Lakshmi Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.235134,
+          17.7431577
+        ]
+      },
+      "id": "node/11610201184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11617121856",
+        "check_date": "2025-07-11",
+        "fixme:type": "pure O natural",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6800478,
+          16.4861873
+        ]
+      },
+      "id": "node/11617121856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11618920795",
+        "name": "Indhraprastha",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6542355,
+          16.501572
+        ]
+      },
+      "id": "node/11618920795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11647853085",
+        "check_date": "2024-02-21",
+        "name": "Sai Vallaba",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2042863,
+          17.229529
+        ]
+      },
+      "id": "node/11647853085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11648189532",
+        "check_date": "2024-02-21",
+        "name": "Kelam Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.790347,
+          17.0003443
+        ]
+      },
+      "id": "node/11648189532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11648189557",
+        "check_date": "2024-02-21",
+        "name": "Gayatri Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8398524,
+          17.0421219
+        ]
+      },
+      "id": "node/11648189557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11648586217",
+        "check_date": "2025-07-12",
+        "name": "Hotel Park Elite",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7907999,
+          16.5313758
+        ]
+      },
+      "id": "node/11648586217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11652965036",
+        "check_date": "2024-02-21",
+        "name": "Hotel Riverview",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5973719,
+          16.5218973
+        ]
+      },
+      "id": "node/11652965036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11662154770",
+        "check_date": "2024-02-24",
+        "name": "Lemon Tree Premier",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6284919,
+          16.5064279
+        ]
+      },
+      "id": "node/11662154770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11664738369",
+        "name": "Hotel Harita",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2930015,
+          17.7191431
+        ]
+      },
+      "id": "node/11664738369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687222908",
+        "check_date": "2024-03-03",
+        "name": "Koushik Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4533464,
+          16.2965648
+        ]
+      },
+      "id": "node/11687222908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687288037",
+        "check_date": "2024-03-03",
+        "name": "Hotel Sarkar Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62364,
+          16.5125814
+        ]
+      },
+      "id": "node/11687288037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688050172",
+        "brand": "OYO",
+        "brand:wikidata": "Q24906315",
+        "name": "OYO Sindhura Guest House",
+        "tourism": "hotel",
+        "wikidata": "Q111071263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3049037,
+          17.7391879
+        ]
+      },
+      "id": "node/11688050172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11691032898",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0234053,
+          15.2536358
+        ]
+      },
+      "id": "node/11691032898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11694143027",
+        "check_date": "2024-03-05",
+        "name": "Lekha Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1647808,
+          16.0940941
+        ]
+      },
+      "id": "node/11694143027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11694143028",
+        "check_date": "2024-03-05",
+        "name": "Sree Nandini Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1650055,
+          16.0942908
+        ]
+      },
+      "id": "node/11694143028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11696730538",
+        "check_date": "2025-07-10",
+        "name": "Hotel Padmavathi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6885404,
+          16.522479
+        ]
+      },
+      "id": "node/11696730538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11720145425",
+        "name": "Savera Restaurant",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3085072,
+          17.7247839
+        ]
+      },
+      "id": "node/11720145425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11720290771",
+        "name": "Athidhi devo bava",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3364845,
+          17.7314747
+        ]
+      },
+      "id": "node/11720290771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11774945606",
+        "name": "Hotel Green park",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8944148,
+          14.0613165
+        ]
+      },
+      "id": "node/11774945606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11774992144",
+        "name": "Dileep chowdary mess",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9013487,
+          13.9611497
+        ]
+      },
+      "id": "node/11774992144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11830210676",
+        "name": "Royal Stay Inn",
+        "phone": "+919381880620",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2068411,
+          17.8169821
+        ]
+      },
+      "id": "node/11830210676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11963858070",
+        "check_date": "2024-06-08",
+        "name": "Sai Ganesh Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4013232,
+          17.278524
+        ]
+      },
+      "id": "node/11963858070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11978064729",
+        "check_date": "2024-06-18",
+        "name": "Hotel RadhaKrishna",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1578282,
+          14.1117978
+        ]
+      },
+      "id": "node/11978064729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11980498797",
+        "addr:city": "AVANIGADDA",
+        "addr:district": "Krishna",
+        "addr:postcode": "521121",
+        "addr:street": "Koduru Road",
+        "internet_access": "no",
+        "name": "KARTHIKEYA BHAVAN",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9170472,
+          16.0264027
+        ]
+      },
+      "id": "node/11980498797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11980669700",
+        "check_date": "2024-06-18",
+        "name": "Renuka Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1608374,
+          14.1137151
+        ]
+      },
+      "id": "node/11980669700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998333982",
+        "check_date": "2024-06-21",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4790186,
+          15.4875429
+        ]
+      },
+      "id": "node/11998333982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998429474",
+        "brand": "PARKROYAL",
+        "brand:wikidata": "Q4272131",
+        "check_date": "2024-06-21",
+        "name": "PARKROYAL",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4823418,
+          15.4831213
+        ]
+      },
+      "id": "node/11998429474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998496227",
+        "check_date": "2024-06-21",
+        "name": "Konaseema Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8427707,
+          16.7628327
+        ]
+      },
+      "id": "node/11998496227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998928695",
+        "check_date": "2024-06-21",
+        "name": "GVR Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6458866,
+          16.5054031
+        ]
+      },
+      "id": "node/11998928695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12102931152",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7931741,
+          17.0237347
+        ]
+      },
+      "id": "node/12102931152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12123730164",
+        "name": "RK Good Times",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1350204,
+          16.1858013
+        ]
+      },
+      "id": "node/12123730164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12123752902",
+        "addr:city": "Machilipatnam",
+        "addr:district": "Krishna",
+        "addr:postcode": "521001",
+        "addr:street": "Ramamnaidu pet",
+        "amenity": "college",
+        "name": "Lady Ampthil College;Annapurna tiffin shop",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1378605,
+          16.1802051
+        ]
+      },
+      "id": "node/12123752902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12123884836",
+        "name": "TIffen Center",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.673015,
+          16.8680157
+        ]
+      },
+      "id": "node/12123884836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12174110452",
+        "name": "Annapurna Hotels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1286167,
+          16.1795228
+        ]
+      },
+      "id": "node/12174110452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12174200096",
+        "name": "Karveni vari Bramahana Satram",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9248582,
+          16.0590359
+        ]
+      },
+      "id": "node/12174200096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12251983553",
+        "name": "Curry Point",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0348042,
+          16.1765335
+        ]
+      },
+      "id": "node/12251983553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252015541",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1303569,
+          16.1860405
+        ]
+      },
+      "id": "node/12252015541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12252212640",
+        "name": "Jani biryani",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1329124,
+          16.1839635
+        ]
+      },
+      "id": "node/12252212640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12254524755",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1365489,
+          16.1876748
+        ]
+      },
+      "id": "node/12254524755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12257931389",
+        "brand": "OYO",
+        "brand:wikidata": "Q24906315",
+        "name": "OYO",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1322546,
+          16.1827345
+        ]
+      },
+      "id": "node/12257931389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258111101",
+        "name": "Manjeera Sarovar Premiere Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7889077,
+          17.0208112
+        ]
+      },
+      "id": "node/12258111101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258653585",
+        "check_date": "2024-10-17",
+        "name": "Sri Venkateswara Lodge",
+        "phone": "+91 80085 23944",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.398326,
+          18.1093398
+        ]
+      },
+      "id": "node/12258653585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258653586",
+        "check_date": "2024-10-17",
+        "name": "LVR Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3983759,
+          18.1093262
+        ]
+      },
+      "id": "node/12258653586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258653589",
+        "check_date": "2024-10-17",
+        "name": "Sirugudi Lodge",
+        "phone": "+91 88972 72496",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3971585,
+          18.1092992
+        ]
+      },
+      "id": "node/12258653589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258674473",
+        "check_date": "2024-10-17",
+        "name": "Sai Krupa Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3975734,
+          18.1107985
+        ]
+      },
+      "id": "node/12258674473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258674475",
+        "check_date": "2024-10-17",
+        "name": "Sri Sai Maharaja Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3976477,
+          18.110841
+        ]
+      },
+      "id": "node/12258674475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258674478",
+        "check_date": "2024-10-17",
+        "name": "Sri Venkateswara Lodge",
+        "phone": "+91 94926 16898",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3976375,
+          18.1111598
+        ]
+      },
+      "id": "node/12258674478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12258674484",
+        "check_date": "2024-10-17",
+        "name": "Yamini Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3977217,
+          18.1117078
+        ]
+      },
+      "id": "node/12258674484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12307244959",
+        "name": "Ajay Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3711434,
+          17.75609
+        ]
+      },
+      "id": "node/12307244959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12307244960",
+        "name": "Baba Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.371272,
+          17.7579633
+        ]
+      },
+      "id": "node/12307244960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12531568517",
+        "name": "Hotel Sowbhagya",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3060968,
+          17.7189563
+        ]
+      },
+      "id": "node/12531568517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12582295055",
+        "check_date": "2025-02-12",
+        "name": "Highway Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4637161,
+          13.6149358
+        ]
+      },
+      "id": "node/12582295055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12594956573",
+        "check_date": "2025-02-12",
+        "name": "Springs Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4424576,
+          13.6116186
+        ]
+      },
+      "id": "node/12594956573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12596236633",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2339505,
+          16.957332
+        ]
+      },
+      "id": "node/12596236633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12596241740",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.23494,
+          16.9577807
+        ]
+      },
+      "id": "node/12596241740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12596343658",
+        "addr:city": "tadepalligudem",
+        "addr:district": "West Godavari",
+        "addr:postcode": "534101",
+        "addr:street": "APSRTC Bus Stand Road",
+        "name": "hotel usha grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5246997,
+          16.8167514
+        ]
+      },
+      "id": "node/12596343658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597555647",
+        "name": "royal grand hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6219355,
+          16.5123877
+        ]
+      },
+      "id": "node/12597555647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597567780",
+        "name": "kosal hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6208127,
+          16.5119513
+        ]
+      },
+      "id": "node/12597567780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597567786",
+        "name": "hotel center side",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6282947,
+          16.5130358
+        ]
+      },
+      "id": "node/12597567786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12597615065",
+        "name": "hotel manorama",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.618234,
+          16.5111796
+        ]
+      },
+      "id": "node/12597615065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12607673805",
+        "check_date": "2025-02-21",
+        "name": "YV Grand Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6208791,
+          16.5088913
+        ]
+      },
+      "id": "node/12607673805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12607673806",
+        "check_date": "2025-02-22",
+        "name": "DM Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.622719,
+          16.5082589
+        ]
+      },
+      "id": "node/12607673806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12607673807",
+        "check_date": "2025-02-22",
+        "name": "RR Suites",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6226474,
+          16.5083106
+        ]
+      },
+      "id": "node/12607673807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12625489418",
+        "addr:city": "Vijayawada",
+        "addr:housenumber": "D.NO 41-1/4-47, near PGI",
+        "name": "FabHotel Spark Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6299221,
+          16.5039488
+        ]
+      },
+      "id": "node/12625489418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12690384722",
+        "check_date": "2025-07-11",
+        "name": "Vijayadurga hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6978571,
+          16.4800297
+        ]
+      },
+      "id": "node/12690384722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12690401671",
+        "addr:city": "Vijayawada",
+        "addr:district": "Guntur",
+        "addr:postcode": "522501",
+        "name": "Sri sai krishna tea and tiffins",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5771379,
+          16.4860551
+        ]
+      },
+      "id": "node/12690401671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12690406109",
+        "check_date": "2025-07-11",
+        "name": "Roti stop",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7005678,
+          16.4788216
+        ]
+      },
+      "id": "node/12690406109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12690515037",
+        "addr:city": "Vijayawada",
+        "addr:district": "Krishna",
+        "addr:postcode": "520001",
+        "check_date": "2025-07-24",
+        "name": "Amma hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.613972,
+          16.5167426
+        ]
+      },
+      "id": "node/12690515037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12696090455",
+        "name": "dvaraka",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6223458,
+          14.624737
+        ]
+      },
+      "id": "node/12696090455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12837274562",
+        "check_date": "2025-05-14",
+        "name": "Signature Hotels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2035517,
+          17.7162647
+        ]
+      },
+      "id": "node/12837274562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12848032694",
+        "name": "Ayyappa Tiffin Center",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4681243,
+          15.9057188
+        ]
+      },
+      "id": "node/12848032694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12849375804",
+        "addr:city": "Vijayawada",
+        "addr:district": "NTR",
+        "addr:housenumber": "Kalyanam Ramarao St, Revenue Colony Park, Sidhartha Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+        "addr:postcode": "520010",
+        "addr:street": "MG Road",
+        "brand": "Mango",
+        "name": "Mango Hotels Vybrant",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.647803,
+          16.5002513
+        ]
+      },
+      "id": "node/12849375804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12850684112",
+        "addr:city": "Vijayawada",
+        "addr:district": "NTR",
+        "addr:housenumber": "40-9-45, Acharya Ranga Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+        "addr:postcode": "520010",
+        "addr:street": "MG Road",
+        "name": "Jade Suites Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6525283,
+          16.4987393
+        ]
+      },
+      "id": "node/12850684112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12852942604",
+        "check_date": "2025-05-21",
+        "name": "Hotel Murugan Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6388213,
+          16.5114527
+        ]
+      },
+      "id": "node/12852942604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12853254239",
+        "check_date": "2025-05-21",
+        "name": "Hainan Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6413041,
+          16.5025951
+        ]
+      },
+      "id": "node/12853254239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12860767970",
+        "brand": "Residence Inn",
+        "brand:wikidata": "Q7315394",
+        "name": "Kona Bhavan",
+        "official_name": "Residence Inn by Marriott",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4780584,
+          15.9081471
+        ]
+      },
+      "id": "node/12860767970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12874740880",
+        "name": "Kaveri tiffin centre",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4393302,
+          16.3427016
+        ]
+      },
+      "id": "node/12874740880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875342616",
+        "name": "SSS Idly",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6524875,
+          16.5027513
+        ]
+      },
+      "id": "node/12875342616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12875451552",
+        "name": "Sri Sai Krishna Mess",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6610193,
+          16.503302
+        ]
+      },
+      "id": "node/12875451552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12894983186",
+        "check_date": "2025-06-07",
+        "name": "Vani Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2973532,
+          17.7123132
+        ]
+      },
+      "id": "node/12894983186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12894983187",
+        "check_date": "2025-06-07",
+        "name": "Hotel Wonderful Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2970687,
+          17.7126113
+        ]
+      },
+      "id": "node/12894983187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12894983191",
+        "check_date": "2025-06-07",
+        "name": "Hotel Taj Mahal",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2981621,
+          17.7125116
+        ]
+      },
+      "id": "node/12894983191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12953215230",
+        "name": "My Room Luxury Stay",
+        "phone": "+9170325526339",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3271854,
+          17.7411216
+        ]
+      },
+      "id": "node/12953215230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12953215244",
+        "name": "Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3273443,
+          17.7416501
+        ]
+      },
+      "id": "node/12953215244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12956372730",
+        "name": "Sun Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8765156,
+          18.304409
+        ]
+      },
+      "id": "node/12956372730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959403118",
+        "name": "Sri SNK Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2086438,
+          17.8083242
+        ]
+      },
+      "id": "node/12959403118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12989957298",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9997772,
+          16.5784795
+        ]
+      },
+      "id": "node/12989957298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991057381",
+        "addr:housenumber": "sri lakshi durga auto moboles",
+        "addr:street": "PSC Bose Road",
+        "check_date": "2025-07-10",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Omkar Tea Tiffer",
+        "opening_hours": "04:00-10:30",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 97014 83148",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.675063,
+          16.4989932
+        ]
+      },
+      "id": "node/12991057381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991115159",
+        "check_date": "2025-07-10",
+        "name": "VR Sai Ram",
+        "phone": "+91 65879 99984",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6714952,
+          16.5010793
+        ]
+      },
+      "id": "node/12991115159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991133103",
+        "check_date": "2025-07-10",
+        "name": "Patan Arif Khan Biriyani Shop",
+        "opening_hours": "Mo-Sa 12:00-16:00",
+        "phone": "+91 93986 48790",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6746246,
+          16.4990591
+        ]
+      },
+      "id": "node/12991133103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991181860",
+        "check_date": "2025-07-10",
+        "name": "Chaithu Palav Center",
+        "phone": "+91 77308 35418",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.675556,
+          16.4985287
+        ]
+      },
+      "id": "node/12991181860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991249940",
+        "check_date": "2025-07-10",
+        "name": "Hotel Omkar",
+        "phone": "+91 96183 22078",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6749135,
+          16.4988851
+        ]
+      },
+      "id": "node/12991249940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991258743",
+        "check_date": "2025-07-10",
+        "internet_access": "no",
+        "name": "Hotel V.R SaiRam",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 91541 46623",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6740924,
+          16.5005406
+        ]
+      },
+      "id": "node/12991258743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991258744",
+        "check_date": "2025-07-10",
+        "internet_access": "no",
+        "name": "Kranthi Lodge",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 93479 09413",
+        "rooms": "Available",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6762168,
+          16.5025057
+        ]
+      },
+      "id": "node/12991258744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12991275716",
+        "check_date": "2025-07-10",
+        "description": "Rooms,ac rooms",
+        "name": "Sri Kranthikra Lodge",
+        "name:en": "Sri Kranthika Lodge",
+        "phone": "+91 93479 09413",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6779506,
+          16.4974539
+        ]
+      },
+      "id": "node/12991275716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992123428",
+        "check_date": "2025-07-10",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.697854,
+          16.5176865
+        ]
+      },
+      "id": "node/12992123428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12992712278",
+        "name": "Hotel Square Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3316729,
+          17.7467352
+        ]
+      },
+      "id": "node/12992712278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993412433",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Sai Ganesh Residencial",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6776296,
+          16.4810938
+        ]
+      },
+      "id": "node/12993412433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993551141",
+        "check_date": "2025-07-11",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7215926,
+          16.5086721
+        ]
+      },
+      "id": "node/12993551141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993551163",
+        "check_date": "2025-07-11",
+        "internet_access": "no",
+        "name": "Sri Avinash Lodge",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 95423 94619",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6759719,
+          16.5050649
+        ]
+      },
+      "id": "node/12993551163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993592496",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7217202,
+          16.5090961
+        ]
+      },
+      "id": "node/12993592496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993601985",
+        "check_date": "2025-07-11",
+        "name": "Roti Rachadi",
+        "phone": "+91 92462 26543",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6791246,
+          16.5073107
+        ]
+      },
+      "id": "node/12993601985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993602124",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Skills.KHAIA MATDDIN",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7223615,
+          16.5090484
+        ]
+      },
+      "id": "node/12993602124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993604293",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7223952,
+          16.5087142
+        ]
+      },
+      "id": "node/12993604293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993605568",
+        "check_date": "2025-07-11",
+        "name": "Sripaada Valaba Lakshmi Hotel",
+        "phone": "900461595",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6786553,
+          16.5068458
+        ]
+      },
+      "id": "node/12993605568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993605642",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.720854,
+          16.5095189
+        ]
+      },
+      "id": "node/12993605642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993607265",
+        "check_date": "2025-07-11",
+        "description": "Hotel ,rooms,ac and non AC rooms",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sri Krishna Lodge",
+        "name:en": "Sri Krishna Lodge",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 98856 62441",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6756415,
+          16.5048846
+        ]
+      },
+      "id": "node/12993607265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993611122",
+        "check_date": "2025-07-11",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bilal Kichudi Point",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.678676,
+          16.5067848
+        ]
+      },
+      "id": "node/12993611122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993611124",
+        "check_date": "2025-07-11",
+        "name": "Jai Vinayaka Kichidi Hotel",
+        "phone": "+91 95500 68188",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6787821,
+          16.5069769
+        ]
+      },
+      "id": "node/12993611124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993612661",
+        "check_date": "2025-07-11",
+        "name": "Tiffin Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7219951,
+          16.5084275
+        ]
+      },
+      "id": "node/12993612661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993613960",
+        "check_date": "2025-07-11",
+        "internet_access": "no",
+        "name": "Sri Padha Velaba Lakshmi Hotel",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "900461595",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6785408,
+          16.506821
+        ]
+      },
+      "id": "node/12993613960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993615822",
+        "check_date": "2025-07-11",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7221348,
+          16.5092838
+        ]
+      },
+      "id": "node/12993615822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993621188",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Banyan Tree",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6697413,
+          16.4917744
+        ]
+      },
+      "id": "node/12993621188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993623036",
+        "check_date": "2025-07-10",
+        "description": "Single,double,triple rooms available",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Kranthi Lodge",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 93479 09413",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6762225,
+          16.5025318
+        ]
+      },
+      "id": "node/12993623036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993623640",
+        "check_date": "2025-07-11",
+        "name": "Sri Ajiniya Tiffins",
+        "opening_hours": "Mo-Sa 06:00-20:00",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7083749,
+          16.4758566
+        ]
+      },
+      "id": "node/12993623640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993625643",
+        "brand": "Residence Inn",
+        "brand:wikidata": "Q7315394",
+        "check_date": "2025-07-11",
+        "name": "Mashallah",
+        "official_name": "Residence Inn by Marriott",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7221194,
+          16.5082295
+        ]
+      },
+      "id": "node/12993625643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993628603",
+        "check_date": "2025-07-11",
+        "name": "Jai Sai Tiffen Center",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6787997,
+          16.5069714
+        ]
+      },
+      "id": "node/12993628603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993628965",
+        "check_date": "2025-07-11",
+        "name": "Sri Vinaayaka Hotel",
+        "phone": "+91 99127 20577",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6791413,
+          16.5068221
+        ]
+      },
+      "id": "node/12993628965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993628972",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Apricot Tree",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6710599,
+          16.4920148
+        ]
+      },
+      "id": "node/12993628972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993629038",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Banana Tree",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.669678,
+          16.4916905
+        ]
+      },
+      "id": "node/12993629038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993629773",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Badam Tree",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6697368,
+          16.4917848
+        ]
+      },
+      "id": "node/12993629773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993630598",
+        "check_date": "2025-07-11",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7207378,
+          16.5070677
+        ]
+      },
+      "id": "node/12993630598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993630599",
+        "check_date": "2025-07-11",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7208721,
+          16.5069334
+        ]
+      },
+      "id": "node/12993630599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993637905",
+        "addr:housenumber": "vihaan hotel",
+        "addr:street": "Karl Marx Road",
+        "check_date": "2025-07-11",
+        "name": "Vihan Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.667763,
+          16.5231088
+        ]
+      },
+      "id": "node/12993637905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993639308",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7205942,
+          16.5077325
+        ]
+      },
+      "id": "node/12993639308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993640577",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Ravi Chettu",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6702043,
+          16.4921443
+        ]
+      },
+      "id": "node/12993640577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993641479",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Kanuga Chettu",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6700015,
+          16.4922146
+        ]
+      },
+      "id": "node/12993641479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993642653",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7212776,
+          16.5090937
+        ]
+      },
+      "id": "node/12993642653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993642662",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7208435,
+          16.508082
+        ]
+      },
+      "id": "node/12993642662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993642994",
+        "brand": "Residence Inn",
+        "brand:wikidata": "Q7315394",
+        "check_date": "2025-07-11",
+        "name": "Redcidency",
+        "official_name": "Residence Inn by Marriott",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7216912,
+          16.5082885
+        ]
+      },
+      "id": "node/12993642994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993648931",
+        "check_date": "2025-07-11",
+        "name": "Sri Bavani Lodge",
+        "phone": "+91 90528 50209",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6789762,
+          16.5067097
+        ]
+      },
+      "id": "node/12993648931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993651444",
+        "check_date": "2025-07-11",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7208835,
+          16.507128
+        ]
+      },
+      "id": "node/12993651444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993651949",
+        "check_date": "2025-07-11",
+        "name": "Shak Nagulu Shop",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7221511,
+          16.5094738
+        ]
+      },
+      "id": "node/12993651949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993652763",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7202236,
+          16.5060616
+        ]
+      },
+      "id": "node/12993652763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993655480",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7216278,
+          16.5040543
+        ]
+      },
+      "id": "node/12993655480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993655941",
+        "brand": "Treebo Trend",
+        "brand:wikidata": "Q122214091",
+        "check_date": "2025-07-11",
+        "name": "Balaji",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7072227,
+          16.4778026
+        ]
+      },
+      "id": "node/12993655941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993682784",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7215219,
+          16.5070155
+        ]
+      },
+      "id": "node/12993682784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993701042",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7213835,
+          16.5071499
+        ]
+      },
+      "id": "node/12993701042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993701182",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7215869,
+          16.5072391
+        ]
+      },
+      "id": "node/12993701182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993718207",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7215515,
+          16.5071579
+        ]
+      },
+      "id": "node/12993718207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993718754",
+        "check_date": "2025-07-11",
+        "name": "Cj Hotel Rooms",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6752093,
+          16.5107452
+        ]
+      },
+      "id": "node/12993718754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993726502",
+        "brand": "Homes & Villas",
+        "check_date": "2025-07-11",
+        "name": "Homes & Villas",
+        "official_name": "Homes & Villas by Marriott International",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7222078,
+          16.5070204
+        ]
+      },
+      "id": "node/12993726502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993766038",
+        "check_date": "2025-07-11",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6763416,
+          16.5245473
+        ]
+      },
+      "id": "node/12993766038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993785587",
+        "addr:housenumber": "The kay hotel",
+        "addr:street": "ELuru Road",
+        "check_date": "2025-07-11",
+        "name": "Kay Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.676343,
+          16.5239604
+        ]
+      },
+      "id": "node/12993785587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12993944547",
+        "check_date": "2025-07-11",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7002655,
+          16.5149665
+        ]
+      },
+      "id": "node/12993944547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994372841",
+        "name": "ks military hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6701258,
+          16.5233539
+        ]
+      },
+      "id": "node/12994372841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12994384964",
+        "check_date": "2025-07-11",
+        "name": "SK Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6422317,
+          16.4965984
+        ]
+      },
+      "id": "node/12994384964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12995412153",
+        "check_date": "2025-07-12",
+        "name": "Prathap Reddy Tiffin Hotel",
+        "opening_hours": "Mo-Sa 06:00-21:00",
+        "phone": "+91 93915 14101",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5866771,
+          16.4955013
+        ]
+      },
+      "id": "node/12995412153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12995550192",
+        "check_date": "2025-07-12",
+        "name": "Lazeez Hotel Near Krishnalanka Vijayawada",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6324868,
+          16.5024401
+        ]
+      },
+      "id": "node/12995550192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084988857",
+        "name": "Hotel Morya",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2929835,
+          17.7178828
+        ]
+      },
+      "id": "node/13084988857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084988863",
+        "name": "Sai Jutika Grand Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2934989,
+          17.7161427
+        ]
+      },
+      "id": "node/13084988863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084988864",
+        "name": "Sree Kanya Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2934927,
+          17.7160765
+        ]
+      },
+      "id": "node/13084988864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084988884",
+        "name": "KNR Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2938829,
+          17.7196071
+        ]
+      },
+      "id": "node/13084988884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13085046820",
+        "name": "Hotel Golden Tulip",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3027017,
+          17.7197822
+        ]
+      },
+      "id": "node/13085046820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13085046846",
+        "name": "North Way Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3024369,
+          17.718278
+        ]
+      },
+      "id": "node/13085046846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088162467",
+        "name": "Ganesh Tiffin Centre",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5417702,
+          16.7124175
+        ]
+      },
+      "id": "node/13088162467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088192646",
+        "name": "NIRMALA RESIDENCY,BHIMAVARAM",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5191839,
+          16.5449515
+        ]
+      },
+      "id": "node/13088192646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088192648",
+        "name": "HOTEL SRIRAM LODGE",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5187326,
+          16.5443189
+        ]
+      },
+      "id": "node/13088192648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088213236",
+        "name": "Hotel Anand Sai",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6869411,
+          16.753849
+        ]
+      },
+      "id": "node/13088213236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088448346",
+        "name": "Sriram Hotel \"Y\" Junction Pydiparru, Tanuku",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6650924,
+          16.7597465
+        ]
+      },
+      "id": "node/13088448346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13088466233",
+        "name": "yamini kalyana mandapam rooms",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6375567,
+          17.2194389
+        ]
+      },
+      "id": "node/13088466233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13096777774",
+        "name": "Hotel Akshara",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2931205,
+          17.7280211
+        ]
+      },
+      "id": "node/13096777774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13119324172",
+        "name": "Hotel Shobha",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4864875,
+          15.4824398
+        ]
+      },
+      "id": "node/13119324172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13162997833",
+        "name": "Keerthi Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3207236,
+          17.735358
+        ]
+      },
+      "id": "node/13162997833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13162997837",
+        "name": "Hotel Ambica Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3155401,
+          17.7347789
+        ]
+      },
+      "id": "node/13162997837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13167911130",
+        "check_date": "2025-09-24",
+        "name": "Hotel Vytla Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3975598,
+          18.1076197
+        ]
+      },
+      "id": "node/13167911130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13167911131",
+        "check_date": "2025-09-24",
+        "name": "Woodland Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3971126,
+          18.1076964
+        ]
+      },
+      "id": "node/13167911131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13174639485",
+        "name": "Suraj Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4772545,
+          15.4865353
+        ]
+      },
+      "id": "node/13174639485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179727729",
+        "name": "Hotel Lata Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3134939,
+          17.7244441
+        ]
+      },
+      "id": "node/13179727729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179768859",
+        "name": "Wing house",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3543348,
+          18.5732972
+        ]
+      },
+      "id": "node/13179768859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179829842",
+        "name": "Guntur Mess",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2828291,
+          18.4891665
+        ]
+      },
+      "id": "node/13179829842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179829843",
+        "name": "Rajahmundry Mess",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2828934,
+          18.4888806
+        ]
+      },
+      "id": "node/13179829843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13179831437",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3976809,
+          18.1144925
+        ]
+      },
+      "id": "node/13179831437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13182500608",
+        "brand": "Residence Inn",
+        "brand:wikidata": "Q7315394",
+        "name": "SVR Gopal Residency",
+        "official_name": "Residence Inn by Marriott",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4007192,
+          18.1032814
+        ]
+      },
+      "id": "node/13182500608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13182716378",
+        "addr:city": "Vizianagaram",
+        "addr:district": "Vizianagaram",
+        "addr:postcode": "535002",
+        "addr:street": "M G Road",
+        "name": "Hotel Skml",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.41047,
+          18.1157515
+        ]
+      },
+      "id": "node/13182716378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13183438967",
+        "name": "Blue Earth",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3963381,
+          18.1077965
+        ]
+      },
+      "id": "node/13183438967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13204722368",
+        "name": "Siva rama lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4191813,
+          18.7642142
+        ]
+      },
+      "id": "node/13204722368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13260754776",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2753139,
+          15.6214969
+        ]
+      },
+      "id": "node/13260754776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13281158415",
+        "name": "Sri Brundavan Grand Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0160201,
+          17.6874369
+        ]
+      },
+      "id": "node/13281158415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13312857697",
+        "check_date": "2025-11-18",
+        "name": "Hotel Geetha Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3014099,
+          17.7261812
+        ]
+      },
+      "id": "node/13312857697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13312902006",
+        "check_date": "2025-11-18",
+        "name": "Hotel Simhadri Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3014144,
+          17.7259238
+        ]
+      },
+      "id": "node/13312902006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13313009609",
+        "check_date": "2025-11-18",
+        "name": "Lakshmi Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3016743,
+          17.7265454
+        ]
+      },
+      "id": "node/13313009609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13316889160",
+        "name": "RR Inn Lodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2990178,
+          17.7264139
+        ]
+      },
+      "id": "node/13316889160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13388162296",
+        "name": "Sri Srinivasa Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3039766,
+          17.7162258
+        ]
+      },
+      "id": "node/13388162296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13410448979",
+        "check_date": "2025-12-27",
+        "name": "Hotel Ocean Spice",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3443006,
+          17.7432821
+        ]
+      },
+      "id": "node/13410448979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886341",
+        "check_date": "2026-01-04",
+        "name": "Hotel New Prince",
+        "phone": "+91 70958 66798",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2997851,
+          17.7152359
+        ]
+      },
+      "id": "node/13429886341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886345",
+        "check_date": "2026-01-04",
+        "name": "Hotel Rajdhani",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2995554,
+          17.7153208
+        ]
+      },
+      "id": "node/13429886345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886347",
+        "check_date": "2026-01-04",
+        "name": "Sree Surya Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2993114,
+          17.7156502
+        ]
+      },
+      "id": "node/13429886347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886348",
+        "check_date": "2026-01-04",
+        "name": "Jai Krishna Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2992327,
+          17.7152142
+        ]
+      },
+      "id": "node/13429886348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886349",
+        "check_date": "2026-01-04",
+        "name": "Ashoka Residency",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2991825,
+          17.7150584
+        ]
+      },
+      "id": "node/13429886349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886359",
+        "check_date": "2026-01-04",
+        "name": "Hotel Rajdhani Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2997418,
+          17.7140095
+        ]
+      },
+      "id": "node/13429886359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429886360",
+        "check_date": "2026-01-04",
+        "name": "Hotel Orange",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2998291,
+          17.7143162
+        ]
+      },
+      "id": "node/13429886360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13429892342",
+        "check_date": "2026-01-04",
+        "name": "Hotel Sai Central",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3006949,
+          17.7152076
+        ]
+      },
+      "id": "node/13429892342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13440162381",
+        "check_date": "2026-01-08",
+        "name": "Lakshmi Padmavathi Grand Rooms",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6268892,
+          16.5089874
+        ]
+      },
+      "id": "node/13440162381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13445167417",
+        "name": "Puttaparthi Family Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8117128,
+          14.1475334
+        ]
+      },
+      "id": "node/13445167417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13484148501",
+        "addr:postcode": "530016",
+        "addr:street": "Jaganadhapuram",
+        "internet_access": "wlan",
+        "name": "Hotel Sinka Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2969024,
+          17.7278481
+        ]
+      },
+      "id": "node/13484148501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13511439574",
+        "name": "THATHA Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7201721,
+          15.068277
+        ]
+      },
+      "id": "node/13511439574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13529599451",
+        "check_date": "2026-02-06",
+        "name": "Royal Grand",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3905622,
+          17.2705461
+        ]
+      },
+      "id": "node/13529599451"
+    }
+  ]
+}

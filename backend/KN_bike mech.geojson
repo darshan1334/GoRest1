@@ -1,0 +1,3367 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-15T07:46:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446984531",
+        "name": "Farhan Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6224943,
+          12.9000048
+        ]
+      },
+      "id": "node/2446984531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3925567684",
+        "name": "Bajaj Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.373106,
+          11.8823317
+        ]
+      },
+      "id": "node/3925567684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3925570213",
+        "name": "Bajaj Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4938302,
+          11.747105
+        ]
+      },
+      "id": "node/3925570213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4063568044",
+        "name": "SMR Star Garriage",
+        "name:kn": "ಎಸ್ಎಂಆರ್ ಸ್ಟಾರ್ ಗ್ಯಾರೇಜ್",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6289267,
+          12.944858
+        ]
+      },
+      "id": "node/4063568044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4109508790",
+        "name": "Motokraft",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6295979,
+          13.0027661
+        ]
+      },
+      "id": "node/4109508790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197693024",
+        "name": "Salaam Auto Clinic",
+        "parts": "yes",
+        "sales": "no",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5958374,
+          12.917308
+        ]
+      },
+      "id": "node/4197693024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4286285297",
+        "addr:housenumber": "134",
+        "addr:street": "18th",
+        "description": "auto repair",
+        "name": "Sri Vinayaka Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.632226,
+          12.977683
+        ]
+      },
+      "id": "node/4286285297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448237809",
+        "addr:city": "Bangalore",
+        "addr:postcode": "560037",
+        "addr:street": "kariyammana agrahara road,bellandur",
+        "name": "two wheeler machanics",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6803679,
+          12.9442527
+        ]
+      },
+      "id": "node/4448237809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013565861",
+        "addr:city": "Marathhalli, Bangalore",
+        "addr:street": "Service Road",
+        "check_date": "2024-09-18",
+        "name": "Royal Enfield Exclusive Service Centre",
+        "shop": "motorcycle_repair",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7023894,
+          12.966089
+        ]
+      },
+      "id": "node/6013565861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255648837",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4625758,
+          17.3962678
+        ]
+      },
+      "id": "node/6255648837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6291137337",
+        "addr:city": "Davanagere",
+        "addr:postcode": "577002",
+        "addr:street": "GM Compound",
+        "name": "Century Auto Works",
+        "payment:cash": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9273659,
+          14.4639451
+        ]
+      },
+      "id": "node/6291137337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6378793970",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6062763,
+          12.8834061
+        ]
+      },
+      "id": "node/6378793970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6380373113",
+        "name": "Royal Enfield Service Teknik",
+        "opening_hours": "Mo-Su 07:00-07:00",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6529774,
+          12.9249641
+        ]
+      },
+      "id": "node/6380373113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6380373832",
+        "name": "Royal enfield",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5810633,
+          14.6733893
+        ]
+      },
+      "id": "node/6380373832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389225430",
+        "branch": "showroom",
+        "brand": "KTM",
+        "brand:wikidata": "Q215657",
+        "name": "KTM",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7018296,
+          12.9655187
+        ]
+      },
+      "id": "node/6389225430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6534634151",
+        "name": "RAJ AUTO SERVICES",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9596211,
+          18.3179671
+        ]
+      },
+      "id": "node/6534634151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571756955",
+        "addr:city": "Hyderabad",
+        "addr:postcode": "500039",
+        "addr:street": "Road No 7",
+        "description": "Specialist in all two wheelers, servicing & water washing.",
+        "name": "Laxmi Ganapathi Motors",
+        "payment:cash": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5662354,
+          17.4227756
+        ]
+      },
+      "id": "node/6571756955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6575375658",
+        "name": "Javeed Bike Point",
+        "operator": "Md Javeed",
+        "phone": "+919705405027",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.565428,
+          17.4217834
+        ]
+      },
+      "id": "node/6575375658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593421939",
+        "name": "Riders Bike Point",
+        "operator": "Md Javeed",
+        "phone": "+91 9391076478",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5683651,
+          17.4229759
+        ]
+      },
+      "id": "node/6593421939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593421959",
+        "description": "Service and Washing",
+        "name": "Sairam Bike Point",
+        "operator": "T Raju",
+        "phone": "+91 9848041938",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5647159,
+          17.4206257
+        ]
+      },
+      "id": "node/6593421959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6779095956",
+        "addr:street": "Guttalu road",
+        "name": "Unique bike centre",
+        "phone": "9448218354",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9059231,
+          12.5287677
+        ]
+      },
+      "id": "node/6779095956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6779105534",
+        "addr:street": "K R road,Subhash nagar",
+        "description": "it's a motorcycle repair shop",
+        "name": "Activea Motors",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8893378,
+          12.5239968
+        ]
+      },
+      "id": "node/6779105534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6779129209",
+        "addr:street": "subhash nagar",
+        "description": "motorcycle repairing shop",
+        "name": "Activea motors",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8893656,
+          12.5239861
+        ]
+      },
+      "id": "node/6779129209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6840905256",
+        "name": "Yash Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5076448,
+          15.8616817
+        ]
+      },
+      "id": "node/6840905256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6868777695",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5173164,
+          17.4272973
+        ]
+      },
+      "id": "node/6868777695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6868777703",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5188399,
+          17.4272512
+        ]
+      },
+      "id": "node/6868777703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6892883955",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7846345,
+          12.633602
+        ]
+      },
+      "id": "node/6892883955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7002721377",
+        "brand": "APE;POP;PETRONAS OIL;GREAVES;USHA;Piaggio;ALFA;APE CITY",
+        "motorcycle:repair": "yes",
+        "motorcycle:sales": "yes",
+        "name": "Sri Chamundeshwari Devi Automobiles",
+        "opening_hours": "Mo-Sa 09:00-17:30",
+        "operator": "RACHITT KUMAR",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "service:vehicle:alignment": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4284816,
+          18.1197403
+        ]
+      },
+      "id": "node/7002721377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7002721378",
+        "addr:city": "Ramayampet",
+        "addr:postcode": "502101",
+        "brand": "APE;HERO;BAJAJ;Honda;Afla;PETRONAS OIL;JAGGI GOLD;ASK BRAKE SHOE;Castrol;KBX;GREAVES;POP",
+        "motorcycle:repair": "yes",
+        "motorcycle:sales": "yes",
+        "name": "Sri Chamundeshwari Devi Automobiles",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "operator": "AANJANNEYULL",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "service:vehicle:alignment": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:painting": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4286546,
+          18.1196119
+        ]
+      },
+      "id": "node/7002721378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243907164",
+        "name": "arvindh bike point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5026708,
+          17.3967828
+        ]
+      },
+      "id": "node/7243907164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243990076",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.508595,
+          17.4160617
+        ]
+      },
+      "id": "node/7243990076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244009093",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5085031,
+          17.4162032
+        ]
+      },
+      "id": "node/7244009093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244019234",
+        "addr:city": "Vanasthalipuram hyderabad",
+        "addr:postcode": "500070",
+        "addr:street": "Kamalanagar",
+        "name": "Pavan bike point",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.581053,
+          17.3290985
+        ]
+      },
+      "id": "node/7244019234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244019237",
+        "addr:city": "Vanasthalipuram hyderabad",
+        "addr:housenumber": "P.no 72",
+        "addr:postcode": "500070",
+        "addr:street": "Bhulakshminagar Kamalanagar",
+        "brand": "SK Scooter Works",
+        "internet_access": "yes",
+        "name": "SK Scooter Works",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Shaik Moulana",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:insurance": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:painting": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "motorcycle_repair",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5824833,
+          17.3290861
+        ]
+      },
+      "id": "node/7244019237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244207447",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5752784,
+          17.3331157
+        ]
+      },
+      "id": "node/7244207447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244207448",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5748828,
+          17.3346236
+        ]
+      },
+      "id": "node/7244207448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244226222",
+        "name": "honda service center",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5767835,
+          17.4805701
+        ]
+      },
+      "id": "node/7244226222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244487820",
+        "name": "Sahu motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.435118,
+          17.3949365
+        ]
+      },
+      "id": "node/7244487820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246509868",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5090318,
+          17.4140852
+        ]
+      },
+      "id": "node/7246509868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7321313757",
+        "name": "Royal Enfield service center",
+        "operator": "Royal Enfield",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:phonepe": "yes",
+        "service:vehicle:alignment": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.474937,
+          17.479352
+        ]
+      },
+      "id": "node/7321313757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7331216050",
+        "addr:city": "Ajanur",
+        "addr:street": "Hosdurg - Panathur Road",
+        "name": "harsha workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1151489,
+          12.3459018
+        ]
+      },
+      "id": "node/7331216050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7361860517",
+        "name": "HAR COMMERCIAL KASARGOD",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9976947,
+          12.5109138
+        ]
+      },
+      "id": "node/7361860517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7361989189",
+        "name": "YAMAHA SERVICE CENTER",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0098842,
+          12.5167728
+        ]
+      },
+      "id": "node/7361989189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7370624245",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.15084,
+          15.2279649
+        ]
+      },
+      "id": "node/7370624245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7465593712",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3680797,
+          12.0414606
+        ]
+      },
+      "id": "node/7465593712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7477487540",
+        "name": "Bike Repairing Spot",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4612336,
+          12.1664528
+        ]
+      },
+      "id": "node/7477487540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7493936088",
+        "amenity": "bank",
+        "atm": "no",
+        "branch": "ayippuzha",
+        "brand": "Corporation Bank",
+        "level": "2",
+        "name": "Corporation Bank",
+        "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00",
+        "operator": "loan",
+        "service": "dealer;parts;repair;tyres",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.540872,
+          11.9869608
+        ]
+      },
+      "id": "node/7493936088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7493936092",
+        "brand": "Honda;KTM;Suzuki;Yamaha",
+        "opening_hours": "24/7; Mo-Sa 09:30-20:00",
+        "operator": "bike service repair",
+        "service": "dealer;parts;repair;tyres",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5503193,
+          11.9866295
+        ]
+      },
+      "id": "node/7493936092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7493936100",
+        "brand": "Honda;KTM;Suzuki;Yamaha",
+        "opening_hours": "24/7; Mo-Sa 10:00-20:00",
+        "operator": "bike service repair",
+        "service": "dealer;parts;repair;tyres",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5424709,
+          11.9902493
+        ]
+      },
+      "id": "node/7493936100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7507430478",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.332166,
+          11.9763243
+        ]
+      },
+      "id": "node/7507430478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528562254",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4997677,
+          11.7443597
+        ]
+      },
+      "id": "node/7528562254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528562278",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4980253,
+          11.7452257
+        ]
+      },
+      "id": "node/7528562278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7558282573",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3356586,
+          11.954478
+        ]
+      },
+      "id": "node/7558282573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7558445355",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3433615,
+          11.9541553
+        ]
+      },
+      "id": "node/7558445355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7746238076",
+        "addr:city": "Kandonthar",
+        "addr:postcode": "6706306",
+        "addr:street": "Pilathara - Mathamangalam",
+        "payment:cash": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2917938,
+          12.1144817
+        ]
+      },
+      "id": "node/7746238076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7775569092",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0408781,
+          12.3925528
+        ]
+      },
+      "id": "node/7775569092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843600999",
+        "name": "Puncture Shop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6123761,
+          13.0010985
+        ]
+      },
+      "id": "node/7843600999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7992650129",
+        "addr:city": "Muttil PO",
+        "addr:postcode": "673122",
+        "addr:street": "Muttil",
+        "name": "K V R Bajaj",
+        "name:ml": "കെ.വി.ആർബജാജ്",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1124311,
+          11.6437682
+        ]
+      },
+      "id": "node/7992650129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8041890297",
+        "addr:postcode": "500039",
+        "addr:street": "SuryaNagar Colony Road",
+        "name": "Bajaj Service Centre",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5617122,
+          17.3973083
+        ]
+      },
+      "id": "node/8041890297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8113812653",
+        "addr:city": "Hyderabad",
+        "addr:postcode": "500018",
+        "addr:street": "Sanathnagar",
+        "name": "Surya motor works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4434478,
+          17.4510022
+        ]
+      },
+      "id": "node/8113812653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8113864029",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5268347,
+          17.3649297
+        ]
+      },
+      "id": "node/8113864029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262061055",
+        "addr:street": "kuruva road,rice mill",
+        "cash_withdrawal": "cash",
+        "operator:type": "private",
+        "service": "repair;parts",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3927024,
+          11.8551325
+        ]
+      },
+      "id": "node/8262061055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262061059",
+        "cash_withdrawal": "cash",
+        "opening_hours": "Mo-Sa 09:15-13:00,14:15-17:30; Sa 09:00-17:00; PH closed",
+        "operator:type": "private",
+        "service": "repair",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3906759,
+          11.8565146
+        ]
+      },
+      "id": "node/8262061059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8268169635",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.410446,
+          11.8533221
+        ]
+      },
+      "id": "node/8268169635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8292383422",
+        "addr:city": "Cherupuzha",
+        "addr:housenumber": "VIBGYOR Spray Painting",
+        "addr:street": "Therthalli-Cherupuzha Road",
+        "description": "Shop",
+        "name": "VIBGYOR Spray Painting",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3966943,
+          12.2240254
+        ]
+      },
+      "id": "node/8292383422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8317274477",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3380125,
+          12.0584224
+        ]
+      },
+      "id": "node/8317274477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8361978897",
+        "name": "PowerZone bike repair shop",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5784641,
+          13.0687061
+        ]
+      },
+      "id": "node/8361978897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389341309",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5782418,
+          17.4132873
+        ]
+      },
+      "id": "node/8389341309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8527987124",
+        "name": "Karnataka Auto Works",
+        "name:kn": "ಕರ್ನಾಟಕ ಆಟೊ ವರ್ಕ್ಸ್",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.165546,
+          13.4097105
+        ]
+      },
+      "id": "node/8527987124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8540417945",
+        "name": "TVS Motors Sevice Centre",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "operator": "TVS Motors",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:oil_change": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5417641,
+          13.0087341
+        ]
+      },
+      "id": "node/8540417945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739574815",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4842205,
+          17.4642292
+        ]
+      },
+      "id": "node/8739574815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8765311990",
+        "addr:postcode": "670011",
+        "name": "Elroi",
+        "phone": "+91 956216988",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3637601,
+          11.9087567
+        ]
+      },
+      "id": "node/8765311990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8788206237",
+        "name": "Yashna Automobiles Royal Enfield workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.224218,
+          12.1058962
+        ]
+      },
+      "id": "node/8788206237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8789558464",
+        "name": "Friends Two Wheeler Workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2658837,
+          12.0781779
+        ]
+      },
+      "id": "node/8789558464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8792454820",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1626378,
+          12.2178368
+        ]
+      },
+      "id": "node/8792454820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8808351075",
+        "name": "Flying Wheel Two Wheeler Work Shop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2037736,
+          12.1080609
+        ]
+      },
+      "id": "node/8808351075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8808358316",
+        "name": "SA Two Wheeler Workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2030237,
+          12.1080264
+        ]
+      },
+      "id": "node/8808358316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8835922667",
+        "addr:city": "adoor",
+        "addr:postcode": "670621",
+        "addr:street": "Kannur-Kuthuparamba Road",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4390425,
+          11.8405934
+        ]
+      },
+      "id": "node/8835922667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8917315458",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5279717,
+          13.6399127
+        ]
+      },
+      "id": "node/8917315458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8918316817",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5664883,
+          13.649939
+        ]
+      },
+      "id": "node/8918316817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9094496022",
+        "name": "RK",
+        "shop": "motorcycle_repair",
+        "survey:date": "2021-09-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6291638,
+          11.6016111
+        ]
+      },
+      "id": "node/9094496022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9524664154",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5319386,
+          11.7483922
+        ]
+      },
+      "id": "node/9524664154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538841808",
+        "name": "Timmasandra Puncture",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5621004,
+          13.3203114
+        ]
+      },
+      "id": "node/9538841808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9597005418",
+        "name": "Bismillah",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0318066,
+          12.4001576
+        ]
+      },
+      "id": "node/9597005418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9781346104",
+        "name": "mavval",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0463262,
+          12.4077142
+        ]
+      },
+      "id": "node/9781346104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9782203981",
+        "name": "ZOOMOL",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0992133,
+          12.5089754
+        ]
+      },
+      "id": "node/9782203981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9783073972",
+        "name": "Workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0532887,
+          12.5091372
+        ]
+      },
+      "id": "node/9783073972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785769491",
+        "name": "delli bullet",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0633749,
+          12.3633346
+        ]
+      },
+      "id": "node/9785769491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785858257",
+        "name": "New Puna Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0265635,
+          12.5130893
+        ]
+      },
+      "id": "node/9785858257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785883577",
+        "name": "Riders Garage",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0220273,
+          12.5154484
+        ]
+      },
+      "id": "node/9785883577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785893590",
+        "name": "kgn",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.050502,
+          12.3800916
+        ]
+      },
+      "id": "node/9785893590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788442641",
+        "name": "Kick Start Motorcycles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0915663,
+          12.3296886
+        ]
+      },
+      "id": "node/9788442641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9788651388",
+        "name": "two wheeler",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0719529,
+          12.5354146
+        ]
+      },
+      "id": "node/9788651388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9789628372",
+        "addr:city": "Panalam",
+        "addr:street": "Kasargod-Kannur-Calicut Highway",
+        "name": "NEW PUNA AUTO WORKS",
+        "phone": "+91-9645378678",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0268326,
+          12.5129504
+        ]
+      },
+      "id": "node/9789628372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9790633279",
+        "name": "workshop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0748599,
+          12.5831686
+        ]
+      },
+      "id": "node/9790633279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9790633283",
+        "name": "m.h mechanic",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0747331,
+          12.5831831
+        ]
+      },
+      "id": "node/9790633283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9816896527",
+        "addr:city": "Supe",
+        "addr:postcode": "412204",
+        "addr:street": "Songaon Shendre Road",
+        "name": "Sai Auto Garage",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Thorat Brother",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "service:vehicle:bike_accessories": "yes",
+        "service:vehicle:oil_change": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3750519,
+          18.3368897
+        ]
+      },
+      "id": "node/9816896527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9819692863",
+        "name": "Tansi Honda",
+        "operator": "Hero",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.701662,
+          12.9375213
+        ]
+      },
+      "id": "node/9819692863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9842001438",
+        "name": "M. A. H. Bike Care",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6949793,
+          12.9263733
+        ]
+      },
+      "id": "node/9842001438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9977771298",
+        "name": "Citizens Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7221235,
+          12.9590664
+        ]
+      },
+      "id": "node/9977771298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10036648118",
+        "name": "H.K.G.N Bike Mechanic",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6229374,
+          12.9425012
+        ]
+      },
+      "id": "node/10036648118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10111497269",
+        "name": "Sri Manjunatha 2 Wheeler Repair",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6298416,
+          12.9355706
+        ]
+      },
+      "id": "node/10111497269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130333822",
+        "name": "Star",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6652891,
+          12.9225987
+        ]
+      },
+      "id": "node/10130333822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239370070",
+        "check_date": "2025-07-12",
+        "level": "0",
+        "name": "Jai Ambey Automobiles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7499548,
+          12.9687063
+        ]
+      },
+      "id": "node/10239370070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279266088",
+        "addr:city": "Hyderabad",
+        "addr:street": "matha nagar",
+        "name": "Gem Suzuki Service Center",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4553754,
+          17.4242071
+        ]
+      },
+      "id": "node/10279266088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10571038248",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "No 2",
+        "addr:postcode": "560026",
+        "addr:street": "Timberyard Layout Feather Lite Compound, Mysore Road",
+        "branch": "Big Wing Service Topline",
+        "brand": "Honda",
+        "name": "Honda Big Wing Service Topline",
+        "not:brand:wikidata": "Q9584",
+        "opening_hours": "Mo-Su 09:30-18:30",
+        "phone": "09844564832",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5448794,
+          12.9546654
+        ]
+      },
+      "id": "node/10571038248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10821172622",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5552524,
+          17.3479057
+        ]
+      },
+      "id": "node/10821172622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10823778379",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.405549,
+          12.130958
+        ]
+      },
+      "id": "node/10823778379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034195148",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.634399,
+          13.8221125
+        ]
+      },
+      "id": "node/11034195148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11178146174",
+        "check_date": "2023-09-09",
+        "name": "Babu Scooter Service",
+        "name:en": "Babu Scooter Service",
+        "phone": "+91 94480 58846",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5653861,
+          12.9585988
+        ]
+      },
+      "id": "node/11178146174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11178186968",
+        "check_date": "2023-09-09",
+        "name": "KN Bike Zone",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563759,
+          12.9587575
+        ]
+      },
+      "id": "node/11178186968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11208460089",
+        "addr:street": "Ambajogai-Latur Road",
+        "name": "Hero Honda Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5651783,
+          18.4029414
+        ]
+      },
+      "id": "node/11208460089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11245879104",
+        "addr:postcode": "560062",
+        "air_conditioning": "no",
+        "check_date": "2023-10-13",
+        "currency:INR": "yes",
+        "internet_access": "no",
+        "name": "Sashi Two Wheeler Mechanic",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5429349,
+          12.8616583
+        ]
+      },
+      "id": "node/11245879104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11245927018",
+        "name": "KM Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5431285,
+          12.8624194
+        ]
+      },
+      "id": "node/11245927018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278960372",
+        "name": "Shri Chennakeshavaswamy Auto Works & Services",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1135605,
+          13.0189954
+        ]
+      },
+      "id": "node/11278960372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278960384",
+        "name": "Sri Beeralingeshwara Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1132438,
+          13.0183106
+        ]
+      },
+      "id": "node/11278960384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278960430",
+        "name": "Asian Autoworks & Auto Mobiles",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1117766,
+          13.0156097
+        ]
+      },
+      "id": "node/11278960430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278960435",
+        "name": "Sri Lakshmi Ranganatha Autoworks",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.111874,
+          13.0151878
+        ]
+      },
+      "id": "node/11278960435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278960491",
+        "name": "Naveen Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1106327,
+          13.0103219
+        ]
+      },
+      "id": "node/11278960491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278960526",
+        "name": "Suraj Auto Center",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1093787,
+          13.0081286
+        ]
+      },
+      "id": "node/11278960526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350238360",
+        "name": "S.L.V Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1145928,
+          13.0149222
+        ]
+      },
+      "id": "node/11350238360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350292789",
+        "name": "Zabi Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1119192,
+          13.0094313
+        ]
+      },
+      "id": "node/11350292789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11361165702",
+        "addr:city": "Kukatpally",
+        "addr:district": "Hyderabad",
+        "addr:housenumber": "F9VM+5PV",
+        "addr:postcode": "500085",
+        "addr:street": "Satyanarayana Swamy Colony",
+        "brand": "All Brands can be repaired",
+        "name": "Raju Bike and Scooter Repairs",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Raju",
+        "payment:cash": "yes",
+        "payment:upi": "yes",
+        "service:bicycle:repair": "yes",
+        "service:vehicle:repairs": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3843214,
+          17.4929436
+        ]
+      },
+      "id": "node/11361165702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368235783",
+        "name": "Friends Autoworks",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1093396,
+          13.0049561
+        ]
+      },
+      "id": "node/11368235783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368235812",
+        "name": "Sri Laxmi Autoworks",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1095211,
+          13.006268
+        ]
+      },
+      "id": "node/11368235812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11375774399",
+        "name": "Sri Lakshmi Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1139073,
+          13.0097448
+        ]
+      },
+      "id": "node/11375774399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11375774435",
+        "name": "Bharath Motor Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1136319,
+          13.0087933
+        ]
+      },
+      "id": "node/11375774435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11390119163",
+        "name": "Shri Manjunatha Motor Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1128419,
+          13.0057763
+        ]
+      },
+      "id": "node/11390119163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11445452513",
+        "check_date": "2023-12-23",
+        "name": "Yash Bikes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5630859,
+          13.0221394
+        ]
+      },
+      "id": "node/11445452513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11445661030",
+        "check_date": "2023-12-23",
+        "name": "BK Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5776922,
+          13.0949754
+        ]
+      },
+      "id": "node/11445661030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11465490461",
+        "check_date": "2023-12-29",
+        "internet_access": "no",
+        "name": "KGN Bike Garage and Puncture Shop",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:paytm": "yes",
+        "payment:upi": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:transmission": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:tyres_repair": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.529387,
+          12.8610503
+        ]
+      },
+      "id": "node/11465490461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11465490463",
+        "check_date": "2023-12-29",
+        "internet_access": "no",
+        "name": "Eswari Motors",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:paytm": "yes",
+        "payment:upi": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:collision_repair": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:repair": "yes",
+        "service:vehicle:servicing": "yes",
+        "service:vehicle:transmission": "yes",
+        "service:vehicle:tyres": "yes",
+        "service:vehicle:tyres_repair": "yes",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5294612,
+          12.8611864
+        ]
+      },
+      "id": "node/11465490463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513308780",
+        "addr:city": "Dalaj No. 3",
+        "addr:district": "Pune",
+        "addr:postcode": "413132",
+        "addr:street": "Pune Solapur Highway",
+        "phone": "+919370936100",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8253261,
+          18.2262094
+        ]
+      },
+      "id": "node/11513308780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11659385836",
+        "check_date": "2024-02-24",
+        "internet_access": "no",
+        "name": "Royal Dealing Office",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6228357,
+          12.9735962
+        ]
+      },
+      "id": "node/11659385836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11683480459",
+        "check_date": "2024-03-02",
+        "description": "BTM 2nd stage",
+        "internet_access": "no",
+        "name": "Royal Enfield Service Centre",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 79960 00040",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6115665,
+          12.9053681
+        ]
+      },
+      "id": "node/11683480459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11690784190",
+        "name": "michelin tyres and services",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5442878,
+          17.3593576
+        ]
+      },
+      "id": "node/11690784190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11691070534",
+        "name": "TK Bikes den",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.550367,
+          17.4727587
+        ]
+      },
+      "id": "node/11691070534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11708703069",
+        "check_date": "2024-03-09",
+        "internet_access": "no",
+        "name": "TVS Service & Parts",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "motorcycle_repair",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6290909,
+          12.9792906
+        ]
+      },
+      "id": "node/11708703069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11826962962",
+        "name": "J. B. I. Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7334476,
+          12.9661053
+        ]
+      },
+      "id": "node/11826962962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11865297785",
+        "check_date": "2024-04-29",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8406865,
+          14.625449
+        ]
+      },
+      "id": "node/11865297785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11897945039",
+        "check_date": "2024-05-12",
+        "name": "Sai Shakthi Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693026,
+          13.00691
+        ]
+      },
+      "id": "node/11897945039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11898054704",
+        "check_date": "2024-05-12",
+        "name": "Karnataka Bike Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5326378,
+          12.9563776
+        ]
+      },
+      "id": "node/11898054704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11917222412",
+        "check_date": "2024-05-19",
+        "name": "Motorizer",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6416016,
+          13.038891
+        ]
+      },
+      "id": "node/11917222412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11949303463",
+        "air_conditioning": "no",
+        "check_date": "2024-06-01",
+        "name": "Fast Tri Motors",
+        "phone": "+91 99725 27009",
+        "shop": "motorcycle_repair",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5916852,
+          13.0583301
+        ]
+      },
+      "id": "node/11949303463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11949307840",
+        "check_date": "2024-06-01",
+        "name": "Dream Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5902182,
+          13.057495
+        ]
+      },
+      "id": "node/11949307840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11962917596",
+        "addr:city": "Bangalore",
+        "addr:district": "Bengaluru Urban",
+        "name": "Delhi Garage Performance Racing",
+        "operator": "Salman Khan",
+        "phone": "+91-9901188786",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.633496,
+          13.0208962
+        ]
+      },
+      "id": "node/11962917596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12033486748",
+        "name": "Sri Ayyappa Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.589486,
+          12.9010779
+        ]
+      },
+      "id": "node/12033486748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12112238201",
+        "addr:postcode": "500039",
+        "addr:street": "HMDA layout",
+        "name": "Electric vehicles services centre",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5480125,
+          17.3904648
+        ]
+      },
+      "id": "node/12112238201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12112241501",
+        "addr:street": "Ramkote Rd",
+        "name": "Jas Ev",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4888209,
+          17.3922347
+        ]
+      },
+      "id": "node/12112241501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12209237277",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7006733,
+          12.9725127
+        ]
+      },
+      "id": "node/12209237277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12225535065",
+        "name": "Silicon Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5996541,
+          13.102155
+        ]
+      },
+      "id": "node/12225535065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12225535068",
+        "name": "Silicon Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5995324,
+          13.1016527
+        ]
+      },
+      "id": "node/12225535068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12231720790",
+        "name": "Shameer Bike center",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7906265,
+          12.8599417
+        ]
+      },
+      "id": "node/12231720790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12231720796",
+        "name": "Ramu Scooter Clinic",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7898898,
+          12.8597978
+        ]
+      },
+      "id": "node/12231720796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12265289951",
+        "check_date": "2024-10-19",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5926681,
+          13.1049954
+        ]
+      },
+      "id": "node/12265289951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12366541796",
+        "check_date": "2024-11-23",
+        "name": "Sri Ishnavi Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6510637,
+          12.9724274
+        ]
+      },
+      "id": "node/12366541796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12588048613",
+        "check_date": "2025-02-14",
+        "name": "SL Bike Service Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7533353,
+          12.9458019
+        ]
+      },
+      "id": "node/12588048613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12588048617",
+        "check_date": "2025-02-14",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7584618,
+          12.9338344
+        ]
+      },
+      "id": "node/12588048617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12617717669",
+        "check_date": "2025-06-28",
+        "name": "Bullet Service Center",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7474808,
+          12.9378186
+        ]
+      },
+      "id": "node/12617717669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12617717687",
+        "check_date": "2025-06-28",
+        "name": "Madeena Garage And Water Service",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7491892,
+          12.9372502
+        ]
+      },
+      "id": "node/12617717687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12618414861",
+        "check_date": "2025-09-07",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7469152,
+          12.9378201
+        ]
+      },
+      "id": "node/12618414861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12698656001",
+        "name": "ZBikes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3750984,
+          11.8764555
+        ]
+      },
+      "id": "node/12698656001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12714938777",
+        "check_date": "2025-03-31",
+        "name": "Bike Service Center",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7391303,
+          12.9568717
+        ]
+      },
+      "id": "node/12714938777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12731411405",
+        "check_date": "2025-07-20",
+        "contact:phone": "+91 97390 77220; +91 74835 75212",
+        "name": "Kaveri Garage",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7471712,
+          12.9441749
+        ]
+      },
+      "id": "node/12731411405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12737935764",
+        "brand": "Honda",
+        "brand:wikidata": "Q9584",
+        "check_date": "2025-04-07",
+        "name": "Honda",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1270058,
+          15.337493
+        ]
+      },
+      "id": "node/12737935764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12749292290",
+        "check_date": "2025-04-12",
+        "name": "CH Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.782939,
+          12.8610486
+        ]
+      },
+      "id": "node/12749292290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12766655521",
+        "check_date": "2025-04-19",
+        "name": "FN Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5544631,
+          13.0682653
+        ]
+      },
+      "id": "node/12766655521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12766655525",
+        "check_date": "2025-04-19",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5545057,
+          13.0683883
+        ]
+      },
+      "id": "node/12766655525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12808851956",
+        "check_date": "2025-05-04",
+        "name": "Honda",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5630956,
+          13.0088314
+        ]
+      },
+      "id": "node/12808851956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12854642106",
+        "name": "Baqar Bike Mechanic",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4631353,
+          17.4198099
+        ]
+      },
+      "id": "node/12854642106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12915012979",
+        "check_date": "2025-08-17",
+        "name": "Bismillah Motor Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7468967,
+          12.9444737
+        ]
+      },
+      "id": "node/12915012979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12941883829",
+        "check_date": "2025-06-21",
+        "name": "Big Bear Customs",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5946245,
+          12.9103658
+        ]
+      },
+      "id": "node/12941883829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12941883832",
+        "check_date": "2025-06-21",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5937162,
+          12.9103017
+        ]
+      },
+      "id": "node/12941883832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12941883838",
+        "check_date": "2025-06-21",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5919875,
+          12.9104027
+        ]
+      },
+      "id": "node/12941883838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12965816401",
+        "addr:housenumber": "93/1",
+        "addr:street": "Halasahalli Road",
+        "check_date": "2025-08-09",
+        "contact:phone": "+91 91412 84941; +91 99013 44042",
+        "level": "0",
+        "name": "HKGN Motor Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.747716,
+          12.9375274
+        ]
+      },
+      "id": "node/12965816401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12979358719",
+        "check_date": "2026-02-05",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.749386,
+          12.9676765
+        ]
+      },
+      "id": "node/12979358719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12981491764",
+        "check_date": "2025-07-06",
+        "name": "G. K. B Indian Bikes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7114144,
+          12.9790577
+        ]
+      },
+      "id": "node/12981491764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12997727444",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2436001,
+          12.3675714
+        ]
+      },
+      "id": "node/12997727444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13116059773",
+        "addr:street": "1st A Cross Road",
+        "name": "Bike garage",
+        "payment:cash": "yes",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6934867,
+          12.9685368
+        ]
+      },
+      "id": "node/13116059773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13116065415",
+        "addr:street": "1st A Cross Road",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6935051,
+          12.9683478
+        ]
+      },
+      "id": "node/13116065415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13259525668",
+        "name": "Indian Garage",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5755103,
+          12.8764048
+        ]
+      },
+      "id": "node/13259525668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13289040181",
+        "check_date": "2025-11-08",
+        "name": "K. A. Mani Auto Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6577057,
+          12.959105
+        ]
+      },
+      "id": "node/13289040181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13369516391",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3186511,
+          14.5501012
+        ]
+      },
+      "id": "node/13369516391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13389987865",
+        "check_date": "2025-12-20",
+        "name": "Skanda Motors",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5425661,
+          12.9965874
+        ]
+      },
+      "id": "node/13389987865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13389999383",
+        "check_date": "2025-12-20",
+        "name": "Sri Durga Bike Point",
+        "phone": "+91 84312 88283; +91 90088 26068",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5424335,
+          12.9966128
+        ]
+      },
+      "id": "node/13389999383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13408774266",
+        "check_date": "2025-12-26",
+        "name": "Bharath Garage and Services",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.659596,
+          12.958782
+        ]
+      },
+      "id": "node/13408774266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13435772119",
+        "name": "Mehboob Garage (Royal Enfield)",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940958,
+          13.0048671
+        ]
+      },
+      "id": "node/13435772119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13436163587",
+        "addr:city": "Bangalore",
+        "addr:postcode": "560066",
+        "addr:street": "Pattandur Agrahara Hatti Road",
+        "name": "Cycle Repair Shop",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7344522,
+          12.9809557
+        ]
+      },
+      "id": "node/13436163587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13436947580",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.396233,
+          17.3653071
+        ]
+      },
+      "id": "node/13436947580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13445387524",
+        "name": "MS Bike Point",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8131926,
+          14.1480412
+        ]
+      },
+      "id": "node/13445387524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13536912466",
+        "check_date": "2026-02-09",
+        "name": "Meter Works",
+        "shop": "motorcycle_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.487197,
+          17.4268545
+        ]
+      },
+      "id": "node/13536912466"
+    }
+  ]
+}
